@@ -27,7 +27,9 @@ software for our life will again increase significantly.
 Bug in above software-intense systems can have catastrophic consequences
 Quality is under no circumstances negotiable in these kinds of systems - **Never!**
 
-### Different levels of quality assurance measures in software development projects
+## Different levels of quality assurance measures in software development projects
+These levels are often visualized in the form of a pyramid – the so-called **`Test Pyramid`**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjIwNzM0OSwtMTUxNzQ3MDY2M119
+eyJoaXN0b3J5IjpbLTk0NzkyMDU0OCwtMTUxNzQ3MDY2M119
 -->
