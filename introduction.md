@@ -67,7 +67,8 @@ Is software quality a sole concern of the quality assurance department?
 - QA is  second safety net
 
 ### How to write production code  for the unit test code?
+**`Be Principled`**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njk5Mzk0MTMsMjEwMjQxMjgyMCw1Nz
-c4MjM3MDUsLTk0NzkyMDU0OCwtMTUxNzQ3MDY2M119
+eyJoaXN0b3J5IjpbMTIyOTU1MDE0NCwyMTAyNDEyODIwLDU3Nz
+gyMzcwNSwtOTQ3OTIwNTQ4LC0xNTE3NDcwNjYzXX0=
 -->
