@@ -14,6 +14,7 @@ function just take a few hours or a couple of days – and not weeks or months
 	- Each year, development organizations lose a lot of money because
 their code is in bad shape
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc0NzA2NjNdfQ==
+eyJoaXN0b3J5IjpbLTI2MTgwODA4OSwtMTUxNzQ3MDY2M119
 -->
