@@ -75,7 +75,9 @@ Is software quality a sole concern of the quality assurance department?
 - KISS
 - YAGNI
 - DRY
+	- Copy and paste is a design error
+	- Referred to as “Once And Only Once” (OAOO).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjIwODg2NDcsMjEwMjQxMjgyMCw1Nz
-c4MjM3MDUsLTk0NzkyMDU0OCwtMTUxNzQ3MDY2M119
+eyJoaXN0b3J5IjpbLTU1MDk0OTQwLDIxMDI0MTI4MjAsNTc3OD
+IzNzA1LC05NDc5MjA1NDgsLTE1MTc0NzA2NjNdfQ==
 -->
