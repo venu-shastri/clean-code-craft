@@ -81,11 +81,15 @@ Is software quality a sole concern of the quality assurance department?
 	- Referred to as “Once And Only Once” (OAOO).
 - Information Hiding
 	- The principle states that one piece of code that calls another piece of code should not know internals about that other piece of code.
-	- information hiding as the basic principle for decomposing systems into
-modules
+	- information hiding is the basic principle for decomposing systems into modules
+	- advantages of information hiding:
+		- Limitation of the consequences of changes in modules
+		- Minimal influence on other modules if a bug fix is necessary
+		- Significantly increasing the reusability of modules
+		-  Better testability of modules
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjAwNDE3MSwtNTUwOTQ5NDAsMjEwMj
-QxMjgyMCw1Nzc4MjM3MDUsLTk0NzkyMDU0OCwtMTUxNzQ3MDY2
-M119
+eyJoaXN0b3J5IjpbLTE5ODU0MzgyMTksLTU1MDk0OTQwLDIxMD
+I0MTI4MjAsNTc3ODIzNzA1LC05NDc5MjA1NDgsLTE1MTc0NzA2
+NjNdfQ==
 -->
