@@ -38,7 +38,9 @@ These levels are often visualized in the form of a pyramid – the so-called **`
 > if a test on a system level fails, the exact cause of the error can be difficult to locate
 
 Unfortunately, in several software development projects we will  find **`degenerated Test Pyramids`**
+- **Ice Cream Cone Anti-Pattern** - Enormous effort is put into the tests on the higher level, whereas the elementary unit tests are neglected .
+- **Cup Cake Anti-Pattern**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQwMzEyMjQsNTc3ODIzNzA1LC05ND
-c5MjA1NDgsLTE1MTc0NzA2NjNdfQ==
+eyJoaXN0b3J5IjpbLTU3MjYzMTQ1OSw1Nzc4MjM3MDUsLTk0Nz
+kyMDU0OCwtMTUxNzQ3MDY2M119
 -->
