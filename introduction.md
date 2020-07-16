@@ -19,10 +19,13 @@ their code is in bad shape
 - Board an elevator, we give our lives are in the hands of software.
 -  Aircrafts are controlled by software, and the entire, worldwide air traffic control system depends on software.
 -  Modern cars contain a significant amount of small computer systems with software that communicate over a network, responsible for many safety-critical functions of the vehicle. Air conditioning, automatic doors.
--  medical devices, trains, automated production lines in factories … No matter what we’re doing nowadays, we permanently come
-into touch with software. And with the Digital Revolution and the Internet of Things (IoT), the relevance of
-software for our life will again increase significantly. Hardly any other topic is this more evident than with
-the autonomous (driverless) car.
+-  medical devices, trains, automated production lines in factories 
+-  Digital Revolution and the Internet of Things (IoT), the relevance of
+software for our life will again increase significantly.
+- The autonomous (driverless) car.
+
+Bug in above software-intense systems can have catastrophic consequences
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzQ3NjcyNiwtMTUxNzQ3MDY2M119
+eyJoaXN0b3J5IjpbNjc1ODI1NjcxLC0xNTE3NDcwNjYzXX0=
 -->
