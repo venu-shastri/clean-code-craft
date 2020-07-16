@@ -44,9 +44,8 @@ Unfortunately, in several software development projects we will  find **`degener
 ![enter image description here](https://github.com/venu-shastri/clean-code-craft/blob/master/images/DegeneratedTestAntipatterns.PNG)
 
 ### How to  ensure High Quality of a Software System
->A broad base of inexpensive, well-crafted, very fast, regularly maintained, and fully automated unit tests, supported by a selection of useful component tests, can be a solid foundation to ensure
-a pretty high quality of a software system.
+>A broad base of **`inexpensive, well-crafted, very fast, regularly maintained, and fully automated unit tests, supported by a selection of useful component tests`**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4MjYxMzY1LDU3NzgyMzcwNSwtOTQ3OT
-IwNTQ4LC0xNTE3NDcwNjYzXX0=
+eyJoaXN0b3J5IjpbMjEwMjQxMjgyMCw1Nzc4MjM3MDUsLTk0Nz
+kyMDU0OCwtMTUxNzQ3MDY2M119
 -->
