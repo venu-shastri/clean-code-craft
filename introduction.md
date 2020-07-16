@@ -32,9 +32,12 @@ These levels are often visualized in the form of a pyramid – the so-called **`
 
 ![testpyramid](https://github.com/venu-shastri/clean-code-craft/blob/master/images/testpyramid.PNG)
 
->Experience has shown that the total costs regarding implementation and maintenance of tests are increasing toward the top of the pyramid. Large system tests and manual user acceptance tests are usually complex, often require extensive organization, and cannot be automated easily.
+>Experience has shown that the total costs regarding implementation and maintenance of tests are increasing toward the top of the pyramid.
+> Large system tests and manual user acceptance tests are usually complex, often require extensive organization, and cannot be automated easily.
+> large system tests, or UI-driven tests, are totally improper to check all possible paths of execution through the whole system . 
+> if a test on a system level fails, the exact cause of the error can be difficult to locate
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTAyOTYwMSw1Nzc4MjM3MDUsLTk0Nz
+eyJoaXN0b3J5IjpbLTM4MDkyNDc4Myw1Nzc4MjM3MDUsLTk0Nz
 kyMDU0OCwtMTUxNzQ3MDY2M119
 -->
