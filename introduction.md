@@ -57,8 +57,10 @@ Unfortunately, in several software development projects we will  find **`degener
 	- Unit tests are a kind of executable documentation because they show exactly how the code is designed to be used
 	- Unit tests can easily detect regressions, that is, they can immediately show things that used to work, but have unexpectedly stopped working after a change in the code was made.
 
+#### What about QA?
+
 ### How to write unit  testable  Code ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTczNzU1MywyMTAyNDEyODIwLDU3Nz
+eyJoaXN0b3J5IjpbMTY5MDQxMDg3NywyMTAyNDEyODIwLDU3Nz
 gyMzcwNSwtOTQ3OTIwNTQ4LC0xNTE3NDcwNjYzXX0=
 -->
