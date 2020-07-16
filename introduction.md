@@ -45,7 +45,9 @@ Unfortunately, in several software development projects we will  find **`degener
 
 ### How to  ensure High Quality of a Software System
 >A broad base of **`inexpensive, well-crafted, very fast, regularly maintained, and fully automated unit tests, supported by a selection of useful component tests`**.
+
+### How to write unit  testable  Code ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjQxMjgyMCw1Nzc4MjM3MDUsLTk0Nz
-kyMDU0OCwtMTUxNzQ3MDY2M119
+eyJoaXN0b3J5IjpbLTE0MzQ4NjU3NzcsMjEwMjQxMjgyMCw1Nz
+c4MjM3MDUsLTk0NzkyMDU0OCwtMTUxNzQ3MDY2M119
 -->
