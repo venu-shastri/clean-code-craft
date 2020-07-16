@@ -61,8 +61,12 @@ Unfortunately, in several software development projects we will  find **`degener
 A developer  attitude: **`Why should I test my software? We have testers and a QA department, it’s their job`**
 
 Is software quality a sole concern of the quality assurance department?
+
+**`I’ve said this before, and I’ll say it again. Despite the fact that your company may have a separate QA group to test the software, it should be the goal of the development group that QA find nothing wrong`**.
+—Robert C. Martin, The Clean Coder [Martin11]
+
 ### How to write unit  testable  Code ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDk3MzM0OSwyMTAyNDEyODIwLDU3Nz
-gyMzcwNSwtOTQ3OTIwNTQ4LC0xNTE3NDcwNjYzXX0=
+eyJoaXN0b3J5IjpbLTIwMzU3NjI1MTMsMjEwMjQxMjgyMCw1Nz
+c4MjM3MDUsLTk0NzkyMDU0OCwtMTUxNzQ3MDY2M119
 -->
