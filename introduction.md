@@ -89,9 +89,11 @@ Is software quality a sole concern of the quality assurance department?
 		-  Better testability of modules
 - Strong Cohesion
 - Loose Coupling
+- Optimizations
+- Principle of Least Astonishment (PLA)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjQ4NTA0NSwtMTk4NTQzODIxOSwtNT
-UwOTQ5NDAsMjEwMjQxMjgyMCw1Nzc4MjM3MDUsLTk0NzkyMDU0
-OCwtMTUxNzQ3MDY2M119
+eyJoaXN0b3J5IjpbNTM5MTI3Mzg0LC0xOTg1NDM4MjE5LC01NT
+A5NDk0MCwyMTAyNDEyODIwLDU3NzgyMzcwNSwtOTQ3OTIwNTQ4
+LC0xNTE3NDcwNjYzXX0=
 -->
