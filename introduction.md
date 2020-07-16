@@ -79,8 +79,13 @@ Is software quality a sole concern of the quality assurance department?
 - DRY
 	- Copy and paste is a design error
 	- Referred to as “Once And Only Once” (OAOO).
+- Information Hiding
+	- The principle states that one piece of code that calls another piece of code should not know internals about that other piece of code.
+	- information hiding as the basic principle for decomposing systems into
+modules
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjU2NzgxNywtNTUwOTQ5NDAsMjEwMj
+eyJoaXN0b3J5IjpbLTUxMjAwNDE3MSwtNTUwOTQ5NDAsMjEwMj
 QxMjgyMCw1Nzc4MjM3MDUsLTk0NzkyMDU0OCwtMTUxNzQ3MDY2
 M119
 -->
