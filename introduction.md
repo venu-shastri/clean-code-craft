@@ -64,9 +64,10 @@ Is software quality a sole concern of the quality assurance department?
 
 **`I’ve said this before, and I’ll say it again. Despite the fact that your company may have a separate QA group to test the software, it should be the goal of the development group that QA find nothing wrong`**.
 —Robert C. Martin, The Clean Coder [Martin11]
+- QA is  second safety net
 
-### How to write unit  testable  Code ?
+### How to write production code  for the unit test code?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzU3NjI1MTMsMjEwMjQxMjgyMCw1Nz
+eyJoaXN0b3J5IjpbLTE5Njk5Mzk0MTMsMjEwMjQxMjgyMCw1Nz
 c4MjM3MDUsLTk0NzkyMDU0OCwtMTUxNzQ3MDY2M119
 -->
