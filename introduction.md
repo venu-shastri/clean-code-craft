@@ -71,7 +71,11 @@ Is software quality a sole concern of the quality assurance department?
 
 #### What Is a Principle?
 >A principle is a kind of rule, belief, or idea that guides you. Principles are often directly coupled to values or a value system
+
+- KISS
+- YAGNI
+- DRY
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1MDA1MTEsMjEwMjQxMjgyMCw1Nzc4Mj
-M3MDUsLTk0NzkyMDU0OCwtMTUxNzQ3MDY2M119
+eyJoaXN0b3J5IjpbLTExNjIwODg2NDcsMjEwMjQxMjgyMCw1Nz
+c4MjM3MDUsLTk0NzkyMDU0OCwtMTUxNzQ3MDY2M119
 -->
