@@ -30,9 +30,11 @@ Quality is under no circumstances negotiable in these kinds of systems - **Never
 ## Different levels of quality assurance measures in software development projects
 These levels are often visualized in the form of a pyramid – the so-called **`Test Pyramid`**
 
-![enter image description here](https://github.com/venu-shastri/clean-code-craft/blob/master/images/testpyramid.PNG)
+![testpyramid](https://github.com/venu-shastri/clean-code-craft/blob/master/images/testpyramid.PNG)
+
+>Experience has shown that the total costs regarding implementation and maintenance of tests are increasing toward the top of the pyramid. Large system tests and manual user acceptance tests are usually complex, often require extensive organization, and cannot be automated easily.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3ODIzNzA1LC05NDc5MjA1NDgsLTE1MT
-c0NzA2NjNdfQ==
+eyJoaXN0b3J5IjpbLTI0NTAyOTYwMSw1Nzc4MjM3MDUsLTk0Nz
+kyMDU0OCwtMTUxNzQ3MDY2M119
 -->
