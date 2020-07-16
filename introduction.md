@@ -25,7 +25,9 @@ software for our life will again increase significantly.
 - The autonomous (driverless) car.
 
 Bug in above software-intense systems can have catastrophic consequences
+Quality is under no circumstances negotiable in these kinds of systems - **Never!**
 
+### Different levels of quality assurance measures in software development projects
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1ODI1NjcxLC0xNTE3NDcwNjYzXX0=
+eyJoaXN0b3J5IjpbLTYzMjIwNzM0OSwtMTUxNzQ3MDY2M119
 -->
