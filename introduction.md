@@ -14,7 +14,8 @@ function just take a few hours or a couple of days – and not weeks or months
 	- Each year, development organizations lose a lot of money because
 their code is in bad shape
 
-
+### Why Code should be Bug Free 
+- There is no life today without software!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTgwODA4OSwtMTUxNzQ3MDY2M119
+eyJoaXN0b3J5IjpbNjE3Njc4MjQ0LC0xNTE3NDcwNjYzXX0=
 -->
