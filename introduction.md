@@ -53,10 +53,12 @@ Unfortunately, in several software development projects we will  find **`degener
 - Unit Test Advantages
 	- fixing bugs after software is shipped has been proven to be much more expensive than having unit tests in place
 	- Unit tests give an immediate feedback about your entire code base
-	- 
+	- A high coverage with unit tests can prevent time-consuming and frustrating debugging sessions
+	- Unit tests are a kind of executable documentation because they show exactly how the code is designed to be used
+	- Unit tests can easily detect regressions, that is, they can immediately show things that used to work, but have unexpectedly stopped working after a change in the code was made.
 
 ### How to write unit  testable  Code ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjkwNTc3NiwyMTAyNDEyODIwLDU3Nz
+eyJoaXN0b3J5IjpbMTM5MTczNzU1MywyMTAyNDEyODIwLDU3Nz
 gyMzcwNSwtOTQ3OTIwNTQ4LC0xNTE3NDcwNjYzXX0=
 -->
