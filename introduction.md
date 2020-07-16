@@ -58,9 +58,11 @@ Unfortunately, in several software development projects we will  find **`degener
 	- Unit tests can easily detect regressions, that is, they can immediately show things that used to work, but have unexpectedly stopped working after a change in the code was made.
 
 #### What about QA?
+A developer  attitude: **`Why should I test my software? We have testers and a QA department, it’s their job`**
 
+Is software quality a sole concern of the quality assurance department?
 ### How to write unit  testable  Code ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDQxMDg3NywyMTAyNDEyODIwLDU3Nz
+eyJoaXN0b3J5IjpbMTc0NDk3MzM0OSwyMTAyNDEyODIwLDU3Nz
 gyMzcwNSwtOTQ3OTIwNTQ4LC0xNTE3NDcwNjYzXX0=
 -->
