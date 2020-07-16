@@ -49,9 +49,10 @@ Unfortunately, in several software development projects we will  find **`degener
 ## Unit Test
 **`refactoring” without tests isn’t refactoring, it is just moving shit around`**.
 —Corey Haines (@coreyhaines), December 20, 2013, on Twitter
+- A unit test is a piece of code that executes a small part of your production code base in a particular context.
 
 ### How to write unit  testable  Code ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2NTgwMjEyLDIxMDI0MTI4MjAsNTc3OD
-IzNzA1LC05NDc5MjA1NDgsLTE1MTc0NzA2NjNdfQ==
+eyJoaXN0b3J5IjpbLTE4Nzk3MDg1MiwyMTAyNDEyODIwLDU3Nz
+gyMzcwNSwtOTQ3OTIwNTQ4LC0xNTE3NDcwNjYzXX0=
 -->
