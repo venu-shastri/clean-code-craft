@@ -11,7 +11,9 @@ function just take a few hours or a couple of days – and not weeks or months
 	- It leads to a stress-free life
 	- If code is clean and developer feeling comfortable with it,  keep calm in every situation, even in front of a tight project deadline.
 - Clean code saves money (economic efficiency)
+	- Each year, development organizations lose a lot of money because
+their code is in bad shape
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTUxNTQ3NTVdfQ==
+eyJoaXN0b3J5IjpbLTE1MTc0NzA2NjNdfQ==
 -->
