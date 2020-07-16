@@ -68,7 +68,9 @@ Is software quality a sole concern of the quality assurance department?
 
 ### How to write production code  for the unit test code?
 **`Be Principled`**
+
+#### What Is a Principle?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTU1MDE0NCwyMTAyNDEyODIwLDU3Nz
-gyMzcwNSwtOTQ3OTIwNTQ4LC0xNTE3NDcwNjYzXX0=
+eyJoaXN0b3J5IjpbNTgxMTg4OTg4LDIxMDI0MTI4MjAsNTc3OD
+IzNzA1LC05NDc5MjA1NDgsLTE1MTc0NzA2NjNdfQ==
 -->
