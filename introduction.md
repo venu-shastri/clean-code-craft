@@ -30,6 +30,9 @@ Quality is under no circumstances negotiable in these kinds of systems - **Never
 ## Different levels of quality assurance measures in software development projects
 These levels are often visualized in the form of a pyramid – the so-called **`Test Pyramid`**
 
+![enter image description here](https://github.com/venu-shastri/clean-code-craft/blob/master/images/testpyramid.PNG)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzkyMDU0OCwtMTUxNzQ3MDY2M119
+eyJoaXN0b3J5IjpbNTc3ODIzNzA1LC05NDc5MjA1NDgsLTE1MT
+c0NzA2NjNdfQ==
 -->
