@@ -50,9 +50,13 @@ Unfortunately, in several software development projects we will  find **`degener
 **`refactoring” without tests isn’t refactoring, it is just moving shit around`**.
 —Corey Haines (@coreyhaines), December 20, 2013, on Twitter
 - A unit test is a piece of code that executes a small part of your production code base in a particular context.
+- Unit Test Advantages
+	- fixing bugs after software is shipped has been proven to be much more expensive than having unit tests in place
+	- Unit tests give an immediate feedback about your entire code base
+	- 
 
 ### How to write unit  testable  Code ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzk3MDg1MiwyMTAyNDEyODIwLDU3Nz
+eyJoaXN0b3J5IjpbMTc1NjkwNTc3NiwyMTAyNDEyODIwLDU3Nz
 gyMzcwNSwtOTQ3OTIwNTQ4LC0xNTE3NDcwNjYzXX0=
 -->
