@@ -46,8 +46,12 @@ Unfortunately, in several software development projects we will  find **`degener
 ### How to  ensure High Quality of a Software System
 >A broad base of **`inexpensive, well-crafted, very fast, regularly maintained, and fully automated unit tests, supported by a selection of useful component tests`**.
 
+## Unit Test
+**`refactoring” without tests isn’t refactoring, it is just moving shit around`**.
+—Corey Haines (@coreyhaines), December 20, 2013, on Twitter
+
 ### How to write unit  testable  Code ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQ4NjU3NzcsMjEwMjQxMjgyMCw1Nz
-c4MjM3MDUsLTk0NzkyMDU0OCwtMTUxNzQ3MDY2M119
+eyJoaXN0b3J5IjpbOTk2NTgwMjEyLDIxMDI0MTI4MjAsNTc3OD
+IzNzA1LC05NDc5MjA1NDgsLTE1MTc0NzA2NjNdfQ==
 -->
