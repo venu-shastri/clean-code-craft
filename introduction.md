@@ -87,9 +87,11 @@ Is software quality a sole concern of the quality assurance department?
 		- Minimal influence on other modules if a bug fix is necessary
 		- Significantly increasing the reusability of modules
 		-  Better testability of modules
+- Strong Cohesion
+- Loose Coupling
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODU0MzgyMTksLTU1MDk0OTQwLDIxMD
-I0MTI4MjAsNTc3ODIzNzA1LC05NDc5MjA1NDgsLTE1MTc0NzA2
-NjNdfQ==
+eyJoaXN0b3J5IjpbMjEwMjQ4NTA0NSwtMTk4NTQzODIxOSwtNT
+UwOTQ5NDAsMjEwMjQxMjgyMCw1Nzc4MjM3MDUsLTk0NzkyMDU0
+OCwtMTUxNzQ3MDY2M119
 -->
