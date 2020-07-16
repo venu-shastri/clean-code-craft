@@ -73,13 +73,14 @@ Is software quality a sole concern of the quality assurance department?
 >A principle is a kind of rule, belief, or idea that guides you. Principles are often directly coupled to values or a value system
 
 - KISS
+	- Focusing on simplicity is probably one of the most difficult things to do for a programmer. And it is a life long learning experience
 - YAGNI
-	- 
+	- Always implement things when you actually need them, never when you just foresee that you need them.
 - DRY
 	- Copy and paste is a design error
 	- Referred to as “Once And Only Once” (OAOO).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTM5MDc3NywtNTUwOTQ5NDAsMjEwMj
+eyJoaXN0b3J5IjpbLTY5NjU2NzgxNywtNTUwOTQ5NDAsMjEwMj
 QxMjgyMCw1Nzc4MjM3MDUsLTk0NzkyMDU0OCwtMTUxNzQ3MDY2
 M119
 -->
