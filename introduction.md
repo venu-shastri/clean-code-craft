@@ -40,7 +40,9 @@ These levels are often visualized in the form of a pyramid – the so-called **`
 Unfortunately, in several software development projects we will  find **`degenerated Test Pyramids`**
 - **Ice Cream Cone Anti-Pattern** - Enormous effort is put into the tests on the higher level, whereas the elementary unit tests are neglected .
 - **Cup Cake Anti-Pattern** - In the extreme case elementary unit tests are completely missing
+- 
+![enter image description here](https://github.com/venu-shastri/clean-code-craft/blob/master/images/DegeneratedTestAntipatterns.PNG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzkwNTIzNSw1Nzc4MjM3MDUsLTk0Nz
+eyJoaXN0b3J5IjpbLTM1MTg3MzA4NCw1Nzc4MjM3MDUsLTk0Nz
 kyMDU0OCwtMTUxNzQ3MDY2M119
 -->
