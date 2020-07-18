@@ -49,12 +49,13 @@ Truth can only be found in one place: the code.
 		- Adds confusion with no real benefit
 		- Except for the purpose to try out something quickly, don’t use comments to disable code. There is a version control system!
 		- If code is no longer used, simply delete it. Let it go. You have a “time machine” to get it back, if necessary: use version control system
+	- Don’t Use Comments to Substitute Version Control
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzI4ODkyNywxNzc0OTg4MzA4LDEyND
-YzODI2MDYsLTE3MDcwNjgyNywtMTE3NDMyNTIxNSwtMTg1NjY1
-NDMwNCwtMjg2NDc2NjU3LDE1NTE0MDUzMzYsMTEyOTE1MDg3Ni
-wxNTgzNDAxNzAxLDEyNjAwMDYwOTYsMTcwNTEzNjU1MCwtMTA0
-NTIzMTc2M119
+eyJoaXN0b3J5IjpbLTIwMTc1MjExODUsMTA3MzI4ODkyNywxNz
+c0OTg4MzA4LDEyNDYzODI2MDYsLTE3MDcwNjgyNywtMTE3NDMy
+NTIxNSwtMTg1NjY1NDMwNCwtMjg2NDc2NjU3LDE1NTE0MDUzMz
+YsMTEyOTE1MDg3NiwxNTgzNDAxNzAxLDEyNjAwMDYwOTYsMTcw
+NTEzNjU1MCwtMTA0NTIzMTc2M119
 -->
