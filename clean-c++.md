@@ -20,10 +20,13 @@
 	- Every time we go one step deeper down the hierarchy, the names of the elements must more concrete.
 	- ex:- Imagine a Webshop. On the top level there might exist a large component whose single responsibility is to create invoices. This component could have a short and descriptive name like **Billing**. Usually, this component consists of further smaller components or classes. For instance, one of these smaller modules could be responsible for the calculation of a discount. Another module could be responsible for the creation of invoice line items. Thus, good names for these modules could be **DiscountCalculator** and **LineItemFactory**. If we now dive deeper into the decomposition hierarchy, the identifiers for components , classes, and also functions or methods become more and more concrete, verbose, and thus also longer. For
 example, a small method in a class at the deepest level could have a very detailed and elongated name, like **calculateReducedValueAddedTax**().
+
+- Avoid Redundancy When Choosing a Name
+- 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY0ODM1MzQsMTEyOTE1MDg3NiwxNT
-gzNDAxNzAxLDEyNjAwMDYwOTYsMTcwNTEzNjU1MCwtMTA0NTIz
-MTc2M119
+eyJoaXN0b3J5IjpbMTQ1MTI0MDA1MiwxMTI5MTUwODc2LDE1OD
+M0MDE3MDEsMTI2MDAwNjA5NiwxNzA1MTM2NTUwLC0xMDQ1MjMx
+NzYzXX0=
 -->
