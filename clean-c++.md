@@ -81,9 +81,12 @@ If cyclomatic complexity is high, the affected piece of code is typically more d
 ##### Number of Arguments
 >The ideal number of arguments for a function is zero (niladic). Next comes one (monadic), followed closely by two (dyadic). Three arguments (triadic) should be avoided where possible. More than three (polyadic) requires very special justification  and then shouldn’t be used anyway.
 — Robert C. Martin, Clean Code [Martin09]
+>This is a bit weird because a function in the pure mathematical sense (y = f(x)) always has at least one argument . This means that a “function without arguments” usually must have some kind of side effect
+
+**why are too many arguments bad?**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5MTA2MTc0LC05MDAzNTY5MTMsLTIzNj
+eyJoaXN0b3J5IjpbODI1Njk2MjU3LC05MDAzNTY5MTMsLTIzNj
 MzNjA3LDEyNDMzNTc5ODgsMTg0MzAxNTI1NiwxMDczMjg4OTI3
 LDE3NzQ5ODgzMDgsMTI0NjM4MjYwNiwtMTcwNzA2ODI3LC0xMT
 c0MzI1MjE1LC0xODU2NjU0MzA0LC0yODY0NzY2NTcsMTU1MTQw
