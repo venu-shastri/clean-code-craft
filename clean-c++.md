@@ -89,11 +89,12 @@ If cyclomatic complexity is high, the affected piece of code is typically more d
 argument list, then code depends on that type. The header file containing the used type must be included
 - every argument must be processed somewhere inside of a function (if not, the argument is unnecessary and should be deleted immediately).
 
-#### 
 > Real functions should have as few arguments as possible. One argument is the ideal number. Member functions (methods) of a class often have no arguments. Usually those functions are manipulating the internal state of the object, or they are used to query something from the object.
 
+#### Avoid Flag Arguments
+>A flag argument is a kind of argument that tells a function to perform a different operation depending on its value. Flag arguments are mostly of type bool, and sometimes even an enumeration
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDU5NDMyNiw4MjU2OTYyNTcsLTkwMD
+eyJoaXN0b3J5IjpbLTQ3MDA2MjM2Myw4MjU2OTYyNTcsLTkwMD
 M1NjkxMywtMjM2MzM2MDcsMTI0MzM1Nzk4OCwxODQzMDE1MjU2
 LDEwNzMyODg5MjcsMTc3NDk4ODMwOCwxMjQ2MzgyNjA2LC0xNz
 A3MDY4MjcsLTExNzQzMjUyMTUsLTE4NTY2NTQzMDQsLTI4NjQ3
