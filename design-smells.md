@@ -17,7 +17,10 @@ Design problems affect program locations such as **`packages, interfaces, hierar
 |Unused abstraction |Design abstraction that is either unreachable or never used in the system
 
 ## Smelly Code / Code Smell
->Code smell is a recurring micro-structure in the source code that may indicate the manifestation of a design problem
+>Code smell is a **recurring micro-structure** in the source code that may indicate the **manifestation of a design problem**
+>A design problem can manifest itself in a program by affecting multiple source code locations. Each of these locations are called here smelly code
+>Analy the smelly code to identify a design problem.
+There are several types of code smell
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5ODAxMjQ4XX0=
+eyJoaXN0b3J5IjpbMTUwNjc1MzkzN119
 -->
