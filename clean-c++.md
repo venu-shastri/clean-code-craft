@@ -11,9 +11,10 @@
 	- If the context is clear in which a variable is used, shorter and less descriptive names are possible
 	- If the variable is a member (attribute) of a class, for instance, the class’s name usually provides sufficient context for the
 variable
+Use Names from the Domain
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTE0Njc0LDEyNjAwMDYwOTYsMTcwNT
-EzNjU1MCwtMTA0NTIzMTc2M119
+eyJoaXN0b3J5IjpbLTE5NjgzNTA3NDQsMTI2MDAwNjA5NiwxNz
+A1MTM2NTUwLC0xMDQ1MjMxNzYzXX0=
 -->
