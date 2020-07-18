@@ -75,13 +75,14 @@ If cyclomatic complexity is high, the affected piece of code is typically more d
 
 ### Best Practices
 #### Function Naming
-The name of a function should start with a verb. Predicates, that is, statements about an object that can be true or false, should start with “is” or “has
+- The name of a function should start with a verb. Predicates, that is, statements about an object that can be true or false, should start with “is” or “has
+- The name of a function should express its intention/purpose, and not explain how it works.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNjMzNjA3LDEyNDMzNTc5ODgsMTg0Mz
-AxNTI1NiwxMDczMjg4OTI3LDE3NzQ5ODgzMDgsMTI0NjM4MjYw
-NiwtMTcwNzA2ODI3LC0xMTc0MzI1MjE1LC0xODU2NjU0MzA0LC
-0yODY0NzY2NTcsMTU1MTQwNTMzNiwxMTI5MTUwODc2LDE1ODM0
-MDE3MDEsMTI2MDAwNjA5NiwxNzA1MTM2NTUwLC0xMDQ1MjMxNz
-YzXX0=
+eyJoaXN0b3J5IjpbLTkwMDM1NjkxMywtMjM2MzM2MDcsMTI0Mz
+M1Nzk4OCwxODQzMDE1MjU2LDEwNzMyODg5MjcsMTc3NDk4ODMw
+OCwxMjQ2MzgyNjA2LC0xNzA3MDY4MjcsLTExNzQzMjUyMTUsLT
+E4NTY2NTQzMDQsLTI4NjQ3NjY1NywxNTUxNDA1MzM2LDExMjkx
+NTA4NzYsMTU4MzQwMTcwMSwxMjYwMDA2MDk2LDE3MDUxMzY1NT
+AsLTEwNDUyMzE3NjNdfQ==
 -->
