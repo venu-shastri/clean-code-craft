@@ -145,10 +145,13 @@ controls, confusing error messages, unusual reactions on established keystroke s
 - **The Boy Scout Rule**
 	-  Always leave the campground cleaner than you found it.
 	- One of their principles states that they should clean up a mess or pollution in the environment immediately, once they’ve found such bad things
+	- Developers should apply this principle to our daily work. Whenever we find something in a piece of
+code that needs to be improved, or which is a bad code smell, we should fix it immediately. And it does not
+matter who the original author of this piece of code was.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjAwNTM0OCwtMjI2NDc4MDMwLDE3OD
-Q2NTYyODAsOTM0MTI1MzI2LDMzOTM0NDgxMCwxMTcxNjc3NDI3
-LC03MTAyODE3ODMsNTM5MTI3Mzg0LC0xOTg1NDM4MjE5LC01NT
-A5NDk0MCwyMTAyNDEyODIwLDU3NzgyMzcwNSwtOTQ3OTIwNTQ4
-LC0xNTE3NDcwNjYzXX0=
+eyJoaXN0b3J5IjpbLTE2NTU5Nzk0MTIsLTIyNjQ3ODAzMCwxNz
+g0NjU2MjgwLDkzNDEyNTMyNiwzMzkzNDQ4MTAsMTE3MTY3NzQy
+NywtNzEwMjgxNzgzLDUzOTEyNzM4NCwtMTk4NTQzODIxOSwtNT
+UwOTQ5NDAsMjEwMjQxMjgyMCw1Nzc4MjM3MDUsLTk0NzkyMDU0
+OCwtMTUxNzQ3MDY2M119
 -->
