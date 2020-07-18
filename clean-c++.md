@@ -44,11 +44,13 @@ Truth can only be found in one place: the code.
 - Comments are necessary when there is need for explanation and clarification	
 - Let the Code Tell a Story
 	- Code should tell a story and be self-explanatory. Comments must be avoided whenever possible
+	- Do Not Comment Obvious Things
+	- Don’t Disable Code with Comments
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDQ4MzgwLDE3NzQ5ODgzMDgsMTI0Nj
-M4MjYwNiwtMTcwNzA2ODI3LC0xMTc0MzI1MjE1LC0xODU2NjU0
-MzA0LC0yODY0NzY2NTcsMTU1MTQwNTMzNiwxMTI5MTUwODc2LD
-E1ODM0MDE3MDEsMTI2MDAwNjA5NiwxNzA1MTM2NTUwLC0xMDQ1
-MjMxNzYzXX0=
+eyJoaXN0b3J5IjpbLTM3Njc4MDAzNCwxNzc0OTg4MzA4LDEyND
+YzODI2MDYsLTE3MDcwNjgyNywtMTE3NDMyNTIxNSwtMTg1NjY1
+NDMwNCwtMjg2NDc2NjU3LDE1NTE0MDUzMzYsMTEyOTE1MDg3Ni
+wxNTgzNDAxNzAxLDEyNjAwMDYwOTYsMTcwNTEzNjU1MCwtMTA0
+NTIzMTc2M119
 -->
