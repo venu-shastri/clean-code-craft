@@ -156,11 +156,13 @@ controls, confusing error messages, unusual reactions on established keystroke s
 		- Removing a small bit of duplicated code
 		- Collective Code Ownership.
 			- Every team member, at any time, is allowed to make a change or extension on any piece of code.
+			- There should be no attitude like
+			- “This is Peter code, and that’s Fred’s module. I don’t touch them!”
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2NzYxNTExLC0yMjY0NzgwMzAsMTc4ND
-Y1NjI4MCw5MzQxMjUzMjYsMzM5MzQ0ODEwLDExNzE2Nzc0Mjcs
-LTcxMDI4MTc4Myw1MzkxMjczODQsLTE5ODU0MzgyMTksLTU1MD
-k0OTQwLDIxMDI0MTI4MjAsNTc3ODIzNzA1LC05NDc5MjA1NDgs
-LTE1MTc0NzA2NjNdfQ==
+eyJoaXN0b3J5IjpbLTEyMTY5NjMwMzcsLTIyNjQ3ODAzMCwxNz
+g0NjU2MjgwLDkzNDEyNTMyNiwzMzkzNDQ4MTAsMTE3MTY3NzQy
+NywtNzEwMjgxNzgzLDUzOTEyNzM4NCwtMTk4NTQzODIxOSwtNT
+UwOTQ5NDAsMjEwMjQxMjgyMCw1Nzc4MjM3MDUsLTk0NzkyMDU0
+OCwtMTUxNzQ3MDY2M119
 -->
