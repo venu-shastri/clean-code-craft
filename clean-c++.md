@@ -52,14 +52,14 @@ Truth can only be found in one place: the code.
 	- Don’t Use Comments to Substitute Version Control
 	- Don’t Write Block Comments
 -  The Rare Cases Where Comments Are Useful
-	- a comment is justified if a section of code has a high degree of inherent complexity so that it cannot be understood easily by everyone who did not have deep expert knowledge, ex:- sophisticated mathematical algorithm or formula ,he software system deals with
-a not everyday (business) domain
+	- a comment is justified if a section of code has a high degree of inherent complexity so that it cannot be understood easily by everyone who did not have deep expert knowledge, ex:- sophisticated mathematical algorithm or formula ,The software system deals with a not everyday (business) domain ,experimental physics, complex simulations of natural phenomenons, or ambitious ciphering methods
+	- Another good reason to write a comment for once is a situation in which you must deliberately deviate from a good design principle
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDI3NDkyMCwxODQzMDE1MjU2LDEwNz
-MyODg5MjcsMTc3NDk4ODMwOCwxMjQ2MzgyNjA2LC0xNzA3MDY4
-MjcsLTExNzQzMjUyMTUsLTE4NTY2NTQzMDQsLTI4NjQ3NjY1Ny
-wxNTUxNDA1MzM2LDExMjkxNTA4NzYsMTU4MzQwMTcwMSwxMjYw
-MDA2MDk2LDE3MDUxMzY1NTAsLTEwNDUyMzE3NjNdfQ==
+eyJoaXN0b3J5IjpbLTE5NTkzODI3MzIsMTg0MzAxNTI1NiwxMD
+czMjg4OTI3LDE3NzQ5ODgzMDgsMTI0NjM4MjYwNiwtMTcwNzA2
+ODI3LC0xMTc0MzI1MjE1LC0xODU2NjU0MzA0LC0yODY0NzY2NT
+csMTU1MTQwNTMzNiwxMTI5MTUwODc2LDE1ODM0MDE3MDEsMTI2
+MDAwNjA5NiwxNzA1MTM2NTUwLC0xMDQ1MjMxNzYzXX0=
 -->
