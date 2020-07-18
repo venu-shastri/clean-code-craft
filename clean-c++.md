@@ -100,12 +100,14 @@ One of the frequently mentioned benefits of using output arguments is that funct
 - Output arguments are unintuitive and can lead to confusion.
 	- whether a passed object is treated as an output parameter and will possibly be mutated by the function.
 	- output parameters complicate the easy composition of expressions
+		- If functions have only one return value, they can be interconnected quite easily to chained function calls
+	- if immutability should be fostered and side effects must be reduced, then output parameters are an absolutely terrible idea.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQ5OTQ2NzksLTE1NjU5NjA0NzQsLT
-E2Mjc4MTc2MDMsLTQ3MDA2MjM2Myw4MjU2OTYyNTcsLTkwMDM1
-NjkxMywtMjM2MzM2MDcsMTI0MzM1Nzk4OCwxODQzMDE1MjU2LD
-EwNzMyODg5MjcsMTc3NDk4ODMwOCwxMjQ2MzgyNjA2LC0xNzA3
-MDY4MjcsLTExNzQzMjUyMTUsLTE4NTY2NTQzMDQsLTI4NjQ3Nj
-Y1NywxNTUxNDA1MzM2LDExMjkxNTA4NzYsMTU4MzQwMTcwMSwx
-MjYwMDA2MDk2XX0=
+eyJoaXN0b3J5IjpbMTM4NTkyNTE3MywtMTU2NTk2MDQ3NCwtMT
+YyNzgxNzYwMywtNDcwMDYyMzYzLDgyNTY5NjI1NywtOTAwMzU2
+OTEzLC0yMzYzMzYwNywxMjQzMzU3OTg4LDE4NDMwMTUyNTYsMT
+A3MzI4ODkyNywxNzc0OTg4MzA4LDEyNDYzODI2MDYsLTE3MDcw
+NjgyNywtMTE3NDMyNTIxNSwtMTg1NjY1NDMwNCwtMjg2NDc2Nj
+U3LDE1NTE0MDUzMzYsMTEyOTE1MDg3NiwxNTgzNDAxNzAxLDEy
+NjAwMDYwOTZdfQ==
 -->
