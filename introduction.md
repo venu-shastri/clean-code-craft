@@ -129,12 +129,14 @@ class State is removed from the class? It is easy to see that it will have a sig
 		- form of weak cohesion
 - Loose Coupling
 - Optimizations
+	- Premature optimization is the root of all evil (or at least most of it) in programming.
+—Donald E. Knuth, American computer scientist [Knuth74]
 - Principle of Least Astonishment (PLA)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjQ3ODAzMCwxNzg0NjU2MjgwLDkzND
-EyNTMyNiwzMzkzNDQ4MTAsMTE3MTY3NzQyNywtNzEwMjgxNzgz
-LDUzOTEyNzM4NCwtMTk4NTQzODIxOSwtNTUwOTQ5NDAsMjEwMj
-QxMjgyMCw1Nzc4MjM3MDUsLTk0NzkyMDU0OCwtMTUxNzQ3MDY2
-M119
+eyJoaXN0b3J5IjpbLTQ3NTcxMDk3OCwtMjI2NDc4MDMwLDE3OD
+Q2NTYyODAsOTM0MTI1MzI2LDMzOTM0NDgxMCwxMTcxNjc3NDI3
+LC03MTAyODE3ODMsNTM5MTI3Mzg0LC0xOTg1NDM4MjE5LC01NT
+A5NDk0MCwyMTAyNDEyODIwLDU3NzgyMzcwNSwtOTQ3OTIwNTQ4
+LC0xNTE3NDcwNjYzXX0=
 -->
