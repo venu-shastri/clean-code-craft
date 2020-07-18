@@ -35,13 +35,14 @@ example, a small method in a class at the deepest level could have a very detail
 	- Do not use Hungarian notation, or any other prefix-based notation, encoding the type of a variable in its name!
 	- In object-oriented languages that support polymorphism, the prefix cannot be specified easily, or a prefix can even be puzzling
 	- How to determine a suitable and unmistakable prefix for an instantiated C++ template?
-	- 
+- Avoid Using the Same Name for Different Purposes
+	- Once you’ve introduced a meaningful and expressive name for any kind of software entity (e.g., a class or component), a function, or a variable, you should take care about that its name is never used for any other purpose
 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5NzM0NzI4LC0xODU2NjU0MzA0LC0yOD
-Y0NzY2NTcsMTU1MTQwNTMzNiwxMTI5MTUwODc2LDE1ODM0MDE3
-MDEsMTI2MDAwNjA5NiwxNzA1MTM2NTUwLC0xMDQ1MjMxNzYzXX
-0=
+eyJoaXN0b3J5IjpbLTExNzQzMjUyMTUsLTE4NTY2NTQzMDQsLT
+I4NjQ3NjY1NywxNTUxNDA1MzM2LDExMjkxNTA4NzYsMTU4MzQw
+MTcwMSwxMjYwMDA2MDk2LDE3MDUxMzY1NTAsLTEwNDUyMzE3Nj
+NdfQ==
 -->
