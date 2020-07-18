@@ -28,10 +28,12 @@ example, a small method in a class at the deepest level could have a very detail
 	- When choosing a name for your variables or constants, use full words instead of cryptic abbreviations
 	- cryptic abbreviations reduce the readability of  code significantly
 - Avoid Hungarian Notation and Prefixes
+	- Charles Simonyi (Chief Architect at Microsoft in the 1980s) developed a notation convention for naming variables in computer software, named the Hungarian notation
+
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxMDY1Mzk5LC0yODY0NzY2NTcsMTU1MT
-QwNTMzNiwxMTI5MTUwODc2LDE1ODM0MDE3MDEsMTI2MDAwNjA5
-NiwxNzA1MTM2NTUwLC0xMDQ1MjMxNzYzXX0=
+eyJoaXN0b3J5IjpbLTg4OTc5MDkwOSwtMjg2NDc2NjU3LDE1NT
+E0MDUzMzYsMTEyOTE1MDg3NiwxNTgzNDAxNzAxLDEyNjAwMDYw
+OTYsMTcwNTEzNjU1MCwtMTA0NTIzMTc2M119
 -->
