@@ -143,8 +143,10 @@ by unexpected responses of the user interface.
 	-  The user should not be puzzled by appearing or disappearing
 controls, confusing error messages, unusual reactions on established keystroke sequences  or other unexpected behavior
 - **The Boy Scout Rule**
+	-  Always leave the campground cleaner than you found it.
+	- One of their principles states that they should clean up a mess or pollution in the environment immediately, once they’ve found such bad things
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTkxODEyOSwtMjI2NDc4MDMwLDE3OD
+eyJoaXN0b3J5IjpbMTQ3MjAwNTM0OCwtMjI2NDc4MDMwLDE3OD
 Q2NTYyODAsOTM0MTI1MzI2LDMzOTM0NDgxMCwxMTcxNjc3NDI3
 LC03MTAyODE3ODMsNTM5MTI3Mzg0LC0xOTg1NDM4MjE5LC01NT
 A5NDk0MCwyMTAyNDEyODIwLDU3NzgyMzcwNSwtOTQ3OTIwNTQ4
