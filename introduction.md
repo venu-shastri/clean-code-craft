@@ -115,6 +115,10 @@ Is software quality a sole concern of the quality assurance department?
 	return  0;
 	} ```
 
+| Information Hiding | Encapsulation |
+|--|--|
+| Information hiding is a design principle for aiding developers in finding good modules. The principle works multiple levels of abstraction and unfolds its positive effect, especially in large systems |  |
+
 
 - Strong Cohesion
 - Loose Coupling
@@ -122,8 +126,8 @@ Is software quality a sole concern of the quality assurance department?
 - Principle of Least Astonishment (PLA)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5MzQ0ODEwLDExNzE2Nzc0MjcsLTcxMD
-I4MTc4Myw1MzkxMjczODQsLTE5ODU0MzgyMTksLTU1MDk0OTQw
-LDIxMDI0MTI4MjAsNTc3ODIzNzA1LC05NDc5MjA1NDgsLTE1MT
-c0NzA2NjNdfQ==
+eyJoaXN0b3J5IjpbMTgzNjk1NzM4MywzMzkzNDQ4MTAsMTE3MT
+Y3NzQyNywtNzEwMjgxNzgzLDUzOTEyNzM4NCwtMTk4NTQzODIx
+OSwtNTUwOTQ5NDAsMjEwMjQxMjgyMCw1Nzc4MjM3MDUsLTk0Nz
+kyMDU0OCwtMTUxNzQ3MDY2M119
 -->
