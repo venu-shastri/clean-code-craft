@@ -123,31 +123,30 @@ class State is removed from the class? It is easy to see that it will have a sig
 | Information hiding is a design principle for aiding developers in finding good modules. The principle works multiple levels of abstraction and unfolds its positive effect, especially in large systems | Encapsulation is OO Concept to define role and responsibilities ,often a programming-language dependent, technique for restricting access to the innards of a module ,For instance, in C++ you can precede a list of class members with the private keyword to ensure that they cannot be accessed from outside the class. But just because we use such kind of guards for access control, we are still far away from getting information hiding automatically |
 
 
-- Strong Cohesion
+- **Strong Cohesion**
 	- cohesion is strong when the module does a well-defined job
 	- Shot Gun Anti-Pattern.
 		- form of weak cohesion
 - Loose Coupling
-- Optimizations
+- **Optimizations**
 	- Premature optimization is the root of all evil (or at least most of it in programming.
 —Donald E. Knuth, American computer scientist [Knuth74]
 	- As long as there are no explicit performance requirements to satisfy, keep your hands off optimizations.
 		- The subtly bugs are slipped into the code during  optimization measures
 		- compilers are nowadays very good at optimizing code.
 		- Whenever you feel just a desire to optimize something, think about YAGNI
-- Principle of Least Astonishment (PLA)
+- **Principle of Least Astonishment (PLA)**
 	- Also known as Principle of Least Surprise (POLS)
 	- Well known in user interface design and ergonomics
 	- The principle states that the user should not be surprised
-by unexpected responses of the user interface. The user should not be puzzled by appearing or disappearing
-controls, confusing error messages, unusual reactions on established keystroke sequences (remember:
-Ctrl + C is the de facto standard for copying applications on Windows operating systems, and not to exit a
-program), or other unexpected behavior
-
+by unexpected responses of the user interface.
+	-  The user should not be puzzled by appearing or disappearing
+controls, confusing error messages, unusual reactions on established keystroke sequences  or other unexpected behavior
+- **The Boy Scout Rule**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4OTQ1OTEsLTIyNjQ3ODAzMCwxNzg0Nj
-U2MjgwLDkzNDEyNTMyNiwzMzkzNDQ4MTAsMTE3MTY3NzQyNywt
-NzEwMjgxNzgzLDUzOTEyNzM4NCwtMTk4NTQzODIxOSwtNTUwOT
-Q5NDAsMjEwMjQxMjgyMCw1Nzc4MjM3MDUsLTk0NzkyMDU0OCwt
-MTUxNzQ3MDY2M119
+eyJoaXN0b3J5IjpbMTUwOTkxODEyOSwtMjI2NDc4MDMwLDE3OD
+Q2NTYyODAsOTM0MTI1MzI2LDMzOTM0NDgxMCwxMTcxNjc3NDI3
+LC03MTAyODE3ODMsNTM5MTI3Mzg0LC0xOTg1NDM4MjE5LC01NT
+A5NDk0MCwyMTAyNDEyODIwLDU3NzgyMzcwNSwtOTQ3OTIwNTQ4
+LC0xNTE3NDcwNjYzXX0=
 -->
