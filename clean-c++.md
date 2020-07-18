@@ -7,9 +7,10 @@
 ### Few bits of advice for finding good names.
 - Names Should Be Self-Explanatory
 	- Use simple but descriptive and self-explaining names.
+	- 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDAwNjA5NiwxNzA1MTM2NTUwLC0xMD
-Q1MjMxNzYzXX0=
+eyJoaXN0b3J5IjpbLTE2NDAwMjQ0NSwxMjYwMDA2MDk2LDE3MD
+UxMzY1NTAsLTEwNDUyMzE3NjNdfQ==
 -->
