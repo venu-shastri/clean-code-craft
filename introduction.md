@@ -89,13 +89,31 @@ Is software quality a sole concern of the quality assurance department?
 		- Significantly increasing the reusability of modules
 		-  Better test-ability of modules
 	- Information hiding is often confused with **encapsulation**, but it’s not the same
+	- ex:-
+	``` C++ Sample
+	class AutomaticDoor {
+public:
+enum class State {
+closed = 1,
+opening,
+open,
+closing
+};
+private:
+State state;
+// ...more attributes here...
+public:
+State getState() const;
+// ...more member functions here...
+};
+	```
 - Strong Cohesion
 - Loose Coupling
 - Optimizations
 - Principle of Least Astonishment (PLA)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDI4MTc4Myw1MzkxMjczODQsLTE5OD
-U0MzgyMTksLTU1MDk0OTQwLDIxMDI0MTI4MjAsNTc3ODIzNzA1
-LC05NDc5MjA1NDgsLTE1MTc0NzA2NjNdfQ==
+eyJoaXN0b3J5IjpbNTcyODM5NTQ0LC03MTAyODE3ODMsNTM5MT
+I3Mzg0LC0xOTg1NDM4MjE5LC01NTA5NDk0MCwyMTAyNDEyODIw
+LDU3NzgyMzcwNSwtOTQ3OTIwNTQ4LC0xNTE3NDcwNjYzXX0=
 -->
