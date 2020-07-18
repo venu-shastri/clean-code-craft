@@ -97,12 +97,15 @@ argument list, then code depends on that type. The header file containing the us
 #### Avoid Output Arguments
 >An output parameter, sometimes also called a result parameter, is a function argument that is used for the function’s return value.
 One of the frequently mentioned benefits of using output arguments is that functions that use them can pass back more than one value at a time
+- Output arguments are unintuitive and can lead to confusion.
+	- whether a passed object is treated as an output parameter and will possibly be mutated by the function.
+	- output parameters complicate the easy composition of expressions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU5NjA0NzQsLTE2Mjc4MTc2MDMsLT
-Q3MDA2MjM2Myw4MjU2OTYyNTcsLTkwMDM1NjkxMywtMjM2MzM2
-MDcsMTI0MzM1Nzk4OCwxODQzMDE1MjU2LDEwNzMyODg5MjcsMT
-c3NDk4ODMwOCwxMjQ2MzgyNjA2LC0xNzA3MDY4MjcsLTExNzQz
-MjUyMTUsLTE4NTY2NTQzMDQsLTI4NjQ3NjY1NywxNTUxNDA1Mz
-M2LDExMjkxNTA4NzYsMTU4MzQwMTcwMSwxMjYwMDA2MDk2LDE3
-MDUxMzY1NTBdfQ==
+eyJoaXN0b3J5IjpbLTExOTQ5OTQ2NzksLTE1NjU5NjA0NzQsLT
+E2Mjc4MTc2MDMsLTQ3MDA2MjM2Myw4MjU2OTYyNTcsLTkwMDM1
+NjkxMywtMjM2MzM2MDcsMTI0MzM1Nzk4OCwxODQzMDE1MjU2LD
+EwNzMyODg5MjcsMTc3NDk4ODMwOCwxMjQ2MzgyNjA2LC0xNzA3
+MDY4MjcsLTExNzQzMjUyMTUsLTE4NTY2NTQzMDQsLTI4NjQ3Nj
+Y1NywxNTUxNDA1MzM2LDExMjkxNTA4NzYsMTU4MzQwMTcwMSwx
+MjYwMDA2MDk2XX0=
 -->
