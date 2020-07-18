@@ -77,12 +77,18 @@ If cyclomatic complexity is high, the affected piece of code is typically more d
 #### Function Naming
 - The name of a function should start with a verb. Predicates, that is, statements about an object that can be true or false, should start with “is” or “has
 - The name of a function should express its intention/purpose, and not explain how it works.
+#### Arguments and Return Values
+##### Number of Arguments
+The ideal number of arguments for a function is zero (niladic). Next comes one (monadic), followed closely by two (dyadic). Three arguments (triadic) should be avoided where
+possible. More than three (polyadic) requires very special justification  and then
+shouldn’t be used anyway.
+— Robert C. Martin, Clean Code [Martin09]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDM1NjkxMywtMjM2MzM2MDcsMTI0Mz
-M1Nzk4OCwxODQzMDE1MjU2LDEwNzMyODg5MjcsMTc3NDk4ODMw
-OCwxMjQ2MzgyNjA2LC0xNzA3MDY4MjcsLTExNzQzMjUyMTUsLT
-E4NTY2NTQzMDQsLTI4NjQ3NjY1NywxNTUxNDA1MzM2LDExMjkx
-NTA4NzYsMTU4MzQwMTcwMSwxMjYwMDA2MDk2LDE3MDUxMzY1NT
-AsLTEwNDUyMzE3NjNdfQ==
+eyJoaXN0b3J5IjpbLTIxNDQyMDk5MCwtOTAwMzU2OTEzLC0yMz
+YzMzYwNywxMjQzMzU3OTg4LDE4NDMwMTUyNTYsMTA3MzI4ODky
+NywxNzc0OTg4MzA4LDEyNDYzODI2MDYsLTE3MDcwNjgyNywtMT
+E3NDMyNTIxNSwtMTg1NjY1NDMwNCwtMjg2NDc2NjU3LDE1NTE0
+MDUzMzYsMTEyOTE1MDg3NiwxNTgzNDAxNzAxLDEyNjAwMDYwOT
+YsMTcwNTEzNjU1MCwtMTA0NTIzMTc2M119
 -->
