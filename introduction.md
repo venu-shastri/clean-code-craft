@@ -115,6 +115,10 @@ Is software quality a sole concern of the quality assurance department?
 	return  0;
 	} ```
 
+>What will happen if the internal implementation of DeviceConnection  must be changed and the enumeration
+class State is removed from the class? It is easy to see that it will have a significant impact on the client’s code.
+It will result in changes everywhere where member function AutomaticDoor::getState() is used
+
 | Information Hiding | Encapsulation |
 |--|--|
 | Information hiding is a design principle for aiding developers in finding good modules. The principle works multiple levels of abstraction and unfolds its positive effect, especially in large systems | Encapsulation is OO Concept to define role and responsibilities ,often a programming-language dependent, technique for restricting access to the innards of a module ,For instance, in C++ you can precede a list of class members with the private keyword to ensure that they cannot be accessed from outside the class. But just because we use such kind of guards for access control, we are still far away from getting information hiding automatically |
@@ -126,7 +130,7 @@ Is software quality a sole concern of the quality assurance department?
 - Principle of Least Astonishment (PLA)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTMzNzc0MSwzMzkzNDQ4MTAsMTE3MT
+eyJoaXN0b3J5IjpbMTIxODc1NjM0NywzMzkzNDQ4MTAsMTE3MT
 Y3NzQyNywtNzEwMjgxNzgzLDUzOTEyNzM4NCwtMTk4NTQzODIx
 OSwtNTUwOTQ5NDAsMjEwMjQxMjgyMCw1Nzc4MjM3MDUsLTk0Nz
 kyMDU0OCwtMTUxNzQ3MDY2M119
