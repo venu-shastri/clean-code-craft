@@ -27,10 +27,11 @@ example, a small method in a class at the deepest level could have a very detail
 - Avoid Cryptic Abbreviations
 	- When choosing a name for your variables or constants, use full words instead of cryptic abbreviations
 	- cryptic abbreviations reduce the readability of  code significantly
+- Avoid Hungarian Notation and Prefixes
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjQ3NjY1NywxNTUxNDA1MzM2LDExMj
-kxNTA4NzYsMTU4MzQwMTcwMSwxMjYwMDA2MDk2LDE3MDUxMzY1
-NTAsLTEwNDUyMzE3NjNdfQ==
+eyJoaXN0b3J5IjpbMzQxMDY1Mzk5LC0yODY0NzY2NTcsMTU1MT
+QwNTMzNiwxMTI5MTUwODc2LDE1ODM0MDE3MDEsMTI2MDAwNjA5
+NiwxNzA1MTM2NTUwLC0xMDQ1MjMxNzYzXX0=
 -->
