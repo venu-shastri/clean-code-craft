@@ -14,10 +14,12 @@
 	- DDD
 	- Name components, classes, and functions in a way that elements and concepts from the application’s domain can be rediscovered
 - Choose Names at an Appropriate Level of Abstraction
+	- To keep the complexity of today’s software systems under control, these systems are usually hierarchically
+decomposed.
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQwMzg3MzgsMTEyOTE1MDg3NiwxNT
+eyJoaXN0b3J5IjpbLTIwNjU1NjUyOTMsMTEyOTE1MDg3NiwxNT
 gzNDAxNzAxLDEyNjAwMDYwOTYsMTcwNTEzNjU1MCwtMTA0NTIz
 MTc2M119
 -->
