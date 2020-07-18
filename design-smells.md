@@ -31,7 +31,7 @@ Design problems affect program locations such as **`packages, interfaces, hierar
 |Feature envy|Method that calls more methods of a single external class than the internal methods of its own inner class
 |Intensive coupling|When a method is tied to many other operations in the system, whereby these provider operations are dispersed only into one or a few classes|
 |Refused bequest|Subclass that does not use the protected methods of its superclass|
-|Shotgun surgery|This smell is evident when you must change lots of pieces of code in different places simply to add a new or extended piece of behavior ,pops up when you have to make changes throughout the code base to implement a single requirement|
+|Shotgun surgery|This smell is evident when you must change lots of pieces of code in different places simply to add a new or extended piece of behavior ,pops up when you have to make changes throughout the code base to implement a single requirement,This may often be caused by “copy and paste” programming|
 |Tradition breaker|Subclass that provides a large set of services that are unrelated to services provided by the superclass|
 
 ### Code smells and Design Problems
@@ -60,6 +60,6 @@ Concern.
 #### Smell Agglomerations
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzA1ODg3LDk1ODg5ODIyMSwtNTMxND
-M5OTMzXX0=
+eyJoaXN0b3J5IjpbLTEzNzk4MDYwMTAsOTU4ODk4MjIxLC01Mz
+E0Mzk5MzNdfQ==
 -->
