@@ -84,12 +84,16 @@ If cyclomatic complexity is high, the affected piece of code is typically more d
 >This is a bit weird because a function in the pure mathematical sense (y = f(x)) always has at least one argument . This means that a “function without arguments” usually must have some kind of side effect
 
 **why are too many arguments bad?**
+- Every argument in a function’s argument list can lead to a dependency
+	- If function use a complex type (e.g., a class) in a function’s
+argument list, then code depends on that type. The header file containing the used type must be included
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1Njk2MjU3LC05MDAzNTY5MTMsLTIzNj
-MzNjA3LDEyNDMzNTc5ODgsMTg0MzAxNTI1NiwxMDczMjg4OTI3
-LDE3NzQ5ODgzMDgsMTI0NjM4MjYwNiwtMTcwNzA2ODI3LC0xMT
-c0MzI1MjE1LC0xODU2NjU0MzA0LC0yODY0NzY2NTcsMTU1MTQw
-NTMzNiwxMTI5MTUwODc2LDE1ODM0MDE3MDEsMTI2MDAwNjA5Ni
-wxNzA1MTM2NTUwLC0xMDQ1MjMxNzYzXX0=
+eyJoaXN0b3J5IjpbMTQ1ODgwMTkyNiw4MjU2OTYyNTcsLTkwMD
+M1NjkxMywtMjM2MzM2MDcsMTI0MzM1Nzk4OCwxODQzMDE1MjU2
+LDEwNzMyODg5MjcsMTc3NDk4ODMwOCwxMjQ2MzgyNjA2LC0xNz
+A3MDY4MjcsLTExNzQzMjUyMTUsLTE4NTY2NTQzMDQsLTI4NjQ3
+NjY1NywxNTUxNDA1MzM2LDExMjkxNTA4NzYsMTU4MzQwMTcwMS
+wxMjYwMDA2MDk2LDE3MDUxMzY1NTAsLTEwNDUyMzE3NjNdfQ==
+
 -->
