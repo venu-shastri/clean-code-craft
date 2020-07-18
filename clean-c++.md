@@ -89,11 +89,15 @@ If cyclomatic complexity is high, the affected piece of code is typically more d
 argument list, then code depends on that type. The header file containing the used type must be included
 - every argument must be processed somewhere inside of a function (if not, the argument is unnecessary and should be deleted immediately).
 
+#### 
+> Real functions should have as few arguments as possible. One argument is the ideal number. Member functions (methods) of a class often have no arguments. Usually those functions are manipulating the internal state of the object, or they are used to query something from the object.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5Njk0MjI5LDgyNTY5NjI1NywtOTAwMz
-U2OTEzLC0yMzYzMzYwNywxMjQzMzU3OTg4LDE4NDMwMTUyNTYs
-MTA3MzI4ODkyNywxNzc0OTg4MzA4LDEyNDYzODI2MDYsLTE3MD
-cwNjgyNywtMTE3NDMyNTIxNSwtMTg1NjY1NDMwNCwtMjg2NDc2
-NjU3LDE1NTE0MDUzMzYsMTEyOTE1MDg3NiwxNTgzNDAxNzAxLD
-EyNjAwMDYwOTYsMTcwNTEzNjU1MCwtMTA0NTIzMTc2M119
+eyJoaXN0b3J5IjpbMTQ2MDU5NDMyNiw4MjU2OTYyNTcsLTkwMD
+M1NjkxMywtMjM2MzM2MDcsMTI0MzM1Nzk4OCwxODQzMDE1MjU2
+LDEwNzMyODg5MjcsMTc3NDk4ODMwOCwxMjQ2MzgyNjA2LC0xNz
+A3MDY4MjcsLTExNzQzMjUyMTUsLTE4NTY2NTQzMDQsLTI4NjQ3
+NjY1NywxNTUxNDA1MzM2LDExMjkxNTA4NzYsMTU4MzQwMTcwMS
+wxMjYwMDA2MDk2LDE3MDUxMzY1NTAsLTEwNDUyMzE3NjNdfQ==
+
 -->
