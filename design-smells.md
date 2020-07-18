@@ -36,6 +36,11 @@ Design problems affect program locations such as **`packages, interfaces, hierar
 
 >Usually, a code smell is related to a design problem when it occurs due to the presence of design problem. Developers can rely on the analysis of code smells to
 identify design problems . Unfortunately, not all (instance of) code smells are related to a design problem
+
+For example :- 
+>Consider **Scattered Concern** , a design problem that occurs when multiple code elements implement a functionality that should have been implemented by only
+a few elements. Often, elements that implement the scattered functionality contain code smells such as God Class, Feature Envy, Intensive Coupling, Divergent Change, and
+the like
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzgxODUzMCwtNTMxNDM5OTMzXX0=
+eyJoaXN0b3J5IjpbLTIwMjA2MDc5OTUsLTUzMTQzOTkzM119
 -->
