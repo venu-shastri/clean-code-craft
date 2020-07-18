@@ -109,13 +109,14 @@ One of the frequently mentioned benefits of using output arguments is that funct
 - A NULL or nullptr can mean failure, can mean success, and can mean almost anything
 - If it is inevitable to return a regular pointer as the result from a function or method, do not return nullptr!
 - you’re forced to return a regular pointer as the result from a function ensure that the pointer you’re returning always points to a valid address
+- The main rationale why you should not return nullptr from a function is that you shift the responsibility to decide what to do onto your callers. They have to check it. They have to deal with it.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyOTg2OTksLTEzMTI5NzUzNzQsMTQxMj
-UxNDM4LC0xNTY1OTYwNDc0LC0xNjI3ODE3NjAzLC00NzAwNjIz
-NjMsODI1Njk2MjU3LC05MDAzNTY5MTMsLTIzNjMzNjA3LDEyND
-MzNTc5ODgsMTg0MzAxNTI1NiwxMDczMjg4OTI3LDE3NzQ5ODgz
-MDgsMTI0NjM4MjYwNiwtMTcwNzA2ODI3LC0xMTc0MzI1MjE1LC
-0xODU2NjU0MzA0LC0yODY0NzY2NTcsMTU1MTQwNTMzNiwxMTI5
-MTUwODc2XX0=
+eyJoaXN0b3J5IjpbMTUyOTQwOTM2NywtMTMxMjk3NTM3NCwxND
+EyNTE0MzgsLTE1NjU5NjA0NzQsLTE2Mjc4MTc2MDMsLTQ3MDA2
+MjM2Myw4MjU2OTYyNTcsLTkwMDM1NjkxMywtMjM2MzM2MDcsMT
+I0MzM1Nzk4OCwxODQzMDE1MjU2LDEwNzMyODg5MjcsMTc3NDk4
+ODMwOCwxMjQ2MzgyNjA2LC0xNzA3MDY4MjcsLTExNzQzMjUyMT
+UsLTE4NTY2NTQzMDQsLTI4NjQ3NjY1NywxNTUxNDA1MzM2LDEx
+MjkxNTA4NzZdfQ==
 -->
