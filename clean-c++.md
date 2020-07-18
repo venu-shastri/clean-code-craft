@@ -30,12 +30,16 @@ example, a small method in a class at the deepest level could have a very detail
 - Avoid Hungarian Notation and Prefixes
 	- Charles Simonyi (Chief Architect at Microsoft in the 1980s) developed a notation convention for naming variables in computer software, named the Hungarian notation
 	- When using Hungarian Notation, the type, and sometimes also the scope, of a variable are used as a naming prefix for that variable
+	- Hungarian notation was potentially helpful in a weakly typed language
+	- It may have been useful at a time when developers have used simple editors for programming, and not IDEs that have a feature like “IntelliSense.”
 	- Do not use Hungarian notation, or any other prefix-based notation, encoding the type of a variable in its name!
+	- 
 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTY2NTQzMDQsLTI4NjQ3NjY1NywxNT
-UxNDA1MzM2LDExMjkxNTA4NzYsMTU4MzQwMTcwMSwxMjYwMDA2
-MDk2LDE3MDUxMzY1NTAsLTEwNDUyMzE3NjNdfQ==
+eyJoaXN0b3J5IjpbNzAwMzQyNzUwLC0xODU2NjU0MzA0LC0yOD
+Y0NzY2NTcsMTU1MTQwNTMzNiwxMTI5MTUwODc2LDE1ODM0MDE3
+MDEsMTI2MDAwNjA5NiwxNzA1MTM2NTUwLC0xMDQ1MjMxNzYzXX
+0=
 -->
