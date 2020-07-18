@@ -4,6 +4,11 @@
 - Source code is read much more often by developers than translated by a compiler
 - source code should be readable, and good names are a key factor to increase its readability
 - Source code files, namespaces, classes, templates, functions, arguments, variables, and constants should have meaningful and expressive names.
+### Few bits of advice for finding good names.
+- Names Should Be Self-Explanatory
+	- Use simple but descriptive and self-explaining names.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTEzNjU1MCwtMTA0NTIzMTc2M119
+eyJoaXN0b3J5IjpbNDIyOTAxMTc4LDE3MDUxMzY1NTAsLTEwND
+UyMzE3NjNdfQ==
 -->
