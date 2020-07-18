@@ -148,9 +148,14 @@ controls, confusing error messages, unusual reactions on established keystroke s
 	- Developers should apply this principle to our daily work. Whenever we find something in a piece of code that needs to be improved, or which is a bad code smell, we should fix it immediately. And it does not matter who the original author of this piece of code was.
 	- Advantages
 		- continuously prevent the dilapidation of our code
-		- The tendency of growing software entropy has little chance to take dominance of our system
+		- Renaming a poorly named class, variable, function, or method 
+• Decomposing the innards of a large function into smaller pieces 
+• Deleting a comment by making the commented piece of code self-explanatory
+• Cleaning up a complex and puzzling if-else-compound.
+• Removing a small bit of duplicated code
+		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzI1OTI3NSwtMjI2NDc4MDMwLDE3OD
+eyJoaXN0b3J5IjpbLTUzNjE5OTQwNCwtMjI2NDc4MDMwLDE3OD
 Q2NTYyODAsOTM0MTI1MzI2LDMzOTM0NDgxMCwxMTcxNjc3NDI3
 LC03MTAyODE3ODMsNTM5MTI3Mzg0LC0xOTg1NDM4MjE5LC01NT
 A5NDk0MCwyMTAyNDEyODIwLDU3NzgyMzcwNSwtOTQ3OTIwNTQ4
