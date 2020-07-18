@@ -16,6 +16,8 @@ Design problems affect program locations such as **`packages, interfaces, hierar
 |Overused interface|Interface that is overloaded with many clients accessing it, that is, an interface with too many clients
 |Unused abstraction |Design abstraction that is either unreachable or never used in the system
 
+## Smelly Code / Code Smell
+>Code smell is a recurring micro-structure in the source code that may indicate the manifestation of a design problem
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzYyMTMwMV19
+eyJoaXN0b3J5IjpbNzQ5ODAxMjQ4XX0=
 -->
