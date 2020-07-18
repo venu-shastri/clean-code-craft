@@ -13,9 +13,11 @@
 - Use Names from the Domain
 	- DDD
 	- Name components, classes, and functions in a way that elements and concepts from the application’s domain can be rediscovered
+- Choose Names at an Appropriate Level of Abstraction
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTE1MDg3NiwxNTgzNDAxNzAxLDEyNj
-AwMDYwOTYsMTcwNTEzNjU1MCwtMTA0NTIzMTc2M119
+eyJoaXN0b3J5IjpbLTE1NTQwMzg3MzgsMTEyOTE1MDg3NiwxNT
+gzNDAxNzAxLDEyNjAwMDYwOTYsMTcwNTEzNjU1MCwtMTA0NTIz
+MTc2M119
 -->
