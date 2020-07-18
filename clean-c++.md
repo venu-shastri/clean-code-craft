@@ -42,10 +42,13 @@ example, a small method in a class at the deepest level could have a very detail
 Truth can only be found in one place: the code.
 —Robert C. Martin, Clean Code [Martin09]
 - Comments are necessary when there is need for explanation and clarification	
+- Let the Code Tell a Story
+- Code should tell a story and be self-explanatory. Comments must be avoided whenever possible
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjM4MjYwNiwtMTcwNzA2ODI3LC0xMT
-c0MzI1MjE1LC0xODU2NjU0MzA0LC0yODY0NzY2NTcsMTU1MTQw
-NTMzNiwxMTI5MTUwODc2LDE1ODM0MDE3MDEsMTI2MDAwNjA5Ni
-wxNzA1MTM2NTUwLC0xMDQ1MjMxNzYzXX0=
+eyJoaXN0b3J5IjpbMTc3NDk4ODMwOCwxMjQ2MzgyNjA2LC0xNz
+A3MDY4MjcsLTExNzQzMjUyMTUsLTE4NTY2NTQzMDQsLTI4NjQ3
+NjY1NywxNTUxNDA1MzM2LDExMjkxNTA4NzYsMTU4MzQwMTcwMS
+wxMjYwMDA2MDk2LDE3MDUxMzY1NTAsLTEwNDUyMzE3NjNdfQ==
+
 -->
