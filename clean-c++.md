@@ -73,11 +73,15 @@ If cyclomatic complexity is high, the affected piece of code is typically more d
 - Mixes different concerns, 
 - Has many arguments, and contains dead code.
 
+### Best Practices
+#### Function Naming
+The name of a function should start with a verb. Predicates, that is, statements about an object that can be true or false, should start with “is” or “has
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDMxOTM3NTIsMTI0MzM1Nzk4OCwxOD
-QzMDE1MjU2LDEwNzMyODg5MjcsMTc3NDk4ODMwOCwxMjQ2Mzgy
-NjA2LC0xNzA3MDY4MjcsLTExNzQzMjUyMTUsLTE4NTY2NTQzMD
-QsLTI4NjQ3NjY1NywxNTUxNDA1MzM2LDExMjkxNTA4NzYsMTU4
-MzQwMTcwMSwxMjYwMDA2MDk2LDE3MDUxMzY1NTAsLTEwNDUyMz
-E3NjNdfQ==
+eyJoaXN0b3J5IjpbLTIzNjMzNjA3LDEyNDMzNTc5ODgsMTg0Mz
+AxNTI1NiwxMDczMjg4OTI3LDE3NzQ5ODgzMDgsMTI0NjM4MjYw
+NiwtMTcwNzA2ODI3LC0xMTc0MzI1MjE1LC0xODU2NjU0MzA0LC
+0yODY0NzY2NTcsMTU1MTQwNTMzNiwxMTI5MTUwODc2LDE1ODM0
+MDE3MDEsMTI2MDAwNjA5NiwxNzA1MTM2NTUwLC0xMDQ1MjMxNz
+YzXX0=
 -->
