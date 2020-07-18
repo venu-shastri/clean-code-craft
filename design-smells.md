@@ -26,8 +26,10 @@ Design problems affect program locations such as **`packages, interfaces, hierar
 |--|--|
 | God class | Long and complex class that centralizes the intelligence of the system |
 |Brain method|Long and complex method that centralizes the intelligence of a class |
-|
+|Data Class |Class that contains data but not behavior related to the data|
+|Dispersed coupling|The case of an operation which is excessively tied to many other operations in the system, and additionally these provider methods that are dispersed among many classes|
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDYyMDc0XX0=
+eyJoaXN0b3J5IjpbNjA5ODI4OTI1XX0=
 -->
