@@ -33,12 +33,14 @@ example, a small method in a class at the deepest level could have a very detail
 	- Hungarian notation was potentially helpful in a weakly typed language
 	- It may have been useful at a time when developers have used simple editors for programming, and not IDEs that have a feature like “IntelliSense.”
 	- Do not use Hungarian notation, or any other prefix-based notation, encoding the type of a variable in its name!
+	- In object-oriented languages that support polymorphism, the prefix cannot be specified easily, or a prefix can even be puzzling
+	- How to determine a suitable and unmistakable prefix for an instantiated C++ template?
 	- 
 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwMzQyNzUwLC0xODU2NjU0MzA0LC0yOD
+eyJoaXN0b3J5IjpbODM5NzM0NzI4LC0xODU2NjU0MzA0LC0yOD
 Y0NzY2NTcsMTU1MTQwNTMzNiwxMTI5MTUwODc2LDE1ODM0MDE3
 MDEsMTI2MDAwNjA5NiwxNzA1MTM2NTUwLC0xMDQ1MjMxNzYzXX
 0=
