@@ -102,12 +102,14 @@ One of the frequently mentioned benefits of using output arguments is that funct
 	- output parameters complicate the easy composition of expressions
 		- If functions have only one return value, they can be interconnected quite easily to chained function calls
 	- if immutability should be fostered and side effects must be reduced, then output parameters are an absolutely terrible idea.
+#### Finally
+>If a method should return something to its callers, let the method return it as the methods return value. If the method must return multiple values, redesign it to return a single instance of an object that holds the values. Alternatively, a **`std::tuple  or a std::pair`** can be used.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTkyNTE3MywtMTU2NTk2MDQ3NCwtMT
-YyNzgxNzYwMywtNDcwMDYyMzYzLDgyNTY5NjI1NywtOTAwMzU2
-OTEzLC0yMzYzMzYwNywxMjQzMzU3OTg4LDE4NDMwMTUyNTYsMT
-A3MzI4ODkyNywxNzc0OTg4MzA4LDEyNDYzODI2MDYsLTE3MDcw
-NjgyNywtMTE3NDMyNTIxNSwtMTg1NjY1NDMwNCwtMjg2NDc2Nj
-U3LDE1NTE0MDUzMzYsMTEyOTE1MDg3NiwxNTgzNDAxNzAxLDEy
-NjAwMDYwOTZdfQ==
+eyJoaXN0b3J5IjpbMTQxMjUxNDM4LC0xNTY1OTYwNDc0LC0xNj
+I3ODE3NjAzLC00NzAwNjIzNjMsODI1Njk2MjU3LC05MDAzNTY5
+MTMsLTIzNjMzNjA3LDEyNDMzNTc5ODgsMTg0MzAxNTI1NiwxMD
+czMjg4OTI3LDE3NzQ5ODgzMDgsMTI0NjM4MjYwNiwtMTcwNzA2
+ODI3LC0xMTc0MzI1MjE1LC0xODU2NjU0MzA0LC0yODY0NzY2NT
+csMTU1MTQwNTMzNiwxMTI5MTUwODc2LDE1ODM0MDE3MDEsMTI2
+MDAwNjA5Nl19
 -->
