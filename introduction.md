@@ -76,11 +76,11 @@ Is software quality a sole concern of the quality assurance department?
 	- Focusing on simplicity is probably one of the most difficult things to do for a programmer. And it is a life long learning experience
 - **YAGNI**
 	- Always implement things when you actually need them, never when you just foresee that you need them.
-- DRY
+- **DRY**
 	- Copy and paste is a design error
 	- Referred to as “Once And Only Once” (OAOO).
 	- applying the DRY principle means that we have to ensure that “every piece of code must have a single, unambiguous, authoritative representation within a system
-- Information Hiding
+- **Information Hiding**
 	- The principle states that one piece of code that calls another piece of code should not know internals about that other piece of code.
 	- information hiding is the basic principle for decomposing systems into modules
 	- advantages of information hiding:
@@ -88,13 +88,14 @@ Is software quality a sole concern of the quality assurance department?
 		- Minimal influence on other modules if a bug fix is necessary
 		- Significantly increasing the reusability of modules
 		-  Better test-ability of modules
+	- Information hiding is often confused with **encapsulation**, but it’s not the same
 - Strong Cohesion
 - Loose Coupling
 - Optimizations
 - Principle of Least Astonishment (PLA)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjEwMjgyNCw1MzkxMjczODQsLTE5OD
+eyJoaXN0b3J5IjpbLTcxMDI4MTc4Myw1MzkxMjczODQsLTE5OD
 U0MzgyMTksLTU1MDk0OTQwLDIxMDI0MTI4MjAsNTc3ODIzNzA1
 LC05NDc5MjA1NDgsLTE1MTc0NzA2NjNdfQ==
 -->
