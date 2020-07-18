@@ -12,8 +12,10 @@ Design problems affect program locations such as **`packages, interfaces, hierar
 |Component overload|Design components that fulfill too many  responsibilities
 |Cyclic dependency|Two or more design components that directly or indirectly depend on each other
 |Delegating abstraction|An abstraction that exists only for passing messages from one abstraction to another
-|Scattered concern|
+|Scattered concern|Multiple components that are responsible for realizing a crosscutting concern
+|Overused interface|Interface that is overloaded with many clients accessing it, that is, an interface with too many clients
+|Unused abstraction |Design abstraction that is either unreachable or never used in the system
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzNzczOTldfQ==
+eyJoaXN0b3J5IjpbLTQ5NzYyMTMwMV19
 -->
