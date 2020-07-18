@@ -21,6 +21,13 @@ Design problems affect program locations such as **`packages, interfaces, hierar
 >A design problem can manifest itself in a program by affecting multiple source code locations. Each of these locations are called here smelly code
 >Developer can analyze  the smelly code to identify a design problem.
 
+### Types Of Code Smell
+|Type| Description |
+|--|--|
+| God class | Long and complex class that centralizes the intelligence of the system |
+|Brain method|Long and complex method that centralizes the intelligence of a class |
+|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQxMjM3NTBdfQ==
+eyJoaXN0b3J5IjpbLTQxNDYyMDc0XX0=
 -->
