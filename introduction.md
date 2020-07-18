@@ -105,15 +105,15 @@ State state;
 public:
 State getState() const;
 // ...more member functions here...
-};
-	```
+};```
+
 - Strong Cohesion
 - Loose Coupling
 - Optimizations
 - Principle of Least Astonishment (PLA)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyODM5NTQ0LC03MTAyODE3ODMsNTM5MT
-I3Mzg0LC0xOTg1NDM4MjE5LC01NTA5NDk0MCwyMTAyNDEyODIw
-LDU3NzgyMzcwNSwtOTQ3OTIwNTQ4LC0xNTE3NDcwNjYzXX0=
+eyJoaXN0b3J5IjpbMTc2MDM5NzEwOCwtNzEwMjgxNzgzLDUzOT
+EyNzM4NCwtMTk4NTQzODIxOSwtNTUwOTQ5NDAsMjEwMjQxMjgy
+MCw1Nzc4MjM3MDUsLTk0NzkyMDU0OCwtMTUxNzQ3MDY2M119
 -->
