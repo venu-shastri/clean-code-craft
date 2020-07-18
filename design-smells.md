@@ -9,8 +9,11 @@ Design problems affect program locations such as **`packages, interfaces, hierar
 |--|--|
 | Fat interface | Interface of a design component that offers only general, ambiguous entry-point that provides non-cohesive services, thereby complicating the clients’ logic |
 |Unwanted Dependency|Dependency that violates an intended design rule|
-|
+|Component overload|Design components that fulfill too many  responsibilities
+|Cyclic dependency|Two or more design components that directly or indirectly depend on each other
+|Delegating abstraction|An abstraction that exists only for passing messages from one abstraction to another
+|Scattered concern|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg3MjYxODhdfQ==
+eyJoaXN0b3J5IjpbODMzNzczOTldfQ==
 -->
