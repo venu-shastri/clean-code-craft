@@ -106,12 +106,17 @@ One of the frequently mentioned benefits of using output arguments is that funct
 >If a method should return something to its callers, let the method return it as the methods return value. If the method must return multiple values, redesign it to return a single instance of an object that holds the values. Alternatively, a **`std::tuple  or a std::pair`** can be used.
 
 #### Don’t Pass or Return 0 (NULL, nullptr)
+A nullptr can mean failure, can mean success,
+and can mean almost anything
+**questions**
+- What should the caller do with it?
+- What does it mean?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTI5NzUzNzQsMTQxMjUxNDM4LC0xNT
-Y1OTYwNDc0LC0xNjI3ODE3NjAzLC00NzAwNjIzNjMsODI1Njk2
-MjU3LC05MDAzNTY5MTMsLTIzNjMzNjA3LDEyNDMzNTc5ODgsMT
-g0MzAxNTI1NiwxMDczMjg4OTI3LDE3NzQ5ODgzMDgsMTI0NjM4
-MjYwNiwtMTcwNzA2ODI3LC0xMTc0MzI1MjE1LC0xODU2NjU0Mz
-A0LC0yODY0NzY2NTcsMTU1MTQwNTMzNiwxMTI5MTUwODc2LDE1
-ODM0MDE3MDFdfQ==
+eyJoaXN0b3J5IjpbLTEyNDE0NTE3NzgsLTEzMTI5NzUzNzQsMT
+QxMjUxNDM4LC0xNTY1OTYwNDc0LC0xNjI3ODE3NjAzLC00NzAw
+NjIzNjMsODI1Njk2MjU3LC05MDAzNTY5MTMsLTIzNjMzNjA3LD
+EyNDMzNTc5ODgsMTg0MzAxNTI1NiwxMDczMjg4OTI3LDE3NzQ5
+ODgzMDgsMTI0NjM4MjYwNiwtMTcwNzA2ODI3LC0xMTc0MzI1Mj
+E1LC0xODU2NjU0MzA0LC0yODY0NzY2NTcsMTU1MTQwNTMzNiwx
+MTI5MTUwODc2XX0=
 -->
