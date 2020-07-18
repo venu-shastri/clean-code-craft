@@ -39,8 +39,25 @@ identify design problems . Unfortunately, not all (instance of) code smells are 
 
 For example :- 
 >Consider **Scattered Concern** , a design problem that occurs when multiple code elements implement a functionality that should have been implemented by only
-a few elements. Often, elements that implement the scattered functionality contain code smells such as God Class, Feature Envy, Intensive Coupling, Divergent Change, and
-the like
+a few elements. Often, elements that implement the scattered functionality contain **code smells such as God Class, Feature Envy, Intensive Coupling, Divergent Change**.
+- As the code elements implement a scattered functionality,
+these elements are likely of realizing at least
+two functionalities: their predominant functionality and
+another one, in which the predominant functionality can
+be either the scattered one or not. Either way, the elements
+implement more than one functionality, which leads them
+to the appearance of a God Class. 
+- Additionally, the methods in the class have to communicate with other classes
+that also implement the scattered functionality. Thus,
+these methods can contain instances of Feature Envy,
+leading to the appearance of an Intensive Coupling smell.
+- Furthermore, every chance in the functionality will impact
+the elements that implement it; thus, these elements will
+have the Shotgun Surgery and Divergent Change. 
+>In summary, these code smells could appear in the elements due
+to the scattered functionality, i.e., due to the Scattered
+Concern.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA2MDc5OTUsLTUzMTQzOTkzM119
+eyJoaXN0b3J5IjpbLTE1Nzc5ODQ1NDUsLTUzMTQzOTkzM119
 -->
