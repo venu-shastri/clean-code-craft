@@ -23,10 +23,12 @@ example, a small method in a class at the deepest level could have a very detail
 
 - Avoid Redundancy When Choosing a Name
 	- It is redundant to pick up a class name or other names that provide a clear context, and use them as a part to build the name of a member variable
+
+- Avoid Cryptic Abbreviations
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTQwNTMzNiwxMTI5MTUwODc2LDE1OD
-M0MDE3MDEsMTI2MDAwNjA5NiwxNzA1MTM2NTUwLC0xMDQ1MjMx
-NzYzXX0=
+eyJoaXN0b3J5IjpbLTkwNzIwNTE5LDE1NTE0MDUzMzYsMTEyOT
+E1MDg3NiwxNTgzNDAxNzAxLDEyNjAwMDYwOTYsMTcwNTEzNjU1
+MCwtMTA0NTIzMTc2M119
 -->
