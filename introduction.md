@@ -91,21 +91,54 @@ Is software quality a sole concern of the quality assurance department?
 	- Information hiding is often confused with **encapsulation**, but it’s not the same
 	- ex:-
 	```
-	class AutomaticDoor {
+	class  DeviceConnection { 
 	public:
-enum class State {
+	enum  class  State {
+
 closed = 1,
+
 opening,
+
 open,
+
 closing
+
 };
+
 private:
+
 State state;
+
 // ...more attributes here...
+
 public:
-State getState() const;
+
+State  getState() const;
+
 // ...more member functions here...
-};```
+
+};
+
+  
+
+#include  "DeviceConnection.h"
+
+int  main() {
+
+DeviceConnection connection;
+
+connection::State connectionState = connection.getState();
+
+if (doorsState == DeviceConnection::State::closed) {
+
+// do something...
+
+}
+
+return  0;
+
+} ```
+
 
 - Strong Cohesion
 - Loose Coupling
@@ -113,7 +146,8 @@ State getState() const;
 - Principle of Least Astonishment (PLA)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTY3NzQyNywtNzEwMjgxNzgzLDUzOT
-EyNzM4NCwtMTk4NTQzODIxOSwtNTUwOTQ5NDAsMjEwMjQxMjgy
-MCw1Nzc4MjM3MDUsLTk0NzkyMDU0OCwtMTUxNzQ3MDY2M119
+eyJoaXN0b3J5IjpbLTc4ODA0NTg1MiwxMTcxNjc3NDI3LC03MT
+AyODE3ODMsNTM5MTI3Mzg0LC0xOTg1NDM4MjE5LC01NTA5NDk0
+MCwyMTAyNDEyODIwLDU3NzgyMzcwNSwtOTQ3OTIwNTQ4LC0xNT
+E3NDcwNjYzXX0=
 -->
