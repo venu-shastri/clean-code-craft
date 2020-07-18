@@ -60,12 +60,14 @@ Truth can only be found in one place: the code.
 	- Try to be as short and expressive as possible
 	- Documentation Generation from Source Code
 		- Doxygen (http://doxygen.org)
+		-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzM1Nzk4OCwxODQzMDE1MjU2LDEwNz
-MyODg5MjcsMTc3NDk4ODMwOCwxMjQ2MzgyNjA2LC0xNzA3MDY4
-MjcsLTExNzQzMjUyMTUsLTE4NTY2NTQzMDQsLTI4NjQ3NjY1Ny
-wxNTUxNDA1MzM2LDExMjkxNTA4NzYsMTU4MzQwMTcwMSwxMjYw
-MDA2MDk2LDE3MDUxMzY1NTAsLTEwNDUyMzE3NjNdfQ==
+eyJoaXN0b3J5IjpbLTEzMzAwNDE4MjcsMTI0MzM1Nzk4OCwxOD
+QzMDE1MjU2LDEwNzMyODg5MjcsMTc3NDk4ODMwOCwxMjQ2Mzgy
+NjA2LC0xNzA3MDY4MjcsLTExNzQzMjUyMTUsLTE4NTY2NTQzMD
+QsLTI4NjQ3NjY1NywxNTUxNDA1MzM2LDExMjkxNTA4NzYsMTU4
+MzQwMTcwMSwxMjYwMDA2MDk2LDE3MDUxMzY1NTAsLTEwNDUyMz
+E3NjNdfQ==
 -->
