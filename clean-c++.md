@@ -41,11 +41,11 @@ example, a small method in a class at the deepest level could have a very detail
 ## Comments
 Truth can only be found in one place: the code.
 —Robert C. Martin, Clean Code [Martin09]
-	
+- Comments are necessary when there is need for explanation and clarification	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDcwNjgyNywtMTE3NDMyNTIxNSwtMT
-g1NjY1NDMwNCwtMjg2NDc2NjU3LDE1NTE0MDUzMzYsMTEyOTE1
-MDg3NiwxNTgzNDAxNzAxLDEyNjAwMDYwOTYsMTcwNTEzNjU1MC
-wtMTA0NTIzMTc2M119
+eyJoaXN0b3J5IjpbMTI0NjM4MjYwNiwtMTcwNzA2ODI3LC0xMT
+c0MzI1MjE1LC0xODU2NjU0MzA0LC0yODY0NzY2NTcsMTU1MTQw
+NTMzNiwxMTI5MTUwODc2LDE1ODM0MDE3MDEsMTI2MDAwNjA5Ni
+wxNzA1MTM2NTUwLC0xMDQ1MjMxNzYzXX0=
 -->
