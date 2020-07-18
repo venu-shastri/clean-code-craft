@@ -106,13 +106,12 @@ One of the frequently mentioned benefits of using output arguments is that funct
 >If a method should return something to its callers, let the method return it as the methods return value. If the method must return multiple values, redesign it to return a single instance of an object that holds the values. Alternatively, a **`std::tuple  or a std::pair`** can be used.
 
 #### Don’t Pass or Return 0 (NULL, nullptr)
-A nullptr can mean failure, can mean success,
-and can mean almost anything
-**questions**
-- What should the caller do with it?
-- What does it mean?
+- A NULL or nullptr can mean failure, can mean success, and can mean almost anything
+- If it is inevitable to return a regular pointer as the result from a function or method, do not return nullptr!
+-
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE0NTE3NzgsLTEzMTI5NzUzNzQsMT
+eyJoaXN0b3J5IjpbLTEzOTMxNjk0NzUsLTEzMTI5NzUzNzQsMT
 QxMjUxNDM4LC0xNTY1OTYwNDc0LC0xNjI3ODE3NjAzLC00NzAw
 NjIzNjMsODI1Njk2MjU3LC05MDAzNTY5MTMsLTIzNjMzNjA3LD
 EyNDMzNTc5ODgsMTg0MzAxNTI1NiwxMDczMjg4OTI3LDE3NzQ5
