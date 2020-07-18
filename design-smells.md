@@ -33,6 +33,9 @@ Design problems affect program locations such as **`packages, interfaces, hierar
 |Refused bequest|Subclass that does not use the protected methods of its superclass|
 |Shotgun surgery|This smell is evident when you must change lots of pieces of code in different places simply to add a new or extended piece of behavior |
 |Tradition breaker|Subclass that provides a large set of services that are unrelated to services provided by the superclass|
+
+>Usually, a code smell is related to a design problem when it occurs due to the presence of design problem. Developers can rely on the analysis of code smells to
+identify design problems . Unfortunately, not all (instance of) code smells are related to a design problem
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTQzOTkzM119
+eyJoaXN0b3J5IjpbLTQ4MzgxODUzMCwtNTMxNDM5OTMzXX0=
 -->
