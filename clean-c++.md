@@ -67,9 +67,15 @@ The metric is a directly count of the number of linearly independent paths throu
 code, for example, a function. If a function contains no if- or switch-statement, and no for- or while-loop, there is just one single path through the function and its cyclomatic complexity is 1. If the function contains one if-statement representing a single decision point, there are two paths through the function and the cyclomatic complexity is 2.
 If cyclomatic complexity is high, the affected piece of code is typically more difficult to understand, test, and modify, and thus prone to bugs.
 
+### Bad Smells in Functions
+- too long, 
+-  Has a high cyclomatic complexity
+- , Mixes different concerns, 
+- has many arguments, and contains
+dead code.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDY0ODI3MSwxMjQzMzU3OTg4LDE4ND
+eyJoaXN0b3J5IjpbLTk5ODc3OTUyOCwxMjQzMzU3OTg4LDE4ND
 MwMTUyNTYsMTA3MzI4ODkyNywxNzc0OTg4MzA4LDEyNDYzODI2
 MDYsLTE3MDcwNjgyNywtMTE3NDMyNTIxNSwtMTg1NjY1NDMwNC
 wtMjg2NDc2NjU3LDE1NTE0MDUzMzYsMTEyOTE1MDg3NiwxNTgz
