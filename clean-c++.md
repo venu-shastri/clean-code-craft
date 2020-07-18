@@ -54,10 +54,14 @@ Truth can only be found in one place: the code.
 -  The Rare Cases Where Comments Are Useful
 	- a comment is justified if a section of code has a high degree of inherent complexity so that it cannot be understood easily by everyone who did not have deep expert knowledge, ex:- sophisticated mathematical algorithm or formula ,The software system deals with a not everyday (business) domain ,experimental physics, complex simulations of natural phenomenons, or ambitious ciphering methods
 	- Another good reason to write a comment for once is a situation in which you must deliberately deviate from a good design principle
+- GuideLines
+	- Make sure that your comments add value to the code.
+	- Explain always the Why, not the How.
+	- Try to be as short and expressive as possible
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTkzODI3MzIsMTg0MzAxNTI1NiwxMD
+eyJoaXN0b3J5IjpbLTIxMjYwNTg4NTEsMTg0MzAxNTI1NiwxMD
 czMjg4OTI3LDE3NzQ5ODgzMDgsMTI0NjM4MjYwNiwtMTcwNzA2
 ODI3LC0xMTc0MzI1MjE1LC0xODU2NjU0MzA0LC0yODY0NzY2NT
 csMTU1MTQwNTMzNiwxMTI5MTUwODc2LDE1ODM0MDE3MDEsMTI2
