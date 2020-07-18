@@ -29,11 +29,13 @@ example, a small method in a class at the deepest level could have a very detail
 	- cryptic abbreviations reduce the readability of  code significantly
 - Avoid Hungarian Notation and Prefixes
 	- Charles Simonyi (Chief Architect at Microsoft in the 1980s) developed a notation convention for naming variables in computer software, named the Hungarian notation
+	- When using Hungarian Notation, the type, and sometimes also the scope, of a variable are used as a naming prefix for that variable
+	- Do not use Hungarian notation, or any other prefix-based notation, encoding the type of a variable in its name!
 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTc5MDkwOSwtMjg2NDc2NjU3LDE1NT
-E0MDUzMzYsMTEyOTE1MDg3NiwxNTgzNDAxNzAxLDEyNjAwMDYw
-OTYsMTcwNTEzNjU1MCwtMTA0NTIzMTc2M119
+eyJoaXN0b3J5IjpbLTE4NTY2NTQzMDQsLTI4NjQ3NjY1NywxNT
+UxNDA1MzM2LDExMjkxNTA4NzYsMTU4MzQwMTcwMSwxMjYwMDA2
+MDk2LDE3MDUxMzY1NTAsLTEwNDUyMzE3NjNdfQ==
 -->
