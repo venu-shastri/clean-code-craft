@@ -149,15 +149,16 @@ controls, confusing error messages, unusual reactions on established keystroke s
 	- Advantages
 		- continuously prevent the dilapidation of our code
 		- Renaming a poorly named class, variable, function, or method 
-• Decomposing the innards of a large function into smaller pieces 
-• Deleting a comment by making the commented piece of code self-explanatory
-• Cleaning up a complex and puzzling if-else-compound.
-• Removing a small bit of duplicated code
+	-  Behaviors
+		- Decomposing the innards of a large function into smaller pieces 
+		- Deleting a comment by making the commented piece of code self-explanatory
+		- Cleaning up a complex and puzzling if-else-compound.
+		- Removing a small bit of duplicated code
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjE5OTQwNCwtMjI2NDc4MDMwLDE3OD
-Q2NTYyODAsOTM0MTI1MzI2LDMzOTM0NDgxMCwxMTcxNjc3NDI3
-LC03MTAyODE3ODMsNTM5MTI3Mzg0LC0xOTg1NDM4MjE5LC01NT
-A5NDk0MCwyMTAyNDEyODIwLDU3NzgyMzcwNSwtOTQ3OTIwNTQ4
-LC0xNTE3NDcwNjYzXX0=
+eyJoaXN0b3J5IjpbLTIwODY1Njc0LC0yMjY0NzgwMzAsMTc4ND
+Y1NjI4MCw5MzQxMjUzMjYsMzM5MzQ0ODEwLDExNzE2Nzc0Mjcs
+LTcxMDI4MTc4Myw1MzkxMjczODQsLTE5ODU0MzgyMTksLTU1MD
+k0OTQwLDIxMDI0MTI4MjAsNTc3ODIzNzA1LC05NDc5MjA1NDgs
+LTE1MTc0NzA2NjNdfQ==
 -->
