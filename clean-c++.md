@@ -111,13 +111,15 @@ One of the frequently mentioned benefits of using output arguments is that funct
 - you’re forced to return a regular pointer as the result from a function ensure that the pointer you’re returning always points to a valid address
 - The main rationale why you should not return nullptr from a function is that you shift the responsibility to decide what to do onto your callers. They have to check it. They have to deal with many null checks,
 - If a function can return a valid pointer or nullptr, it introduces an alternative flow path that needs to be continued by the caller. And it should lead to a reasonable and senseful reaction
+- Any null check is forgotten, this can lead to critical runtime errors. Dereferencing a null pointer will lead to a segmentation fault and your application crashes.
+- In C++ there is still another problem to consider: **`object ownership`**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU2MTQxMDgsLTEzMTI5NzUzNzQsMT
-QxMjUxNDM4LC0xNTY1OTYwNDc0LC0xNjI3ODE3NjAzLC00NzAw
-NjIzNjMsODI1Njk2MjU3LC05MDAzNTY5MTMsLTIzNjMzNjA3LD
-EyNDMzNTc5ODgsMTg0MzAxNTI1NiwxMDczMjg4OTI3LDE3NzQ5
-ODgzMDgsMTI0NjM4MjYwNiwtMTcwNzA2ODI3LC0xMTc0MzI1Mj
-E1LC0xODU2NjU0MzA0LC0yODY0NzY2NTcsMTU1MTQwNTMzNiwx
-MTI5MTUwODc2XX0=
+eyJoaXN0b3J5IjpbMjY0OTEwNjk3LC0xMzEyOTc1Mzc0LDE0MT
+I1MTQzOCwtMTU2NTk2MDQ3NCwtMTYyNzgxNzYwMywtNDcwMDYy
+MzYzLDgyNTY5NjI1NywtOTAwMzU2OTEzLC0yMzYzMzYwNywxMj
+QzMzU3OTg4LDE4NDMwMTUyNTYsMTA3MzI4ODkyNywxNzc0OTg4
+MzA4LDEyNDYzODI2MDYsLTE3MDcwNjgyNywtMTE3NDMyNTIxNS
+wtMTg1NjY1NDMwNCwtMjg2NDc2NjU3LDE1NTE0MDUzMzYsMTEy
+OTE1MDg3Nl19
 -->
