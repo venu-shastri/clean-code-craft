@@ -115,16 +115,17 @@ One of the frequently mentioned benefits of using output arguments is that funct
 - In C++ there is still another problem to consider: **`object ownership`**
 	- what to do with the resource pointed to by the pointer after its
 usage.
-		- Who is its owner? Is it required to delete the object? If yes: How is the resource to be disposed? Must the object be deleted with delete, because it was allocated with the new operator somewhere inside the
-function? Or is the ownership of the resource object managed differently, so that a delete is forbidden and
-will result in undefined behavior
+		- Who is its owner? 
+		- Is it required to delete the object? If yes: How is the resource to be disposed? 
+		- Must the object be deleted with delete, because it was allocated with the new operator somewhere inside the	function? Or is the ownership of the resource object managed differently, so that a delete is forbidden and	will result in undefined behavior
+> if the caller does not handle the pointer correctly, it can lead to serious bugs, for example, memory leaks, double deletion, undefined behavior, and sometimes security vulnerabilities.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Nzk0MzU5NSwtMTMxMjk3NTM3NCwxND
-EyNTE0MzgsLTE1NjU5NjA0NzQsLTE2Mjc4MTc2MDMsLTQ3MDA2
-MjM2Myw4MjU2OTYyNTcsLTkwMDM1NjkxMywtMjM2MzM2MDcsMT
-I0MzM1Nzk4OCwxODQzMDE1MjU2LDEwNzMyODg5MjcsMTc3NDk4
-ODMwOCwxMjQ2MzgyNjA2LC0xNzA3MDY4MjcsLTExNzQzMjUyMT
-UsLTE4NTY2NTQzMDQsLTI4NjQ3NjY1NywxNTUxNDA1MzM2LDEx
-MjkxNTA4NzZdfQ==
+eyJoaXN0b3J5IjpbLTEyNzQyNzAzNTIsLTEzMTI5NzUzNzQsMT
+QxMjUxNDM4LC0xNTY1OTYwNDc0LC0xNjI3ODE3NjAzLC00NzAw
+NjIzNjMsODI1Njk2MjU3LC05MDAzNTY5MTMsLTIzNjMzNjA3LD
+EyNDMzNTc5ODgsMTg0MzAxNTI1NiwxMDczMjg4OTI3LDE3NzQ5
+ODgzMDgsMTI0NjM4MjYwNiwtMTcwNzA2ODI3LC0xMTc0MzI1Mj
+E1LC0xODU2NjU0MzA0LC0yODY0NzY2NTcsMTU1MTQwNTMzNiwx
+MTI5MTUwODc2XX0=
 -->
