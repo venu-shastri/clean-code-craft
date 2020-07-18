@@ -94,12 +94,15 @@ argument list, then code depends on that type. The header file containing the us
 #### Avoid Flag Arguments
 >A flag argument is a kind of argument that tells a function to perform a different operation depending on its value. Flag arguments are mostly of type bool, and sometimes even an enumeration
 	- The basic problem with flag arguments is that it will introduce two (or sometimes even more) paths . It means that the function is not doing one thing exactly right. Results case of weak cohesion  and violates the Single Responsibility Principle.
+#### Avoid Output Arguments
+>An output parameter, sometimes also called a result parameter, is a function argument that is used for the function’s return value.
+One of the frequently mentioned benefits of using output arguments is that functions that use them can pass back more than one value at a time
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjc4MTc2MDMsLTQ3MDA2MjM2Myw4Mj
-U2OTYyNTcsLTkwMDM1NjkxMywtMjM2MzM2MDcsMTI0MzM1Nzk4
-OCwxODQzMDE1MjU2LDEwNzMyODg5MjcsMTc3NDk4ODMwOCwxMj
-Q2MzgyNjA2LC0xNzA3MDY4MjcsLTExNzQzMjUyMTUsLTE4NTY2
-NTQzMDQsLTI4NjQ3NjY1NywxNTUxNDA1MzM2LDExMjkxNTA4Nz
-YsMTU4MzQwMTcwMSwxMjYwMDA2MDk2LDE3MDUxMzY1NTAsLTEw
-NDUyMzE3NjNdfQ==
+eyJoaXN0b3J5IjpbLTE1NjU5NjA0NzQsLTE2Mjc4MTc2MDMsLT
+Q3MDA2MjM2Myw4MjU2OTYyNTcsLTkwMDM1NjkxMywtMjM2MzM2
+MDcsMTI0MzM1Nzk4OCwxODQzMDE1MjU2LDEwNzMyODg5MjcsMT
+c3NDk4ODMwOCwxMjQ2MzgyNjA2LC0xNzA3MDY4MjcsLTExNzQz
+MjUyMTUsLTE4NTY2NTQzMDQsLTI4NjQ3NjY1NywxNTUxNDA1Mz
+M2LDExMjkxNTA4NzYsMTU4MzQwMTcwMSwxMjYwMDA2MDk2LDE3
+MDUxMzY1NTBdfQ==
 -->
