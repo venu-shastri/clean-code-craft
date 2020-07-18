@@ -124,13 +124,14 @@ class State is removed from the class? It is easy to see that it will have a sig
 
 
 - Strong Cohesion
+	- cohesion is strong when the module does a well-defined job
 - Loose Coupling
 - Optimizations
 - Principle of Least Astonishment (PLA)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0MTI1MzI2LDMzOTM0NDgxMCwxMTcxNj
-c3NDI3LC03MTAyODE3ODMsNTM5MTI3Mzg0LC0xOTg1NDM4MjE5
-LC01NTA5NDk0MCwyMTAyNDEyODIwLDU3NzgyMzcwNSwtOTQ3OT
-IwNTQ4LC0xNTE3NDcwNjYzXX0=
+eyJoaXN0b3J5IjpbMTc4NDY1NjI4MCw5MzQxMjUzMjYsMzM5Mz
+Q0ODEwLDExNzE2Nzc0MjcsLTcxMDI4MTc4Myw1MzkxMjczODQs
+LTE5ODU0MzgyMTksLTU1MDk0OTQwLDIxMDI0MTI4MjAsNTc3OD
+IzNzA1LC05NDc5MjA1NDgsLTE1MTc0NzA2NjNdfQ==
 -->
