@@ -154,9 +154,11 @@ controls, confusing error messages, unusual reactions on established keystroke s
 		- Deleting a comment by making the commented piece of code self-explanatory
 		- Cleaning up a complex and puzzling if-else-compound.
 		- Removing a small bit of duplicated code
+		- Collective Code Ownership.
+			- Every team member, at any time, is allowed to make a change or extension on any piece of code.
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY1Njc0LC0yMjY0NzgwMzAsMTc4ND
+eyJoaXN0b3J5IjpbNzA2NzYxNTExLC0yMjY0NzgwMzAsMTc4ND
 Y1NjI4MCw5MzQxMjUzMjYsMzM5MzQ0ODEwLDExNzE2Nzc0Mjcs
 LTcxMDI4MTc4Myw1MzkxMjczODQsLTE5ODU0MzgyMTksLTU1MD
 k0OTQwLDIxMDI0MTI4MjAsNTc3ODIzNzA1LC05NDc5MjA1NDgs
