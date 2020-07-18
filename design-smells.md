@@ -34,6 +34,8 @@ Design problems affect program locations such as **`packages, interfaces, hierar
 |Shotgun surgery|This smell is evident when you must change lots of pieces of code in different places simply to add a new or extended piece of behavior |
 |Tradition breaker|Subclass that provides a large set of services that are unrelated to services provided by the superclass|
 
+### Code smells and Design Problems
+>Developers can rely on the analysis of code smells to identify design problems.
 >Usually, a code smell is related to a design problem when it occurs due to the presence of design problem. Developers can rely on the analysis of code smells to
 identify design problems . Unfortunately, not all (instance of) code smells are related to a design problem
 
@@ -55,5 +57,5 @@ Concern.
 ### Stinky program location
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzY0NTE1MCwtNTMxNDM5OTMzXX0=
+eyJoaXN0b3J5IjpbLTEyODE3NzU4MDMsLTUzMTQzOTkzM119
 -->
