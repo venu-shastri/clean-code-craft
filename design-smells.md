@@ -55,7 +55,10 @@ to the scattered functionality, i.e., due to the Scattered
 Concern.
 
 ### Stinky program location
+>A program location is, the more likely it is to be affected by a design problem
+>**Stinky code** is the manifestation of multiple code smells in a program location
+#### Smell Agglomerations
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODE3NzU4MDMsLTUzMTQzOTkzM119
+eyJoaXN0b3J5IjpbOTU4ODk4MjIxLC01MzE0Mzk5MzNdfQ==
 -->
