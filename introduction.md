@@ -72,9 +72,9 @@ Is software quality a sole concern of the quality assurance department?
 #### What Is a Principle?
 >A principle is a kind of rule, belief, or idea that guides you. Principles are often directly coupled to values or a value system
 
-- KISS
+- **KISS**
 	- Focusing on simplicity is probably one of the most difficult things to do for a programmer. And it is a life long learning experience
-- YAGNI
+- **YAGNI**
 	- Always implement things when you actually need them, never when you just foresee that you need them.
 - DRY
 	- Copy and paste is a design error
@@ -94,7 +94,7 @@ Is software quality a sole concern of the quality assurance department?
 - Principle of Least Astonishment (PLA)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQyNTgyMTYsNTM5MTI3Mzg0LC0xOT
-g1NDM4MjE5LC01NTA5NDk0MCwyMTAyNDEyODIwLDU3NzgyMzcw
-NSwtOTQ3OTIwNTQ4LC0xNTE3NDcwNjYzXX0=
+eyJoaXN0b3J5IjpbLTEzMjEwMjgyNCw1MzkxMjczODQsLTE5OD
+U0MzgyMTksLTU1MDk0OTQwLDIxMDI0MTI4MjAsNTc3ODIzNzA1
+LC05NDc5MjA1NDgsLTE1MTc0NzA2NjNdfQ==
 -->
