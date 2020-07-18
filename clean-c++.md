@@ -12,9 +12,10 @@
 	- If the variable is a member (attribute) of a class, for instance, the class’s name usually provides sufficient context for the variable
 - Use Names from the Domain
 	- DDD
+	- Name components, classes, and functions in a way that elements and concepts from the application’s domain can be rediscovered
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDU3MTg1NiwxNTgzNDAxNzAxLDEyNj
+eyJoaXN0b3J5IjpbMTEyOTE1MDg3NiwxNTgzNDAxNzAxLDEyNj
 AwMDYwOTYsMTcwNTEzNjU1MCwtMTA0NTIzMTc2M119
 -->
