@@ -18,11 +18,12 @@
 	- With such decomposition, software modules are created at different levels of abstraction: starting from large components or subsystems down to very small building blocks like classes
 	- The abstraction levels introduced by this approach also have an impact on naming
 	- Every time we go one step deeper down the hierarchy, the names of the elements must more concrete.
-	- ex:- 
+	- ex:- Imagine a Webshop. On the top level there might exist a large component whose single responsibility is to create invoices. This component could have a short and descriptive name like Billing. Usually, this component consists of further smaller components or classes. For instance, one of these smaller modules could be responsible for the calculation of a discount. Another module could be responsible for the creation of invoice line items. Thus, good names for these modules could be DiscountCalculator and LineItemFactory. If we now dive deeper into the decomposition hierarchy, the identifiers for components , classes, and also functions or methods become more and more concrete, verbose, and thus also longer. For
+example, a small method in a class at the deepest level could have a very detailed and elongated name, like calculateReducedValueAddedTax().
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Mzg1NTIzOSwxMTI5MTUwODc2LDE1OD
-M0MDE3MDEsMTI2MDAwNjA5NiwxNzA1MTM2NTUwLC0xMDQ1MjMx
-NzYzXX0=
+eyJoaXN0b3J5IjpbODU2NzYzNjM0LDExMjkxNTA4NzYsMTU4Mz
+QwMTcwMSwxMjYwMDA2MDk2LDE3MDUxMzY1NTAsLTEwNDUyMzE3
+NjNdfQ==
 -->
