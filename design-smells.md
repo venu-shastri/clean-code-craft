@@ -30,7 +30,9 @@ Design problems affect program locations such as **`packages, interfaces, hierar
 |Dispersed coupling|The case of an operation which is excessively tied to many other operations in the system, and additionally these provider methods that are dispersed among many classes|
 |Feature envy|Method that calls more methods of a single external class than the internal methods of its own inner class
 |Intensive coupling|When a method is tied to many other operations in the system, whereby these provider operations are dispersed only into one or a few classes|
-
+|Refused bequest|Subclass that does not use the protected methods of its superclass|
+|Shotgun surgery|This smell is evident when you must change lots of pieces of code in different places simply to add a new or extended piece of behavior |
+|Tradition breaker|Subclass that provides a large set of services that are unrelated to services provided by the superclass|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI4Njc0NDRdfQ==
+eyJoaXN0b3J5IjpbLTUzMTQzOTkzM119
 -->
