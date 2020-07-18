@@ -99,14 +99,10 @@ Is software quality a sole concern of the quality assurance department?
 	open,
 	closing
 	};
-	private:
-	State state;
-
-// ...more attributes here...
-
-public:
-
-State  getState() const;
+	private:State state;
+	// ...more attributes here...
+	public:
+	State  getState() const;
 
 // ...more member functions here...
 
@@ -139,8 +135,8 @@ return  0;
 - Principle of Least Astonishment (PLA)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTE5ODQ4MywxMTcxNjc3NDI3LC03MT
-AyODE3ODMsNTM5MTI3Mzg0LC0xOTg1NDM4MjE5LC01NTA5NDk0
-MCwyMTAyNDEyODIwLDU3NzgyMzcwNSwtOTQ3OTIwNTQ4LC0xNT
-E3NDcwNjYzXX0=
+eyJoaXN0b3J5IjpbMjg0NzIwNjg3LDExNzE2Nzc0MjcsLTcxMD
+I4MTc4Myw1MzkxMjczODQsLTE5ODU0MzgyMTksLTU1MDk0OTQw
+LDIxMDI0MTI4MjAsNTc3ODIzNzA1LC05NDc5MjA1NDgsLTE1MT
+c0NzA2NjNdfQ==
 -->
