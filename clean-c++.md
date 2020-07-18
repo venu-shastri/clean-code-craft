@@ -93,13 +93,13 @@ argument list, then code depends on that type. The header file containing the us
 
 #### Avoid Flag Arguments
 >A flag argument is a kind of argument that tells a function to perform a different operation depending on its value. Flag arguments are mostly of type bool, and sometimes even an enumeration
-	- The basic problem with flag arguments is that it introduce two (or sometimes even more) paths  through your function
+	- The basic problem with flag arguments is that it will introduce two (or sometimes even more) paths . It means that the function is not doing one thing exactly right, as it should be
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzAyNTExOCwtNDcwMDYyMzYzLDgyNT
-Y5NjI1NywtOTAwMzU2OTEzLC0yMzYzMzYwNywxMjQzMzU3OTg4
-LDE4NDMwMTUyNTYsMTA3MzI4ODkyNywxNzc0OTg4MzA4LDEyND
-YzODI2MDYsLTE3MDcwNjgyNywtMTE3NDMyNTIxNSwtMTg1NjY1
-NDMwNCwtMjg2NDc2NjU3LDE1NTE0MDUzMzYsMTEyOTE1MDg3Ni
-wxNTgzNDAxNzAxLDEyNjAwMDYwOTYsMTcwNTEzNjU1MCwtMTA0
-NTIzMTc2M119
+eyJoaXN0b3J5IjpbLTE3NTk4NTI2MjIsLTQ3MDA2MjM2Myw4Mj
+U2OTYyNTcsLTkwMDM1NjkxMywtMjM2MzM2MDcsMTI0MzM1Nzk4
+OCwxODQzMDE1MjU2LDEwNzMyODg5MjcsMTc3NDk4ODMwOCwxMj
+Q2MzgyNjA2LC0xNzA3MDY4MjcsLTExNzQzMjUyMTUsLTE4NTY2
+NTQzMDQsLTI4NjQ3NjY1NywxNTUxNDA1MzM2LDExMjkxNTA4Nz
+YsMTU4MzQwMTcwMSwxMjYwMDA2MDk2LDE3MDUxMzY1NTAsLTEw
+NDUyMzE3NjNdfQ==
 -->
