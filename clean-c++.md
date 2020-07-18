@@ -79,16 +79,14 @@ If cyclomatic complexity is high, the affected piece of code is typically more d
 - The name of a function should express its intention/purpose, and not explain how it works.
 #### Arguments and Return Values
 ##### Number of Arguments
-The ideal number of arguments for a function is zero (niladic). Next comes one (monadic), followed closely by two (dyadic). Three arguments (triadic) should be avoided where
-possible. More than three (polyadic) requires very special justification  and then
-shouldn’t be used anyway.
+>The ideal number of arguments for a function is zero (niladic). Next comes one (monadic), followed closely by two (dyadic). Three arguments (triadic) should be avoided where possible. More than three (polyadic) requires very special justification  and then shouldn’t be used anyway.
 — Robert C. Martin, Clean Code [Martin09]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQyMDk5MCwtOTAwMzU2OTEzLC0yMz
-YzMzYwNywxMjQzMzU3OTg4LDE4NDMwMTUyNTYsMTA3MzI4ODky
-NywxNzc0OTg4MzA4LDEyNDYzODI2MDYsLTE3MDcwNjgyNywtMT
-E3NDMyNTIxNSwtMTg1NjY1NDMwNCwtMjg2NDc2NjU3LDE1NTE0
-MDUzMzYsMTEyOTE1MDg3NiwxNTgzNDAxNzAxLDEyNjAwMDYwOT
-YsMTcwNTEzNjU1MCwtMTA0NTIzMTc2M119
+eyJoaXN0b3J5IjpbNTk5MTA2MTc0LC05MDAzNTY5MTMsLTIzNj
+MzNjA3LDEyNDMzNTc5ODgsMTg0MzAxNTI1NiwxMDczMjg4OTI3
+LDE3NzQ5ODgzMDgsMTI0NjM4MjYwNiwtMTcwNzA2ODI3LC0xMT
+c0MzI1MjE1LC0xODU2NjU0MzA0LC0yODY0NzY2NTcsMTU1MTQw
+NTMzNiwxMTI5MTUwODc2LDE1ODM0MDE3MDEsMTI2MDAwNjA5Ni
+wxNzA1MTM2NTUwLC0xMDQ1MjMxNzYzXX0=
 -->
