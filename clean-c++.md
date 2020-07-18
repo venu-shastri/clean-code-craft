@@ -60,14 +60,19 @@ Truth can only be found in one place: the code.
 	- Try to be as short and expressive as possible
 	- Documentation Generation from Source Code
 		- Doxygen (http://doxygen.org)
-		-
+## Functions
+- CYCLOMATIC COMPLEXITY
+>The quantitative software metric cyclomatic complexity was developed by Thomas J. McCabe, a U.S.- American mathematician, in 1976.
+The metric is a directly count of the number of linearly independent paths through a section of source
+code, for example, a function. If a function contains no if- or switch-statement, and no for- or while-loop, there is just one single path through the function and its cyclomatic complexity is 1. If the function contains one if-statement representing a single decision point, there are two paths through the function and the cyclomatic complexity is 2.
+If cyclomatic complexity is high, the affected piece of code is typically more difficult to understand, test, and modify, and thus prone to bugs.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzAwNDE4MjcsMTI0MzM1Nzk4OCwxOD
-QzMDE1MjU2LDEwNzMyODg5MjcsMTc3NDk4ODMwOCwxMjQ2Mzgy
-NjA2LC0xNzA3MDY4MjcsLTExNzQzMjUyMTUsLTE4NTY2NTQzMD
-QsLTI4NjQ3NjY1NywxNTUxNDA1MzM2LDExMjkxNTA4NzYsMTU4
-MzQwMTcwMSwxMjYwMDA2MDk2LDE3MDUxMzY1NTAsLTEwNDUyMz
-E3NjNdfQ==
+eyJoaXN0b3J5IjpbMTMzNDY0ODI3MSwxMjQzMzU3OTg4LDE4ND
+MwMTUyNTYsMTA3MzI4ODkyNywxNzc0OTg4MzA4LDEyNDYzODI2
+MDYsLTE3MDcwNjgyNywtMTE3NDMyNTIxNSwtMTg1NjY1NDMwNC
+wtMjg2NDc2NjU3LDE1NTE0MDUzMzYsMTEyOTE1MDg3NiwxNTgz
+NDAxNzAxLDEyNjAwMDYwOTYsMTcwNTEzNjU1MCwtMTA0NTIzMT
+c2M119
 -->
