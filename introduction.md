@@ -103,30 +103,17 @@ Is software quality a sole concern of the quality assurance department?
 	// ...more attributes here...
 	public:
 	State  getState() const;
-
-// ...more member functions here...
-
-};
-
-  
-
-#include  "DeviceConnection.h"
-
-int  main() {
-
-DeviceConnection connection;
-
-connection::State connectionState = connection.getState();
-
-if (doorsState == DeviceConnection::State::closed) {
-
-// do something...
-
-}
-
-return  0;
-
-} ```
+	// ...more member functions here...
+	};
+	#include  "DeviceConnection.h"
+	int  main() {
+	DeviceConnection connection;
+	connection::State connectionState = connection.getState();
+	if (connectionState == DeviceConnection::State::closed) {
+	// do something...
+	}
+	return  0;
+	} ```
 
 
 - Strong Cohesion
@@ -135,7 +122,7 @@ return  0;
 - Principle of Least Astonishment (PLA)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0NzIwNjg3LDExNzE2Nzc0MjcsLTcxMD
+eyJoaXN0b3J5IjpbMzM5MzQ0ODEwLDExNzE2Nzc0MjcsLTcxMD
 I4MTc4Myw1MzkxMjczODQsLTE5ODU0MzgyMTksLTU1MDk0OTQw
 LDIxMDI0MTI4MjAsNTc3ODIzNzA1LC05NDc5MjA1NDgsLTE1MT
 c0NzA2NjNdfQ==
