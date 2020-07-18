@@ -110,9 +110,10 @@ One of the frequently mentioned benefits of using output arguments is that funct
 - If it is inevitable to return a regular pointer as the result from a function or method, do not return nullptr!
 - you’re forced to return a regular pointer as the result from a function ensure that the pointer you’re returning always points to a valid address
 - The main rationale why you should not return nullptr from a function is that you shift the responsibility to decide what to do onto your callers. They have to check it. They have to deal with many null checks,
+- If a function can return a valid pointer or nullptr, it introduces an alternative flow path that needs to be continued by the caller. And it should lead to a reasonable and senseful reaction
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjk2MTE1NjcsLTEzMTI5NzUzNzQsMT
+eyJoaXN0b3J5IjpbLTE4ODU2MTQxMDgsLTEzMTI5NzUzNzQsMT
 QxMjUxNDM4LC0xNTY1OTYwNDc0LC0xNjI3ODE3NjAzLC00NzAw
 NjIzNjMsODI1Njk2MjU3LC05MDAzNTY5MTMsLTIzNjMzNjA3LD
 EyNDMzNTc5ODgsMTg0MzAxNTI1NiwxMDczMjg4OTI3LDE3NzQ5
