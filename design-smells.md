@@ -7,8 +7,10 @@ Design problems affect program locations such as **`packages, interfaces, hierar
 ### Description of design problems
 |  Name | Description |
 |--|--|
-|  |  |
+| Fat interface | Interface of a design component that offers only general, ambiguous entry-point that provides non-cohesive services, thereby complicating the clients’ logic |
+|Unwanted Dependency|Dependency that violates an intended design rule|
+|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjM5NzgzNzNdfQ==
+eyJoaXN0b3J5IjpbLTE5NDg3MjYxODhdfQ==
 -->
