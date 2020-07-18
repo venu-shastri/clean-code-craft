@@ -38,11 +38,14 @@ example, a small method in a class at the deepest level could have a very detail
 - Avoid Using the Same Name for Different Purposes
 	- Once you’ve introduced a meaningful and expressive name for any kind of software entity (e.g., a class or component), a function, or a variable, you should take care about that its name is never used for any other purpose
 
+## Comments
+Truth can only be found in one place: the code.
+—Robert C. Martin, Clean Code [Martin09]
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQzMjUyMTUsLTE4NTY2NTQzMDQsLT
-I4NjQ3NjY1NywxNTUxNDA1MzM2LDExMjkxNTA4NzYsMTU4MzQw
-MTcwMSwxMjYwMDA2MDk2LDE3MDUxMzY1NTAsLTEwNDUyMzE3Nj
-NdfQ==
+eyJoaXN0b3J5IjpbLTE3MDcwNjgyNywtMTE3NDMyNTIxNSwtMT
+g1NjY1NDMwNCwtMjg2NDc2NjU3LDE1NTE0MDUzMzYsMTEyOTE1
+MDg3NiwxNTgzNDAxNzAxLDEyNjAwMDYwOTYsMTcwNTEzNjU1MC
+wtMTA0NTIzMTc2M119
 -->
