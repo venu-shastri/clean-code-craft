@@ -52,6 +52,8 @@ have the **Shotgun Surgery and Divergent Change**.
 to the scattered functionality, i.e., due to the Scattered
 Concern.
 
+### Stinky program location
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDk1MTAyNiwtNTMxNDM5OTMzXX0=
+eyJoaXN0b3J5IjpbLTc2MzY0NTE1MCwtNTMxNDM5OTMzXX0=
 -->
