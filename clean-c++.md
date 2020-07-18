@@ -51,12 +51,15 @@ Truth can only be found in one place: the code.
 		- If code is no longer used, simply delete it. Let it go. You have a “time machine” to get it back, if necessary: use version control system
 	- Don’t Use Comments to Substitute Version Control
 	- Don’t Write Block Comments
+-  The Rare Cases Where Comments Are Useful
+	- a comment is justified if a section of code has a high degree of inherent complexity so that it cannot be understood easily by everyone who did not have deep expert knowledge, ex:- sophisticated mathematical algorithm or formula ,he software system deals with
+a not everyday (business) domain
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzAxNTI1NiwxMDczMjg4OTI3LDE3Nz
-Q5ODgzMDgsMTI0NjM4MjYwNiwtMTcwNzA2ODI3LC0xMTc0MzI1
-MjE1LC0xODU2NjU0MzA0LC0yODY0NzY2NTcsMTU1MTQwNTMzNi
-wxMTI5MTUwODc2LDE1ODM0MDE3MDEsMTI2MDAwNjA5NiwxNzA1
-MTM2NTUwLC0xMDQ1MjMxNzYzXX0=
+eyJoaXN0b3J5IjpbMTYzNDI3NDkyMCwxODQzMDE1MjU2LDEwNz
+MyODg5MjcsMTc3NDk4ODMwOCwxMjQ2MzgyNjA2LC0xNzA3MDY4
+MjcsLTExNzQzMjUyMTUsLTE4NTY2NTQzMDQsLTI4NjQ3NjY1Ny
+wxNTUxNDA1MzM2LDExMjkxNTA4NzYsMTU4MzQwMTcwMSwxMjYw
+MDA2MDk2LDE3MDUxMzY1NTAsLTEwNDUyMzE3NjNdfQ==
 -->
