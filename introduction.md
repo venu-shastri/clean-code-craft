@@ -116,8 +116,7 @@ Is software quality a sole concern of the quality assurance department?
 	} ```
 
 >What will happen if the internal implementation of DeviceConnection  must be changed and the enumeration
-class State is removed from the class? It is easy to see that it will have a significant impact on the client’s code.
-It will result in changes everywhere where member function AutomaticDoor::getState() is used
+class State is removed from the class? It is easy to see that it will have a significant impact on the client’s code. It will result in changes everywhere where member function DeviceConnection ::getState() is used
 
 | Information Hiding | Encapsulation |
 |--|--|
@@ -130,8 +129,8 @@ It will result in changes everywhere where member function AutomaticDoor::getSta
 - Principle of Least Astonishment (PLA)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODc1NjM0NywzMzkzNDQ4MTAsMTE3MT
-Y3NzQyNywtNzEwMjgxNzgzLDUzOTEyNzM4NCwtMTk4NTQzODIx
-OSwtNTUwOTQ5NDAsMjEwMjQxMjgyMCw1Nzc4MjM3MDUsLTk0Nz
-kyMDU0OCwtMTUxNzQ3MDY2M119
+eyJoaXN0b3J5IjpbOTM0MTI1MzI2LDMzOTM0NDgxMCwxMTcxNj
+c3NDI3LC03MTAyODE3ODMsNTM5MTI3Mzg0LC0xOTg1NDM4MjE5
+LC01NTA5NDk0MCwyMTAyNDEyODIwLDU3NzgyMzcwNSwtOTQ3OT
+IwNTQ4LC0xNTE3NDcwNjYzXX0=
 -->
