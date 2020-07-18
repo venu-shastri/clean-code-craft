@@ -90,9 +90,9 @@ Is software quality a sole concern of the quality assurance department?
 		-  Better test-ability of modules
 	- Information hiding is often confused with **encapsulation**, but it’s not the same
 	- ex:-
-	``` C++ Sample
+	```
 	class AutomaticDoor {
-public:
+	public:
 enum class State {
 closed = 1,
 opening,
@@ -113,7 +113,7 @@ State getState() const;
 - Principle of Least Astonishment (PLA)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDM5NzEwOCwtNzEwMjgxNzgzLDUzOT
+eyJoaXN0b3J5IjpbMTE3MTY3NzQyNywtNzEwMjgxNzgzLDUzOT
 EyNzM4NCwtMTk4NTQzODIxOSwtNTUwOTQ5NDAsMjEwMjQxMjgy
 MCw1Nzc4MjM3MDUsLTk0NzkyMDU0OCwtMTUxNzQ3MDY2M119
 -->
