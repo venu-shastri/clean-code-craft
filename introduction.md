@@ -136,11 +136,18 @@ class State is removed from the class? It is easy to see that it will have a sig
 		- compilers are nowadays very good at optimizing code.
 		- Whenever you feel just a desire to optimize something, think about YAGNI
 - Principle of Least Astonishment (PLA)
+	- Also known as Principle of Least Surprise (POLS)
+	- Well known in user interface design and ergonomics
+	- The principle states that the user should not be surprised
+by unexpected responses of the user interface. The user should not be puzzled by appearing or disappearing
+controls, confusing error messages, unusual reactions on established keystroke sequences (remember:
+Ctrl + C is the de facto standard for copying applications on Windows operating systems, and not to exit a
+program), or other unexpected behavior
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDk4ODM4MjAsLTIyNjQ3ODAzMCwxNz
-g0NjU2MjgwLDkzNDEyNTMyNiwzMzkzNDQ4MTAsMTE3MTY3NzQy
-NywtNzEwMjgxNzgzLDUzOTEyNzM4NCwtMTk4NTQzODIxOSwtNT
-UwOTQ5NDAsMjEwMjQxMjgyMCw1Nzc4MjM3MDUsLTk0NzkyMDU0
-OCwtMTUxNzQ3MDY2M119
+eyJoaXN0b3J5IjpbNzY4OTQ1OTEsLTIyNjQ3ODAzMCwxNzg0Nj
+U2MjgwLDkzNDEyNTMyNiwzMzkzNDQ4MTAsMTE3MTY3NzQyNywt
+NzEwMjgxNzgzLDUzOTEyNzM4NCwtMTk4NTQzODIxOSwtNTUwOT
+Q5NDAsMjEwMjQxMjgyMCw1Nzc4MjM3MDUsLTk0NzkyMDU0OCwt
+MTUxNzQ3MDY2M119
 -->
