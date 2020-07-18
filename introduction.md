@@ -79,6 +79,7 @@ Is software quality a sole concern of the quality assurance department?
 - DRY
 	- Copy and paste is a design error
 	- Referred to as “Once And Only Once” (OAOO).
+	- applying the DRY principle means that we have to ensure that “every piece of code must have a single, unambiguous, authoritative representation within a system
 - Information Hiding
 	- The principle states that one piece of code that calls another piece of code should not know internals about that other piece of code.
 	- information hiding is the basic principle for decomposing systems into modules
@@ -86,14 +87,14 @@ Is software quality a sole concern of the quality assurance department?
 		- Limitation of the consequences of changes in modules
 		- Minimal influence on other modules if a bug fix is necessary
 		- Significantly increasing the reusability of modules
-		-  Better testability of modules
+		-  Better test-ability of modules
 - Strong Cohesion
 - Loose Coupling
 - Optimizations
 - Principle of Least Astonishment (PLA)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5MTI3Mzg0LC0xOTg1NDM4MjE5LC01NT
-A5NDk0MCwyMTAyNDEyODIwLDU3NzgyMzcwNSwtOTQ3OTIwNTQ4
-LC0xNTE3NDcwNjYzXX0=
+eyJoaXN0b3J5IjpbLTEzMTQyNTgyMTYsNTM5MTI3Mzg0LC0xOT
+g1NDM4MjE5LC01NTA5NDk0MCwyMTAyNDEyODIwLDU3NzgyMzcw
+NSwtOTQ3OTIwNTQ4LC0xNTE3NDcwNjYzXX0=
 -->
