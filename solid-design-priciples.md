@@ -31,10 +31,16 @@
 —Ivar Jacobson, Swedish computer scientist, 1992
 
 ### LSP
-Basically the Liskov Substitution Principle states that you cannot create an octopus by extending a dog with four additional fake legs.
+> Basically the Liskov Substitution Principle states that you cannot create an octopus by extending a dog with four additional fake legs.
 —Mario Fusco (@mariofusco), September 15, 2013, on Twitter
 
+>Let q(x) be a property provable about objects x of type T. Then q(y) should be provable for objects y of type S, where S is a subtype of T.
+—Barbara Liskov, Jeanette Wing [Liskov94]
+
+> Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it.
+—Robert C. Martin [Martin96]
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODUxOTY1MSwtNzI5NDMyMTAyLDEwMz
+eyJoaXN0b3J5IjpbLTE5NDM2NTYwMiwtNzI5NDMyMTAyLDEwMz
 c0OTAwOCwtMTYyNTI0NzAxMCwtMjA4ODc0NjYxMl19
 -->
