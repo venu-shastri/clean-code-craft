@@ -94,7 +94,7 @@ comments that are like headlines.
 #### Let Them Be Small
 - Functions should be pretty small. Ideally 4–5 lines, maximum 12–15 lines, but not more.
 - “But the Call Time Overhead!”
-	- compiler an
+	- compiler and linker optimization
 
 #### Function Naming
 - The name of a function should start with a verb. Predicates, that is, statements about an object that can be true or false, should start with “is” or “has
@@ -150,7 +150,7 @@ usage.
 - Pay attention to const correctness. Use const as much as possible, and choose always a proper declaration of variables or objects as mutable or immutable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDU5MzM5MiwtMTUwNjY2MTk0LC0xMj
+eyJoaXN0b3J5IjpbMTU1Nzk1NzUzNiwtMTUwNjY2MTk0LC0xMj
 c0MjcwMzUyLC0xMzEyOTc1Mzc0LDE0MTI1MTQzOCwtMTU2NTk2
 MDQ3NCwtMTYyNzgxNzYwMywtNDcwMDYyMzYzLDgyNTY5NjI1Ny
 wtOTAwMzU2OTEzLC0yMzYzMzYwNywxMjQzMzU3OTg4LDE4NDMw
