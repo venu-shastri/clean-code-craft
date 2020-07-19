@@ -9,7 +9,8 @@
 - How do I find and form the objects?
 - How do I design the public available interface of those cells?
 - How do I govern who can communicate with whom (dependencies)?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTMxMTIxODAsLTIwODg3NDY2MTJdfQ
+eyJoaXN0b3J5IjpbLTE0NDE4MDE1NDIsLTIwODg3NDY2MTJdfQ
 ==
 -->
