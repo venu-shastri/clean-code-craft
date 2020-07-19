@@ -51,8 +51,12 @@
 ### The Acyclic Dependency Principle 
 >states that the dependency graph of components or classes should
 have no cycles
+
+> Use Dependency Inversion principle to eliminate Circular Dependency
+
+### Don’t Talk to Strangers (Law of Demeter)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzA1MDQ2NzgsMjA3Nzc0MDY2NSwtNz
-I5NDMyMTAyLDEwMzc0OTAwOCwtMTYyNTI0NzAxMCwtMjA4ODc0
-NjYxMl19
+eyJoaXN0b3J5IjpbLTE4MjYyNTE3NjEsLTE3NzA1MDQ2NzgsMj
+A3Nzc0MDY2NSwtNzI5NDMyMTAyLDEwMzc0OTAwOCwtMTYyNTI0
+NzAxMCwtMjA4ODc0NjYxMl19
 -->
