@@ -11,7 +11,9 @@
 - How do I govern who can communicate with whom (dependencies)?
 
 #### Abstraction – the Key to Master Complexity
+
+####
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjUyNDcwMTAsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbLTg4OTM3NDc4LC0xNjI1MjQ3MDEwLC0yMD
+g4NzQ2NjEyXX0=
 -->
