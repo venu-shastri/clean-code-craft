@@ -124,14 +124,15 @@ usage.
 - Prefer simple object construction on the stack instead of on the heap
 - Use C++ 11 Move Semantics
 - In a function’s argument list, use (const) references instead of pointers
-- If it is inevitable to deal with a pointer to a resource, use a smart one If it is unavoidable to use a pointer because the resource must be created on the heap mandatorily, you
+- If it is inevitable to deal with a pointer to a resource, use a smart one 
+- Pay attention to const correctness. Use const as much as possible, and choose always a proper declaration of variables or objects as mutable or immutable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5Mjk4NjgwLC0xMjc0MjcwMzUyLC0xMz
-EyOTc1Mzc0LDE0MTI1MTQzOCwtMTU2NTk2MDQ3NCwtMTYyNzgx
-NzYwMywtNDcwMDYyMzYzLDgyNTY5NjI1NywtOTAwMzU2OTEzLC
-0yMzYzMzYwNywxMjQzMzU3OTg4LDE4NDMwMTUyNTYsMTA3MzI4
-ODkyNywxNzc0OTg4MzA4LDEyNDYzODI2MDYsLTE3MDcwNjgyNy
-wtMTE3NDMyNTIxNSwtMTg1NjY1NDMwNCwtMjg2NDc2NjU3LDE1
-NTE0MDUzMzZdfQ==
+eyJoaXN0b3J5IjpbLTE1MDY2NjE5NCwtMTI3NDI3MDM1MiwtMT
+MxMjk3NTM3NCwxNDEyNTE0MzgsLTE1NjU5NjA0NzQsLTE2Mjc4
+MTc2MDMsLTQ3MDA2MjM2Myw4MjU2OTYyNTcsLTkwMDM1NjkxMy
+wtMjM2MzM2MDcsMTI0MzM1Nzk4OCwxODQzMDE1MjU2LDEwNzMy
+ODg5MjcsMTc3NDk4ODMwOCwxMjQ2MzgyNjA2LC0xNzA3MDY4Mj
+csLTExNzQzMjUyMTUsLTE4NTY2NTQzMDQsLTI4NjQ3NjY1Nywx
+NTUxNDA1MzM2XX0=
 -->
