@@ -55,8 +55,9 @@ have no cycles
 > Use Dependency Inversion principle to eliminate Circular Dependency
 
 ### Don’t Talk to Strangers (Law of Demeter)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjYyNTE3NjEsLTE3NzA1MDQ2NzgsMj
-A3Nzc0MDY2NSwtNzI5NDMyMTAyLDEwMzc0OTAwOCwtMTYyNTI0
-NzAxMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTY0NzY5OTg0MywtMTgyNjI1MTc2MSwtMT
+c3MDUwNDY3OCwyMDc3NzQwNjY1LC03Mjk0MzIxMDIsMTAzNzQ5
+MDA4LC0xNjI1MjQ3MDEwLC0yMDg4NzQ2NjEyXX0=
 -->
