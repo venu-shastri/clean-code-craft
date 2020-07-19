@@ -61,13 +61,11 @@ have no cycles
 #### Rules
 - A member function is allowed to call other member functions in its own class scope directly.
 -  A member function is allowed to call member functions on member variables that are in its class scope directly.
--  If a member function has parameters, the member function is allowed to call the
-member functions of these parameters directly.
--  If a member function creates local objects, the member function is allowed to call
-member functions on those local objects.
+-  If a member function has parameters, the member function is allowed to call the member functions of these parameters directly.
+-  If a member function creates local objects, the member function is allowed to call member functions on those local objects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTExNzYyNCwtNjEwODYwMTg0LC0xOD
-I2MjUxNzYxLC0xNzcwNTA0Njc4LDIwNzc3NDA2NjUsLTcyOTQz
-MjEwMiwxMDM3NDkwMDgsLTE2MjUyNDcwMTAsLTIwODg3NDY2MT
-JdfQ==
+eyJoaXN0b3J5IjpbLTE3MDUyMTM4NzYsLTYxMDg2MDE4NCwtMT
+gyNjI1MTc2MSwtMTc3MDUwNDY3OCwyMDc3NzQwNjY1LC03Mjk0
+MzIxMDIsMTAzNzQ5MDA4LC0xNjI1MjQ3MDEwLC0yMDg4NzQ2Nj
+EyXX0=
 -->
