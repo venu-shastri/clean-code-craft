@@ -24,7 +24,15 @@
 	- Object Calisthenics: 9 steps to better software design today” by Jeff [Object Calisthenics](https://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf)
 - Avoid God Objects
 
+## SOLID 
+
+### OCP
+> All systems change during their life cycles. This must be borne in mind when developing systems expected to last longer than the first version.
+—Ivar Jacobson, Swedish computer scientist, 1992
+
+### L
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTQzMjEwMiwxMDM3NDkwMDgsLTE2Mj
-UyNDcwMTAsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbODIxNDIwNjU4LC03Mjk0MzIxMDIsMTAzNz
+Q5MDA4LC0xNjI1MjQ3MDEwLC0yMDg4NzQ2NjEyXX0=
 -->
