@@ -74,6 +74,11 @@ If cyclomatic complexity is high, the affected piece of code is typically more d
 - Has many arguments, and contains dead code.
 
 ### Best Practices
+
+#### One Thing, No More!
+>Functions should do one thing. They should do it well. They should do it only.
+—Robert C. Martin, Clean Code [Martin09]
+
 #### Function Naming
 - The name of a function should start with a verb. Predicates, that is, statements about an object that can be true or false, should start with “is” or “has
 - The name of a function should express its intention/purpose, and not explain how it works.
@@ -128,11 +133,11 @@ usage.
 - Pay attention to const correctness. Use const as much as possible, and choose always a proper declaration of variables or objects as mutable or immutable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY2NjE5NCwtMTI3NDI3MDM1MiwtMT
-MxMjk3NTM3NCwxNDEyNTE0MzgsLTE1NjU5NjA0NzQsLTE2Mjc4
-MTc2MDMsLTQ3MDA2MjM2Myw4MjU2OTYyNTcsLTkwMDM1NjkxMy
-wtMjM2MzM2MDcsMTI0MzM1Nzk4OCwxODQzMDE1MjU2LDEwNzMy
-ODg5MjcsMTc3NDk4ODMwOCwxMjQ2MzgyNjA2LC0xNzA3MDY4Mj
-csLTExNzQzMjUyMTUsLTE4NTY2NTQzMDQsLTI4NjQ3NjY1Nywx
-NTUxNDA1MzM2XX0=
+eyJoaXN0b3J5IjpbODg0NzA5MzIyLC0xNTA2NjYxOTQsLTEyNz
+QyNzAzNTIsLTEzMTI5NzUzNzQsMTQxMjUxNDM4LC0xNTY1OTYw
+NDc0LC0xNjI3ODE3NjAzLC00NzAwNjIzNjMsODI1Njk2MjU3LC
+05MDAzNTY5MTMsLTIzNjMzNjA3LDEyNDMzNTc5ODgsMTg0MzAx
+NTI1NiwxMDczMjg4OTI3LDE3NzQ5ODgzMDgsMTI0NjM4MjYwNi
+wtMTcwNzA2ODI3LC0xMTc0MzI1MjE1LC0xODU2NjU0MzA0LC0y
+ODY0NzY2NTddfQ==
 -->
