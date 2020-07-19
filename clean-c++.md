@@ -120,12 +120,16 @@ usage.
 		- Must the object be deleted with delete, because it was allocated with the new operator somewhere inside the	function? Or is the ownership of the resource object managed differently, so that a delete is forbidden and	will result in undefined behavior
 > if the caller does not handle the pointer correctly, it can lead to serious bugs, for example, memory leaks, double deletion, undefined behavior, and sometimes security vulnerabilities.
 
+#### Strategies to Avoid Regular Pointers
+- Prefer simple object construction on the stack instead of on the heap
+- Use C++ 11 Move S
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQyNzAzNTIsLTEzMTI5NzUzNzQsMT
-QxMjUxNDM4LC0xNTY1OTYwNDc0LC0xNjI3ODE3NjAzLC00NzAw
-NjIzNjMsODI1Njk2MjU3LC05MDAzNTY5MTMsLTIzNjMzNjA3LD
-EyNDMzNTc5ODgsMTg0MzAxNTI1NiwxMDczMjg4OTI3LDE3NzQ5
-ODgzMDgsMTI0NjM4MjYwNiwtMTcwNzA2ODI3LC0xMTc0MzI1Mj
-E1LC0xODU2NjU0MzA0LC0yODY0NzY2NTcsMTU1MTQwNTMzNiwx
-MTI5MTUwODc2XX0=
+eyJoaXN0b3J5IjpbLTIwODM3MzU4MzIsLTEyNzQyNzAzNTIsLT
+EzMTI5NzUzNzQsMTQxMjUxNDM4LC0xNTY1OTYwNDc0LC0xNjI3
+ODE3NjAzLC00NzAwNjIzNjMsODI1Njk2MjU3LC05MDAzNTY5MT
+MsLTIzNjMzNjA3LDEyNDMzNTc5ODgsMTg0MzAxNTI1NiwxMDcz
+Mjg4OTI3LDE3NzQ5ODgzMDgsMTI0NjM4MjYwNiwtMTcwNzA2OD
+I3LC0xMTc0MzI1MjE1LC0xODU2NjU0MzA0LC0yODY0NzY2NTcs
+MTU1MTQwNTMzNl19
 -->
