@@ -46,9 +46,13 @@
 - The preconditions of a base class cannot be strengthened in a derived subclass.
 - Post conditions of a base class cannot be weakened in a derived subclass
 - All in-variants of a base class must not be changed or violated through a derived subclass.
-- The History constraint (a.k.a. the “History rule”): The (internal) state of objects should only be changed by method calls at their public interface (encapsulation). Since derived classes may introduce new attributes and methods that do not exist in the base class, the introduction of these methods may allow state changes in objects
-of the derived class that are not allowed in the base class. The so-called History constraint prohibits this. For instance, if the base class is designed to be the blueprint for an immutable object , the derived class should not invalidate this property of immutability with the help of newly introduced member functions.
+- The History constraint (a.k.a. the “History rule”): The (internal) state of objects should only be changed by method calls at their public interface (encapsulation). Since derived classes may introduce new attributes and methods that do not exist in the base class, the introduction of these methods may allow state changes in objects of the derived class that are not allowed in the base class. The so-called History constraint prohibits this. For instance, if the base class is designed to be the blueprint for an immutable object , the derived class should not invalidate this property of immutability with the help of newly introduced member functions.
+
+### The Acyclic Dependency Principle 
+>states that the dependency graph of components or classes should
+have no cycles
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Nzc0MDY2NSwtNzI5NDMyMTAyLDEwMz
-c0OTAwOCwtMTYyNTI0NzAxMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE3NzA1MDQ2NzgsMjA3Nzc0MDY2NSwtNz
+I5NDMyMTAyLDEwMzc0OTAwOCwtMTYyNTI0NzAxMCwtMjA4ODc0
+NjYxMl19
 -->
