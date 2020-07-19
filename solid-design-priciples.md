@@ -30,9 +30,11 @@
 > All systems change during their life cycles. This must be borne in mind when developing systems expected to last longer than the first version.
 —Ivar Jacobson, Swedish computer scientist, 1992
 
-### L
+### LSP
+Basically the Liskov Substitution Principle states that you cannot create an octopus by extending a dog with four additional fake legs.
+—Mario Fusco (@mariofusco), September 15, 2013, on Twitter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxNDIwNjU4LC03Mjk0MzIxMDIsMTAzNz
-Q5MDA4LC0xNjI1MjQ3MDEwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTYzODUxOTY1MSwtNzI5NDMyMTAyLDEwMz
+c0OTAwOCwtMTYyNTI0NzAxMCwtMjA4ODc0NjYxMl19
 -->
