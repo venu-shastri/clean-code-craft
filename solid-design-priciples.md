@@ -10,7 +10,8 @@
 - How do I design the public available interface of those cells?
 - How do I govern who can communicate with whom (dependencies)?
 
+#### Abstraction – the Key to Master Complexity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE4MDE1NDIsLTIwODg3NDY2MTJdfQ
+eyJoaXN0b3J5IjpbLTE2MjUyNDcwMTAsLTIwODg3NDY2MTJdfQ
 ==
 -->
