@@ -18,7 +18,12 @@
 -  Loose coupling 
 -  Single Responsibility
 
+#### Principles for Good Class Design
+- Keep Classes Small
+	- no more than 50 lines of code for a single class.
+- Avoid God Objects
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzQ5MDA4LC0xNjI1MjQ3MDEwLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTMxMjcyNDI1NCwxMDM3NDkwMDgsLTE2Mj
+UyNDcwMTAsLTIwODg3NDY2MTJdfQ==
 -->
