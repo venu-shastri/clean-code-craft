@@ -40,7 +40,8 @@
 > Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it.
 —Robert C. Martin [Martin96]
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM2NTYwMiwtNzI5NDMyMTAyLDEwMz
-c0OTAwOCwtMTYyNTI0NzAxMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTY4MTY0MDg0LC03Mjk0MzIxMDIsMTAzNz
+Q5MDA4LC0xNjI1MjQ3MDEwLC0yMDg4NzQ2NjEyXX0=
 -->
