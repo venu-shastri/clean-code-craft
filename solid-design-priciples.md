@@ -1,4 +1,5 @@
-# Obej
+# Obejct Oriented Thinking
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxNTk2Mjc5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE3MzQ1ODg4MzgsLTIwODg3NDY2MTJdfQ
+==
 -->
