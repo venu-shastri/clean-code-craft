@@ -55,9 +55,11 @@ have no cycles
 > Use Dependency Inversion principle to eliminate Circular Dependency
 
 ### Don’t Talk to Strangers (Law of Demeter)
-
+>  known as the Principle of Least Knowledge
+>  
+>  The Law of Demeter can be regarded as a principle that says something like “Don’t talk to strangers”, or “Only talk to your immediate neighbors.”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzY5OTg0MywtMTgyNjI1MTc2MSwtMT
+eyJoaXN0b3J5IjpbLTYxMDg2MDE4NCwtMTgyNjI1MTc2MSwtMT
 c3MDUwNDY3OCwyMDc3NzQwNjY1LC03Mjk0MzIxMDIsMTAzNzQ5
 MDA4LC0xNjI1MjQ3MDEwLC0yMDg4NzQ2NjEyXX0=
 -->
