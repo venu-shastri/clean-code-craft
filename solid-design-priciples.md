@@ -43,8 +43,12 @@
 >The Liskov Substitution Principle stipulates the following rules for type respectively class hierarchies
 - The preconditions of a base class cannot be strengthened in a derived subclass.
 - Post conditions of a base class cannot be weakened in a derived subclass
-- All invariants of a base class must not be changed or violated through a derived subclass.
+- All in-variants of a base class must not be changed or violated through a derived subclass.
+- The History constraint (a.k.a. the “History rule”): The (internal) state of objects should only be changed by method calls at their public interface (encapsulation). Since derived classes may introduce new attributes and methods that do not exist in the base class, the introduction of these methods may allow state changes in objects
+of the derived class that are not allowed in the base class. The so-called History constraint prohibits this. For instance, if the base class is designed to be the blueprint for an immutable object , the derived class
+should not invalidate this property of immutability with the help of newly introduced
+member functions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTI0MzQ5NCwtNzI5NDMyMTAyLDEwMz
+eyJoaXN0b3J5IjpbMTkzNDE0NjMzNiwtNzI5NDMyMTAyLDEwMz
 c0OTAwOCwtMTYyNTI0NzAxMCwtMjA4ODc0NjYxMl19
 -->
