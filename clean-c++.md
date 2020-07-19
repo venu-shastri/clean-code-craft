@@ -79,6 +79,9 @@ If cyclomatic complexity is high, the affected piece of code is typically more d
 >Functions should do one thing. They should do it well. They should do it only.
 —Robert C. Martin, Clean Code [Martin09]
 
+#### Symptoms of function who does too many things? 
+- The function is large, that is, it contains many lines of code
+
 #### Function Naming
 - The name of a function should start with a verb. Predicates, that is, statements about an object that can be true or false, should start with “is” or “has
 - The name of a function should express its intention/purpose, and not explain how it works.
@@ -133,11 +136,11 @@ usage.
 - Pay attention to const correctness. Use const as much as possible, and choose always a proper declaration of variables or objects as mutable or immutable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0NzA5MzIyLC0xNTA2NjYxOTQsLTEyNz
-QyNzAzNTIsLTEzMTI5NzUzNzQsMTQxMjUxNDM4LC0xNTY1OTYw
-NDc0LC0xNjI3ODE3NjAzLC00NzAwNjIzNjMsODI1Njk2MjU3LC
-05MDAzNTY5MTMsLTIzNjMzNjA3LDEyNDMzNTc5ODgsMTg0MzAx
-NTI1NiwxMDczMjg4OTI3LDE3NzQ5ODgzMDgsMTI0NjM4MjYwNi
-wtMTcwNzA2ODI3LC0xMTc0MzI1MjE1LC0xODU2NjU0MzA0LC0y
-ODY0NzY2NTddfQ==
+eyJoaXN0b3J5IjpbMTUzNzAxMTAxMSwtMTUwNjY2MTk0LC0xMj
+c0MjcwMzUyLC0xMzEyOTc1Mzc0LDE0MTI1MTQzOCwtMTU2NTk2
+MDQ3NCwtMTYyNzgxNzYwMywtNDcwMDYyMzYzLDgyNTY5NjI1Ny
+wtOTAwMzU2OTEzLC0yMzYzMzYwNywxMjQzMzU3OTg4LDE4NDMw
+MTUyNTYsMTA3MzI4ODkyNywxNzc0OTg4MzA4LDEyNDYzODI2MD
+YsLTE3MDcwNjgyNywtMTE3NDMyNTIxNSwtMTg1NjY1NDMwNCwt
+Mjg2NDc2NjU3XX0=
 -->
