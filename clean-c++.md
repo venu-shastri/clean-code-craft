@@ -92,6 +92,7 @@ comments that are like headlines.
 - The function has many arguments  especially one or more flag arguments of type bool.
 
 #### Let Them Be Small
+- Functions should be pretty small. Ideally 4–5 lines, maximum 12–15 lines, but not more.
 #### Function Naming
 - The name of a function should start with a verb. Predicates, that is, statements about an object that can be true or false, should start with “is” or “has
 - The name of a function should express its intention/purpose, and not explain how it works.
@@ -146,11 +147,11 @@ usage.
 - Pay attention to const correctness. Use const as much as possible, and choose always a proper declaration of variables or objects as mutable or immutable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTkzODc3MywtMTUwNjY2MTk0LC0xMj
-c0MjcwMzUyLC0xMzEyOTc1Mzc0LDE0MTI1MTQzOCwtMTU2NTk2
-MDQ3NCwtMTYyNzgxNzYwMywtNDcwMDYyMzYzLDgyNTY5NjI1Ny
-wtOTAwMzU2OTEzLC0yMzYzMzYwNywxMjQzMzU3OTg4LDE4NDMw
-MTUyNTYsMTA3MzI4ODkyNywxNzc0OTg4MzA4LDEyNDYzODI2MD
-YsLTE3MDcwNjgyNywtMTE3NDMyNTIxNSwtMTg1NjY1NDMwNCwt
-Mjg2NDc2NjU3XX0=
+eyJoaXN0b3J5IjpbLTExNzcwNzM5NjUsLTE1MDY2NjE5NCwtMT
+I3NDI3MDM1MiwtMTMxMjk3NTM3NCwxNDEyNTE0MzgsLTE1NjU5
+NjA0NzQsLTE2Mjc4MTc2MDMsLTQ3MDA2MjM2Myw4MjU2OTYyNT
+csLTkwMDM1NjkxMywtMjM2MzM2MDcsMTI0MzM1Nzk4OCwxODQz
+MDE1MjU2LDEwNzMyODg5MjcsMTc3NDk4ODMwOCwxMjQ2MzgyNj
+A2LC0xNzA3MDY4MjcsLTExNzQzMjUyMTUsLTE4NTY2NTQzMDQs
+LTI4NjQ3NjY1N119
 -->
