@@ -81,6 +81,16 @@ If cyclomatic complexity is high, the affected piece of code is typically more d
 
 #### Symptoms of function who does too many things? 
 - The function is large, that is, it contains many lines of code
+- You try to find a meaningful and expressive name for the function that exactly
+describes its purpose, but you cannot avoid using conjunctions, such as “and” or
+“or,” to build the name
+- The body of a function is vertically separated using empty lines into groups
+that represent subsequent steps. Often these groups are also introduced with
+comments that are like headlines.
+- The cyclomatic complexity is high. The function contains many ‘if’, ‘else’, or
+‘switch-case’ statements.
+- The function has many arguments (see section about Arguments and Return
+Values later in this chapter), especially one or more flag arguments of type bool.
 
 #### Function Naming
 - The name of a function should start with a verb. Predicates, that is, statements about an object that can be true or false, should start with “is” or “has
@@ -136,11 +146,11 @@ usage.
 - Pay attention to const correctness. Use const as much as possible, and choose always a proper declaration of variables or objects as mutable or immutable
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzAxMTAxMSwtMTUwNjY2MTk0LC0xMj
-c0MjcwMzUyLC0xMzEyOTc1Mzc0LDE0MTI1MTQzOCwtMTU2NTk2
-MDQ3NCwtMTYyNzgxNzYwMywtNDcwMDYyMzYzLDgyNTY5NjI1Ny
-wtOTAwMzU2OTEzLC0yMzYzMzYwNywxMjQzMzU3OTg4LDE4NDMw
-MTUyNTYsMTA3MzI4ODkyNywxNzc0OTg4MzA4LDEyNDYzODI2MD
-YsLTE3MDcwNjgyNywtMTE3NDMyNTIxNSwtMTg1NjY1NDMwNCwt
-Mjg2NDc2NjU3XX0=
+eyJoaXN0b3J5IjpbLTEyODIwOTMxNTcsLTE1MDY2NjE5NCwtMT
+I3NDI3MDM1MiwtMTMxMjk3NTM3NCwxNDEyNTE0MzgsLTE1NjU5
+NjA0NzQsLTE2Mjc4MTc2MDMsLTQ3MDA2MjM2Myw4MjU2OTYyNT
+csLTkwMDM1NjkxMywtMjM2MzM2MDcsMTI0MzM1Nzk4OCwxODQz
+MDE1MjU2LDEwNzMyODg5MjcsMTc3NDk4ODMwOCwxMjQ2MzgyNj
+A2LC0xNzA3MDY4MjcsLTExNzQzMjUyMTUsLTE4NTY2NTQzMDQs
+LTI4NjQ3NjY1N119
 -->
