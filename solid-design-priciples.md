@@ -56,10 +56,18 @@ have no cycles
 
 ### Don’t Talk to Strangers (Law of Demeter)
 >  known as the Principle of Least Knowledge
->  
+
 >  The Law of Demeter can be regarded as a principle that says something like “Don’t talk to strangers”, or “Only talk to your immediate neighbors.”
+#### Rules
+- A member function is allowed to call other member functions in its own class scope directly.
+-  A member function is allowed to call member functions on member variables that are in its class scope directly.
+-  If a member function has parameters, the member function is allowed to call the
+member functions of these parameters directly.
+-  If a member function creates local objects, the member function is allowed to call
+member functions on those local objects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDg2MDE4NCwtMTgyNjI1MTc2MSwtMT
-c3MDUwNDY3OCwyMDc3NzQwNjY1LC03Mjk0MzIxMDIsMTAzNzQ5
-MDA4LC0xNjI1MjQ3MDEwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTAzOTExNzYyNCwtNjEwODYwMTg0LC0xOD
+I2MjUxNzYxLC0xNzcwNTA0Njc4LDIwNzc3NDA2NjUsLTcyOTQz
+MjEwMiwxMDM3NDkwMDgsLTE2MjUyNDcwMTAsLTIwODg3NDY2MT
+JdfQ==
 -->
