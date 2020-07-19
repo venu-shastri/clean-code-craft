@@ -21,9 +21,10 @@
 #### Principles for Good Class Design
 - Keep Classes Small
 	- no more than 50 lines of code for a single class.
+	- Object Calisthenics: 9 steps to better software design today”
 - Avoid God Objects
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjcyNDI1NCwxMDM3NDkwMDgsLTE2Mj
+eyJoaXN0b3J5IjpbLTc2NjgyMTU1NiwxMDM3NDkwMDgsLTE2Mj
 UyNDcwMTAsLTIwODg3NDY2MTJdfQ==
 -->
