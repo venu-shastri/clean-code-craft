@@ -38,9 +38,11 @@ cohesion between the methods belonging to that class.
 		- incrementally redistribute the responsibilities of the God Class either to its collaborating classes or to new classes that are pulled out of the God Class
 
 - **`Feature Envy`**
-	- Causes 
-
+	- Causes poor data - operation proximity , results in a change in a method triggers changes in other methods and so on; the same applies for bugs
+	-  How to Detect
+		- Method uses directly more than a few attributes of other classes
+		- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwMDU3MzMzLDE4ODAxNDAyMiw0NjczND
-Q4NzJdfQ==
+eyJoaXN0b3J5IjpbLTgzMzUxNDc2MSwxODgwMTQwMjIsNDY3Mz
+Q0ODcyXX0=
 -->
