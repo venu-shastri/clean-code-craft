@@ -20,8 +20,17 @@ Harmony
 
 > **Implementation Rule** 
 > Data and operations should harmoniously collaborate within the class to which they semantically belong
+> Operations belong to classes - avoid as much as possible global operations.
+• Keep data close to operations – Data and the operations that use
+it most should be placed as close as possible to one another. In other words, data (e.g., attributes, local variables, etc.) should stay in the class or method where they are used the most.
+• Distribute complexity – The functionality provided by a class
+should be distributed among its operations in a balanced manner.
+• Operations use most attributes – Within the same class, most
+operations should collaborate and use most of the data most of the
+time [Rie96]. Thus, avoid abstractions with disjunct sets of behavior
+and data.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzODI4MDg5LDQ2NzM0NDg3Ml19
+eyJoaXN0b3J5IjpbLTE3NjAwMjMwMSw0NjczNDQ4NzJdfQ==
 -->
