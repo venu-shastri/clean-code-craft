@@ -61,10 +61,12 @@ because they let other classes see and possibly manipulate their data, leading t
 			- Long methods
 				- many temporary variables and parameters
 			- Excessive branching
+				- intensive use of switch statements (or if–else–if) 
 			- Many variables used
+				- many local variables but also many instance variables.
 			 
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc3ODIzOTcsOTI0NzYyNDg5LDE4OD
-AxNDAyMiw0NjczNDQ4NzJdfQ==
+eyJoaXN0b3J5IjpbMTM1ODk3MDg4MSw5MjQ3NjI0ODksMTg4MD
+E0MDIyLDQ2NzM0NDg3Ml19
 -->
