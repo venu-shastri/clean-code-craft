@@ -14,9 +14,7 @@ Harmony
 #### Rules of Identity Harmony
 >**Propotion Rule**  
 >Operations and classes should have a harmonious size i.e., they should avoid both size extremities. Be unique – When classes have a harmonious identity, then each
-piece of concrete functionality has a unique place, i.e., it is implemented
-nce and only once [Bec00]. Consequently, code duplication
-is avoided
+piece of concrete functionality has a unique place, i.e., it is implemented once and only once Consequently, code duplication is avoided
 
 >**Presentation Rule**
 > Each class should present its identity (i.e., its interface) by a set of services, which have one single responsibility and which provide a unique behavior
@@ -31,5 +29,5 @@ it most should be placed as close as possible to one another. In other words, da
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwNjMzODIxLDQ2NzM0NDg3Ml19
+eyJoaXN0b3J5IjpbMTg4MDE0MDIyLDQ2NzM0NDg3Ml19
 -->
