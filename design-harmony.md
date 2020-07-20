@@ -71,8 +71,10 @@ because they let other classes see and possibly manipulate their data, leading t
 - complex classes that tend to accumulate an excessive amount of intelligence, usually in the form of several methods affected by Brain Method
 - Detection
 	- Class contains more than one Brain Method(92) and is very large.
+	- Class contains only one Brain Method(92) but is extremely large and complex
+	- Class is very complex and non-cohesive
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzYzMDgxMSw5MjQ3NjI0ODksMTg4MD
+eyJoaXN0b3J5IjpbLTU3Nzg3Mjc0MCw5MjQ3NjI0ODksMTg4MD
 E0MDIyLDQ2NzM0NDg3Ml19
 -->
