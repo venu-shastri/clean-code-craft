@@ -12,11 +12,13 @@ Harmony
 ## Identity Disharmonies
 > Identity disharmonies are design flaws that affect single entities such as classes and methods
 #### Rules of Identity Harmony
-- Operations and classes should have a harmonious size i.e., they should avoid both size extremities
+>Propotion Rule  
+>Operations and classes should have a harmonious size i.e., they should avoid both size extremities
+>
 - Each class should present its identity (i.e., its interface) by a set of services, which have one single responsibility and which provide a unique behavior
 - Data and operations should harmoniously collaborate within the class to which they semantically belong
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk5NDQ2NTgsNDY3MzQ0ODcyXX0=
+eyJoaXN0b3J5IjpbLTc4Mjk4MTIxOSw0NjczNDQ4NzJdfQ==
 -->
