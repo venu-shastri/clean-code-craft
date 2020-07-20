@@ -83,8 +83,14 @@ complement the God Class strategy by catching those excessively complex classes 
 	- Code duplication harms the uniqueness of entities within a system.
 	- If duplication appears, it becomes
 much harder to locate errors because the assumption “only class X implements this, therefore the error can be found there” does not hold anymore
+	- Two cases of duplication
+		- Copy-Paste-Case
+		- Copy-Paste-Adopt
+
+	
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODgyMjM4MiwxMTMwOTAxODY2LDkyND
-c2MjQ4OSwxODgwMTQwMjIsNDY3MzQ0ODcyXX0=
+eyJoaXN0b3J5IjpbLTE1MTc4NTUyODcsMTMzODgyMjM4MiwxMT
+MwOTAxODY2LDkyNDc2MjQ4OSwxODgwMTQwMjIsNDY3MzQ0ODcy
+XX0=
 -->
