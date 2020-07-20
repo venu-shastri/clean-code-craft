@@ -25,7 +25,7 @@ Design problems affect program locations such as **`packages, interfaces, hierar
 |Type| Description |
 |--|--|
 | God class | Long and complex class that centralizes the intelligence of the system |
-|Brain method|Long and complex method that centralizes the intelligence of a class |
+|Brain method|Long and complex method that centralizes the intelligence of a class,oversized and over complex methods  |
 |Data Class |Class that contains data but not behavior related to the data|
 |Dispersed coupling|The case of an operation which is excessively tied to many other operations in the system, and additionally these provider methods that are dispersed among many classes|
 |Feature envy|Method that calls more methods of a single external class than the internal methods of its own inner class
@@ -60,6 +60,6 @@ Concern.
 #### Smell Agglomerations
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk4MDYwMTAsOTU4ODk4MjIxLC01Mz
-E0Mzk5MzNdfQ==
+eyJoaXN0b3J5IjpbNzIzNDEzNDUwLC0xMzc5ODA2MDEwLDk1OD
+g5ODIyMSwtNTMxNDM5OTMzXX0=
 -->
