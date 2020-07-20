@@ -88,13 +88,19 @@ much harder to locate errors because the assumption “only class X implements t
 		- Copy-Paste-Adopt
 	- eliminate duplication using Beck’s Once and Only Once Rule
 	- >By eliminating the duplicates, you ensure that the code says everything once and only once, which is the essence of good design
+	- 
 	Means put all “instances” of a duplicated
 portion of code into one single location
+**what is the proper location?**
+		-Look for context of the duplicated entities
+Three different contexts in which duplication appears
+
+
 
 	
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTgwMDQ0OCwxMzM4ODIyMzgyLDExMz
+eyJoaXN0b3J5IjpbLTMwMjYxNTY4NSwxMzM4ODIyMzgyLDExMz
 A5MDE4NjYsOTI0NzYyNDg5LDE4ODAxNDAyMiw0NjczNDQ4NzJd
 fQ==
 -->
