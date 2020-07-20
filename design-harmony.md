@@ -9,8 +9,8 @@ Harmony
 - **Collaboration Harmony** – `“How do I interact with others?”` Every entity collaborates with others to fulfill its tasks. Does it do that all on its own, or does it use other entities. How does it use them? Does it use too many?
 - **Classification Harmony** `“How do I define myself with respect to my ancestors and descendants?”`. This harmony combines elements of both identity and collaboration harmony in the context of inheritance. For example, does a subclass use all the inherited services, or does it ignore some of them?
 
-## Identity Harmony
+## Identity Disharmonies
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3NjY4NTUyLDQ2NzM0NDg3Ml19
+eyJoaXN0b3J5IjpbLTE1MDUxODY4MDQsNDY3MzQ0ODcyXX0=
 -->
