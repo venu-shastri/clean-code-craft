@@ -49,7 +49,8 @@ cohesion between the methods belonging to that class.
 	- Detection
 		- search for **`lightweight`** classes
 			- Interface of class reveals data rather than offering services
+		- look for the classes that define many accessors (get/set methods) and for those who declare data fields in their interfaces
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxOTI1NTU0LDE4ODAxNDAyMiw0NjczND
-Q4NzJdfQ==
+eyJoaXN0b3J5IjpbLTE4NDUwNzYwNiwxODgwMTQwMjIsNDY3Mz
+Q0ODcyXX0=
 -->
