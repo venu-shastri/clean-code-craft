@@ -46,11 +46,15 @@ cohesion between the methods belonging to that class.
 - **`Data Class`**
 	- dumb” data holders without complex functionality but other classes strongly rely on them
 	- Data Classes are the manifestation of a lacking encapsulation of data, and of a poor data-functionality proximity
+	- Data Classes break design principles
+because they let other classes see and possibly manipulate their data, leading to a brittle design
 	- Detection
 		- search for **`lightweight`** classes
 			- Interface of class reveals data rather than offering services
 		- look for the classes that define many accessors (get/set methods) and for those who declare data fields in their interfaces
+
+- **`Brain Method`**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDUwNzYwNiwxODgwMTQwMjIsNDY3Mz
-Q0ODcyXX0=
+eyJoaXN0b3J5IjpbOTI0NzYyNDg5LDE4ODAxNDAyMiw0NjczND
+Q4NzJdfQ==
 -->
