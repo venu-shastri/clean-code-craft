@@ -27,14 +27,18 @@ it most should be placed as close as possible to one another. In other words, da
 ## Identity Disharmonies
 > Identity disharmonies are design flaws that affect single entities such as classes and methods
 - God Class
-	- This design problem
-is comparable to Fowler’s Large Class bad smell
+	- This design problem is comparable to Fowler’s **Large Class** bad smell
+	- How to Detect
+		- They heavily access data of other simpler classes, either directly or using accessor methods.
+They are large and complex
+3. They have a lot of non-communicative behavior i.e., there is a low
+cohesion between the methods belonging to that class.
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTIwNzc2MiwxODgwMTQwMjIsNDY3Mz
+eyJoaXN0b3J5IjpbLTM0MDI1OTI1NSwxODgwMTQwMjIsNDY3Mz
 Q0ODcyXX0=
 -->
