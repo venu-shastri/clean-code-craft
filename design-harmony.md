@@ -41,8 +41,9 @@ cohesion between the methods belonging to that class.
 	- Causes poor data - operation proximity , results in a change in a method triggers changes in other methods and so on; the same applies for bugs
 	-  How to Detect
 		- Method uses directly more than a few attributes of other classes
-		- 
+		- Method uses far more attributes from other classes than its own.
+		- The used “foreign” attributes belong to very few other classes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzUxNDc2MSwxODgwMTQwMjIsNDY3Mz
-Q0ODcyXX0=
+eyJoaXN0b3J5IjpbMzU3NDA5NDQ1LDE4ODAxNDAyMiw0NjczND
+Q4NzJdfQ==
 -->
