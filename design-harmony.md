@@ -78,12 +78,13 @@ complement the God Class strategy by catching those excessively complex classes 
 
 - **`Significant Duplication`**
 	- What is significant
-		- It is the largest possible chain of duplication that can be formed
-in that portion of code, by uniting all islands of exact clones that
-are close enough to each other.
-• It is large enough.
+		- It is the largest possible chain of duplication that can be formed in that portion of code, by uniting all islands of exact clones that are close enough to each other.
+		- It is large enough.
+	- Code duplication harms the uniqueness of entities within a system.
+	- If duplication appears, it becomes
+much harder to locate errors because the assumption “only class X implements this, therefore the error can be found there” does not hold anymore
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwNDI4MTE3LDExMzA5MDE4NjYsOTI0Nz
-YyNDg5LDE4ODAxNDAyMiw0NjczNDQ4NzJdfQ==
+eyJoaXN0b3J5IjpbMTMzODgyMjM4MiwxMTMwOTAxODY2LDkyND
+c2MjQ4OSwxODgwMTQwMjIsNDY3MzQ0ODcyXX0=
 -->
