@@ -77,8 +77,13 @@ because they let other classes see and possibly manipulate their data, leading t
 complement the God Class strategy by catching those excessively complex classes that are not detected as God Classes either because they do not abusively access data of “satellite” classes, or because they are a little more cohesive
 
 - **`Significant Duplication`**
+	- What is significant
+		- It is the largest possible chain of duplication that can be formed
+in that portion of code, by uniting all islands of exact clones that
+are close enough to each other.
+• It is large enough.
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDkwMTg2Niw5MjQ3NjI0ODksMTg4MD
-E0MDIyLDQ2NzM0NDg3Ml19
+eyJoaXN0b3J5IjpbOTcwNDI4MTE3LDExMzA5MDE4NjYsOTI0Nz
+YyNDg5LDE4ODAxNDAyMiw0NjczNDQ4NzJdfQ==
 -->
