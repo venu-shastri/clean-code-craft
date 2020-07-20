@@ -55,8 +55,11 @@ because they let other classes see and possibly manipulate their data, leading t
 
 - **`Brain Method`**
 	- Often a method starts out as a “normal” method but then more and more functionality is added to it until it gets out of control, becoming hard to maintain or understand
-	- Brain Methods the problem concerns overlong methods, which are harder to understand and debug, and practically impossible to reuse
+	- Brain Methods   are harder to understand and debug, and practically impossible to unit test
+	- Detection
+		- Based on the convergence of three simple code smells described by Fowler
+			- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0MTE1NzUyLDkyNDc2MjQ4OSwxODgwMT
+eyJoaXN0b3J5IjpbODA2OTMxNDk5LDkyNDc2MjQ4OSwxODgwMT
 QwMjIsNDY3MzQ0ODcyXX0=
 -->
