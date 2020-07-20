@@ -45,7 +45,8 @@ cohesion between the methods belonging to that class.
 		- The used “foreign” attributes belong to very few other classes
 - **`Data Class`**
 	- dumb” data holders without complex functionality but other classes strongly rely on them
+	- Data Classes are the manifestation of a lacking encapsulation of data, and of a poor data-functionality proximity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDY1MDQwOCwxODgwMTQwMjIsNDY3Mz
+eyJoaXN0b3J5IjpbLTc3NjE5Njc3OCwxODgwMTQwMjIsNDY3Mz
 Q0ODcyXX0=
 -->
