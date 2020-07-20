@@ -86,11 +86,12 @@ much harder to locate errors because the assumption “only class X implements t
 	- Two cases of duplication
 		- Copy-Paste-Case
 		- Copy-Paste-Adopt
+	- eliminate duplication is based on Beck’s Once and Only Once Rule
 
 	
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc4NTUyODcsMTMzODgyMjM4MiwxMT
+eyJoaXN0b3J5IjpbLTE0Mjk1MTE0NDYsMTMzODgyMjM4MiwxMT
 MwOTAxODY2LDkyNDc2MjQ4OSwxODgwMTQwMjIsNDY3MzQ0ODcy
 XX0=
 -->
