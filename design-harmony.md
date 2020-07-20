@@ -54,7 +54,9 @@ because they let other classes see and possibly manipulate their data, leading t
 		- look for the classes that define many accessors (get/set methods) and for those who declare data fields in their interfaces
 
 - **`Brain Method`**
+	- Often a method starts out as a “normal” method but then more and more functionality is added to it until it gets out of control, becoming hard to maintain or understand
+	- Brain Methods the problem concerns overlong methods, which are harder to understand and debug, and practically impossible to reuse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0NzYyNDg5LDE4ODAxNDAyMiw0NjczND
-Q4NzJdfQ==
+eyJoaXN0b3J5IjpbOTk0MTE1NzUyLDkyNDc2MjQ4OSwxODgwMT
+QwMjIsNDY3MzQ0ODcyXX0=
 -->
