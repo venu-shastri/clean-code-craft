@@ -64,9 +64,9 @@ because they let other classes see and possibly manipulate their data, leading t
 				- intensive use of switch statements (or if–else–if) 
 			- Many variables used
 				- many local variables but also many instance variables.
-			 
+	- 
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODk3MDg4MSw5MjQ3NjI0ODksMTg4MD
-E0MDIyLDQ2NzM0NDg3Ml19
+eyJoaXN0b3J5IjpbMzg5MTQ1MTgwLDkyNDc2MjQ4OSwxODgwMT
+QwMjIsNDY3MzQ0ODcyXX0=
 -->
