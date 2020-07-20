@@ -17,10 +17,11 @@ Harmony
 
 >**Presentation Rule**
 > Each class should present its identity (i.e., its interface) by a set of services, which have one single responsibility and which provide a unique behavior
-> 
-- Data and operations should harmoniously collaborate within the class to which they semantically belong
+
+> **Implementation Rule** 
+> Data and operations should harmoniously collaborate within the class to which they semantically belong
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQ3NzkwODgsNDY3MzQ0ODcyXX0=
+eyJoaXN0b3J5IjpbNTMzODI4MDg5LDQ2NzM0NDg3Ml19
 -->
