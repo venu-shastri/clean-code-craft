@@ -43,7 +43,9 @@ cohesion between the methods belonging to that class.
 		- Method uses directly more than a few attributes of other classes
 		- Method uses far more attributes from other classes than its own.
 		- The used “foreign” attributes belong to very few other classes
+- **`Data Class`**
+	- dumb” data holders without complex functionality but other classes strongly rely on them
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3NDA5NDQ1LDE4ODAxNDAyMiw0NjczND
-Q4NzJdfQ==
+eyJoaXN0b3J5IjpbLTM4MDY1MDQwOCwxODgwMTQwMjIsNDY3Mz
+Q0ODcyXX0=
 -->
