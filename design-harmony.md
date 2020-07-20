@@ -10,7 +10,13 @@ Harmony
 - **Classification Harmony** `“How do I define myself with respect to my ancestors and descendants?”`. This harmony combines elements of both identity and collaboration harmony in the context of inheritance. For example, does a subclass use all the inherited services, or does it ignore some of them?
 
 ## Identity Disharmonies
-- Identity disharmonies are design flaws that affect single entities such as classes and methods
+> Identity disharmonies are design flaws that affect single entities such as classes and methods
+#### Rules of Identity Harmony
+- Operations and classes should have a harmonious size i.e., they should avoid both size extremities
+- Each class should present its identity (i.e., its interface) by a set of services, which have one single responsibility and which provide a unique behavior
+- Data and operations should harmoniously collaborate within the class to which they semantically belong
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMDEwODMxLDQ2NzM0NDg3Ml19
+eyJoaXN0b3J5IjpbLTE2ODk5NDQ2NTgsNDY3MzQ0ODcyXX0=
 -->
