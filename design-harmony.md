@@ -73,8 +73,10 @@ because they let other classes see and possibly manipulate their data, leading t
 	- Class contains more than one Brain Method(92) and is very large.
 	- Class contains only one Brain Method(92) but is extremely large and complex
 	- Class is very complex and non-cohesive
+	>Brain Class detection strategy is trying to
+complement the God Class strategy by catching those excessively complex classes that are not detected as God Classes either because they do not abusively access data of “satellite” classes, or because they are a little more cohesive
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Nzg3Mjc0MCw5MjQ3NjI0ODksMTg4MD
+eyJoaXN0b3J5IjpbMTU1MzU3ODM1MCw5MjQ3NjI0ODksMTg4MD
 E0MDIyLDQ2NzM0NDg3Ml19
 -->
