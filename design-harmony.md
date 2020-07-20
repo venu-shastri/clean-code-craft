@@ -86,12 +86,15 @@ much harder to locate errors because the assumption “only class X implements t
 	- Two cases of duplication
 		- Copy-Paste-Case
 		- Copy-Paste-Adopt
-	- eliminate duplication is based on Beck’s Once and Only Once Rule
+	- eliminate duplication using Beck’s Once and Only Once Rule
+	- >By eliminating the duplicates, you ensure that the code says everything once and only once, which is the essence of good design
+	Means put all “instances” of a duplicated
+portion of code into one single location
 
 	
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjk1MTE0NDYsMTMzODgyMjM4MiwxMT
-MwOTAxODY2LDkyNDc2MjQ4OSwxODgwMTQwMjIsNDY3MzQ0ODcy
-XX0=
+eyJoaXN0b3J5IjpbMTE0OTgwMDQ0OCwxMzM4ODIyMzgyLDExMz
+A5MDE4NjYsOTI0NzYyNDg5LDE4ODAxNDAyMiw0NjczNDQ4NzJd
+fQ==
 -->
