@@ -30,15 +30,16 @@ it most should be placed as close as possible to one another. In other words, da
 	- This design problem is comparable to Fowler’s **Large Class** bad smell
 	- How to Detect
 		- They heavily access data of other simpler classes, either directly or using accessor methods.
-They are large and complex
-3. They have a lot of non-communicative behavior i.e., there is a low
+		- They are large and complex
+		- They have a lot of non-communicative behavior i.e., there is a low
 cohesion between the methods belonging to that class.
+	- Refactoring
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDI1OTI1NSwxODgwMTQwMjIsNDY3Mz
-Q0ODcyXX0=
+eyJoaXN0b3J5IjpbLTE0NDU4MDA1MDUsMTg4MDE0MDIyLDQ2Nz
+M0NDg3Ml19
 -->
