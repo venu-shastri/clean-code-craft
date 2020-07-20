@@ -67,8 +67,9 @@ because they let other classes see and possibly manipulate their data, leading t
 	- Refactroing
 	> whenever we feel the need to comment something, we write a method instead. Such a method contains the code that was commented but is named after the intention of the code rather than how it does it.
 	--Martin
+- **`Brain Class`**
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MzMzMjgzOSw5MjQ3NjI0ODksMTg4MD
+eyJoaXN0b3J5IjpbMTI4OTMzOTE0OCw5MjQ3NjI0ODksMTg4MD
 E0MDIyLDQ2NzM0NDg3Ml19
 -->
