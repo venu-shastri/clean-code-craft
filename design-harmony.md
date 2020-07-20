@@ -69,8 +69,10 @@ because they let other classes see and possibly manipulate their data, leading t
 	--Martin
 - **`Brain Class`**
 - complex classes that tend to accumulate an excessive amount of intelligence, usually in the form of several methods affected by Brain Method
+- Detection
+	- Class contains more than one Brain Method(92) and is very large.
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDg1NjEwNCw5MjQ3NjI0ODksMTg4MD
+eyJoaXN0b3J5IjpbLTM0NzYzMDgxMSw5MjQ3NjI0ODksMTg4MD
 E0MDIyLDQ2NzM0NDg3Ml19
 -->
