@@ -57,9 +57,14 @@ because they let other classes see and possibly manipulate their data, leading t
 	- Often a method starts out as a “normal” method but then more and more functionality is added to it until it gets out of control, becoming hard to maintain or understand
 	- Brain Methods   are harder to understand and debug, and practically impossible to unit test
 	- Detection
-		- Based on the convergence of three simple code smells described by Fowler
-			- 
+		- Convergence of three simple code smells described by Fowler
+			- Long methods
+				- many temporary variables and parameters
+			- Excessive branching
+			- Many variables used
+			 
+			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2OTMxNDk5LDkyNDc2MjQ4OSwxODgwMT
-QwMjIsNDY3MzQ0ODcyXX0=
+eyJoaXN0b3J5IjpbLTIxMzc3ODIzOTcsOTI0NzYyNDg5LDE4OD
+AxNDAyMiw0NjczNDQ4NzJdfQ==
 -->
