@@ -38,8 +38,9 @@ cohesion between the methods belonging to that class.
 		- incrementally redistribute the responsibilities of the God Class either to its collaborating classes or to new classes that are pulled out of the God Class
 
 - **`Feature Envy`**
+	- Causes 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4MjI4ODM0LDE4ODAxNDAyMiw0NjczND
+eyJoaXN0b3J5IjpbODIwMDU3MzMzLDE4ODAxNDAyMiw0NjczND
 Q4NzJdfQ==
 -->
