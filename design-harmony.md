@@ -117,13 +117,20 @@ of other classes.
 
 ### dispersion –
  The collaborators (i.e., invoked and/or invoking operations) of an operation should have a limited
-dispersion within the system. Thus, one should try to make an entity collaborate closely only with a selected set of entities, with a preference for entities (in decreasing order) located in the (0) same
-abstraction; the (1) same hierarchy; the (2) same package (or subsystem).
-2
+dispersion within the system. Thus, one should try to make an entity collaborate closely only with a selected set of entities, with a preference for entities  located in the
+ (0) same abstraction; 
+ 1) same hierarchy; 
+ (2) same package (or subsystem).
+
+### Note
+The term Collaborate refers both to the active (i.e., call another operation) and to the passive (i.e., be called (invoked) by another operation) aspects.
+
+### Collaboration Disharmonies
+
 	
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTM3MTMzNiw0NzQ0MTYxODcsLTc3MT
+eyJoaXN0b3J5IjpbMTcwNzQ1MzY4NCw0NzQ0MTYxODcsLTc3MT
 MyNjgxNSwxMzM4ODIyMzgyLDExMzA5MDE4NjYsOTI0NzYyNDg5
 LDE4ODAxNDAyMiw0NjczNDQ4NzJdfQ==
 -->
