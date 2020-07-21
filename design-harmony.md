@@ -205,14 +205,16 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 Parent Bequest
 		-	Extract extracting the parts that are not used by all descendants to a helper class and letting the parent class have a reference to an instance of the helper
 class 
+
+
 		
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxMjE3MTcwLC0xMTk0NTc5MDY5LDE1MT
-gyNzQ3MTgsLTEyODg0NDc0NzcsLTM1NDcyODQwOCwxMjI2NTIz
-Mjg4LDE5MzM0ODkyNzksLTExODQzODUxMjIsLTE0NzE0MzI2OD
-AsLTEwODY0MjE3NTcsLTcwMzAzODAwLC0xNDE3NDQ0MzAzLDYy
-NTA3NTU5NCwxNzc2MjU2NzQxLC0xODM4MjMzNjk3LC0xNjc5OT
-YxNjM0LDE3MDc0NTM2ODQsNDc0NDE2MTg3LC03NzEzMjY4MTUs
-MTMzODgyMjM4Ml19
+eyJoaXN0b3J5IjpbLTE5MzE0OTMzMCwzNDEyMTcxNzAsLTExOT
+Q1NzkwNjksMTUxODI3NDcxOCwtMTI4ODQ0NzQ3NywtMzU0NzI4
+NDA4LDEyMjY1MjMyODgsMTkzMzQ4OTI3OSwtMTE4NDM4NTEyMi
+wtMTQ3MTQzMjY4MCwtMTA4NjQyMTc1NywtNzAzMDM4MDAsLTE0
+MTc0NDQzMDMsNjI1MDc1NTk0LDE3NzYyNTY3NDEsLTE4MzgyMz
+M2OTcsLTE2Nzk5NjE2MzQsMTcwNzQ1MzY4NCw0NzQ0MTYxODcs
+LTc3MTMyNjgxNV19
 -->
