@@ -180,10 +180,11 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 
 #### Rules
 ---
-
+- Keep a balance between the inherited interface and its extension (through addition of new services)
+- Do not refuse (deny, “cut off”) any parts of an ancestor’s interface and specialize rather than override the inherited services (i.e., the inherited public methods)
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTYwODMzMywtMzU0NzI4NDA4LDEyMj
+eyJoaXN0b3J5IjpbMTQ1MTUwNDE0NiwtMzU0NzI4NDA4LDEyMj
 Y1MjMyODgsMTkzMzQ4OTI3OSwtMTE4NDM4NTEyMiwtMTQ3MTQz
 MjY4MCwtMTA4NjQyMTc1NywtNzAzMDM4MDAsLTE0MTc0NDQzMD
 MsNjI1MDc1NTk0LDE3NzYyNTY3NDEsLTE4MzgyMzM2OTcsLTE2
