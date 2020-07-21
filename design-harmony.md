@@ -152,7 +152,8 @@ the invoked methods are not very much dispersed into many classes
 	- capture only those operations that have a high dispersion of their coupling
 		- Operation calls a few methods from each of a    large number of unrelated classes
 - Note
->In many cases the operation that exhibits Dispersed Coupling is also a Brain Method
+>In many cases the operation that exhibits Dispersed Coupling is also a Brain Method  because An excessively
+large and complex operation is almost always non-cohesive, doing more than one thing; and therefore there will be many invocations to methods from many classes
 - Refactoring
 	- Anything in the client method (i.e., the
 one affected by Dispersed Coupling)that could be moved to one of the lightweight methods that it invokes
@@ -167,10 +168,10 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQzODUxMjIsLTE0NzE0MzI2ODAsLT
-EwODY0MjE3NTcsLTcwMzAzODAwLC0xNDE3NDQ0MzAzLDYyNTA3
-NTU5NCwxNzc2MjU2NzQxLC0xODM4MjMzNjk3LC0xNjc5OTYxNj
-M0LDE3MDc0NTM2ODQsNDc0NDE2MTg3LC03NzEzMjY4MTUsMTMz
-ODgyMjM4MiwxMTMwOTAxODY2LDkyNDc2MjQ4OSwxODgwMTQwMj
-IsNDY3MzQ0ODcyXX0=
+eyJoaXN0b3J5IjpbMTkzMzQ4OTI3OSwtMTE4NDM4NTEyMiwtMT
+Q3MTQzMjY4MCwtMTA4NjQyMTc1NywtNzAzMDM4MDAsLTE0MTc0
+NDQzMDMsNjI1MDc1NTk0LDE3NzYyNTY3NDEsLTE4MzgyMzM2OT
+csLTE2Nzk5NjE2MzQsMTcwNzQ1MzY4NCw0NzQ0MTYxODcsLTc3
+MTMyNjgxNSwxMzM4ODIyMzgyLDExMzA5MDE4NjYsOTI0NzYyND
+g5LDE4ODAxNDAyMiw0NjczNDQ4NzJdfQ==
 -->
