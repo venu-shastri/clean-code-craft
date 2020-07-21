@@ -153,14 +153,17 @@ the invoked methods are not very much dispersed into many classes
 		- Operation calls a few methods from each of a    large number of unrelated classes
 - Note
 >In many cases the operation that exhibits Dispersed Coupling is also a Brain Method
+- Refactoring
+	- Anything in the client method (i.e., the
+one affected by Dispersed Coupling)that could be moved to one of the lightweight methods that it invokes
 
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTYxMDUzNTUsLTEwODY0MjE3NTcsLT
-cwMzAzODAwLC0xNDE3NDQ0MzAzLDYyNTA3NTU5NCwxNzc2MjU2
-NzQxLC0xODM4MjMzNjk3LC0xNjc5OTYxNjM0LDE3MDc0NTM2OD
-QsNDc0NDE2MTg3LC03NzEzMjY4MTUsMTMzODgyMjM4MiwxMTMw
-OTAxODY2LDkyNDc2MjQ4OSwxODgwMTQwMjIsNDY3MzQ0ODcyXX
-0=
+eyJoaXN0b3J5IjpbLTYyMzAyOTEyMCwtMTA4NjQyMTc1NywtNz
+AzMDM4MDAsLTE0MTc0NDQzMDMsNjI1MDc1NTk0LDE3NzYyNTY3
+NDEsLTE4MzgyMzM2OTcsLTE2Nzk5NjE2MzQsMTcwNzQ1MzY4NC
+w0NzQ0MTYxODcsLTc3MTMyNjgxNSwxMzM4ODIyMzgyLDExMzA5
+MDE4NjYsOTI0NzYyNDg5LDE4ODAxNDAyMiw0NjczNDQ4NzJdfQ
+==
 -->
