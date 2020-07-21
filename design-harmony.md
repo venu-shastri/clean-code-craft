@@ -144,15 +144,13 @@ the invoked methods are not very much dispersed into many classes
 
 ####  Dispersed Coupling
 ----
-	-An
-operation which is excessively tied to many other operations in the
-system, and additionally these provider methods that are dispersed
-among many classes
+- An operation which is excessively tied to many other operations in the system, and additionally these provider methods that are dispersed among many classes
+- single operation communicates with an excessive number of provider classes, whereby the communication with each of the classes is not very intense i.e., the operation calls one or a few methods from each class.
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzc1NDQ5NSw2MjUwNzU1OTQsMTc3Nj
-I1Njc0MSwtMTgzODIzMzY5NywtMTY3OTk2MTYzNCwxNzA3NDUz
-Njg0LDQ3NDQxNjE4NywtNzcxMzI2ODE1LDEzMzg4MjIzODIsMT
-EzMDkwMTg2Niw5MjQ3NjI0ODksMTg4MDE0MDIyLDQ2NzM0NDg3
-Ml19
+eyJoaXN0b3J5IjpbLTE0MTc0NDQzMDMsNjI1MDc1NTk0LDE3Nz
+YyNTY3NDEsLTE4MzgyMzM2OTcsLTE2Nzk5NjE2MzQsMTcwNzQ1
+MzY4NCw0NzQ0MTYxODcsLTc3MTMyNjgxNSwxMzM4ODIyMzgyLD
+ExMzA5MDE4NjYsOTI0NzYyNDg5LDE4ODAxNDAyMiw0NjczNDQ4
+NzJdfQ==
 -->
