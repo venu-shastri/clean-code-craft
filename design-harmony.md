@@ -159,12 +159,12 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 
 #### Shotgun Surgery
 ---
--
+>change in an operation implies many (small) changes to a lot of different operations and classes 
 
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDAyMzU1ODMsLTEwODY0MjE3NTcsLT
+eyJoaXN0b3J5IjpbLTE0NzE0MzI2ODAsLTEwODY0MjE3NTcsLT
 cwMzAzODAwLC0xNDE3NDQ0MzAzLDYyNTA3NTU5NCwxNzc2MjU2
 NzQxLC0xODM4MjMzNjk3LC0xNjc5OTYxNjM0LDE3MDc0NTM2OD
 QsNDc0NDE2MTg3LC03NzEzMjY4MTUsMTMzODgyMjM4MiwxMTMw
