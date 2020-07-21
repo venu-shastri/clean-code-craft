@@ -185,9 +185,14 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 - Root classes should be rather abstract or the other way around: abstract classes should be situated close to the top of a hierarchy and not somewhere in the middle of a hierarchy.
 - Base classes should not depend on their descendants.
 	- Developers who do not have a “complete picture” of the system just reuse pieces of code whenever they see something useful to them.
+	- Inherited operations should be used (i.e., redefined, called, specialized) most of the time in the context of refining (specializing) the inherited services, rather than calling them from newly added services.
+
+### Classification Disharmonies
+---
+
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTg1OTg0NSwtMTI4ODQ0NzQ3NywtMz
+eyJoaXN0b3J5IjpbMTUxODI3NDcxOCwtMTI4ODQ0NzQ3NywtMz
 U0NzI4NDA4LDEyMjY1MjMyODgsMTkzMzQ4OTI3OSwtMTE4NDM4
 NTEyMiwtMTQ3MTQzMjY4MCwtMTA4NjQyMTc1NywtNzAzMDM4MD
 AsLTE0MTc0NDQzMDMsNjI1MDc1NTk0LDE3NzYyNTY3NDEsLTE4
