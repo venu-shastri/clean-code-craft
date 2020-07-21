@@ -111,10 +111,19 @@ dispersion
 #### intensity – 
 >Operations should collaborate (mainly unidirectional) with a limited number of services provided by other classes
 
+### extent – 
+> Operations (and consequently their classes) should collaborate with operations from a limited number
+of other classes.
+
+### dispersion –
+ The collaborators (i.e., invoked and/or invoking operations) of an operation should have a limited
+dispersion within the system. Thus, one should try to make an entity collaborate closely only with a selected set of entities, with a preference for entities (in decreasing order) located in the (0) same
+abstraction; the (1) same hierarchy; the (2) same package (or subsystem).
+2
 	
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjU2MTc2NCw0NzQ0MTYxODcsLTc3MT
+eyJoaXN0b3J5IjpbLTM5OTM3MTMzNiw0NzQ0MTYxODcsLTc3MT
 MyNjgxNSwxMzM4ODIyMzgyLDExMzA5MDE4NjYsOTI0NzYyNDg5
 LDE4ODAxNDAyMiw0NjczNDQ4NzJdfQ==
 -->
