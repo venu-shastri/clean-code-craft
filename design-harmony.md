@@ -106,13 +106,12 @@ Case III: Duplication Within Unrelated Classes
 invocations and have a limited extent, intensity and
 dispersion
 
->You want to leverage the services of other classes, but you want to have services at the right level, so that you want to know only about a limited number of objects and their services. [...] If you had to interact with all the indirectly related objects, we’d have a tangled web of interdependencies and maintenance would be
-a nightmare
-
+>You want to leverage the services of other classes, but you want to have services at the right level, so that you want to know only about a limited number of objects and their services. [...] If you had to interact with all the indirectly related objects, we’d have a tangled web of inter-dependencies and maintenance would be a nightmare
+--Lorenz and Kidd
 	
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTgzMDc3NywtNzcxMzI2ODE1LDEzMz
-g4MjIzODIsMTEzMDkwMTg2Niw5MjQ3NjI0ODksMTg4MDE0MDIy
-LDQ2NzM0NDg3Ml19
+eyJoaXN0b3J5IjpbNDc0NDE2MTg3LC03NzEzMjY4MTUsMTMzOD
+gyMjM4MiwxMTMwOTAxODY2LDkyNDc2MjQ4OSwxODgwMTQwMjIs
+NDY3MzQ0ODcyXX0=
 -->
