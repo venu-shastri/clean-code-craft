@@ -129,11 +129,14 @@ The term Collaborate refers both to the active (i.e., call another operation) an
 
 ####  Intensive Coupling
 ----
+- when a method is tied to many other operations in the system
+- The communication between the client method and (at least one of) its provider classes is excessively verbose
 
 	
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzk5NjE2MzQsMTcwNzQ1MzY4NCw0Nz
-Q0MTYxODcsLTc3MTMyNjgxNSwxMzM4ODIyMzgyLDExMzA5MDE4
-NjYsOTI0NzYyNDg5LDE4ODAxNDAyMiw0NjczNDQ4NzJdfQ==
+eyJoaXN0b3J5IjpbLTE4MzgyMzM2OTcsLTE2Nzk5NjE2MzQsMT
+cwNzQ1MzY4NCw0NzQ0MTYxODcsLTc3MTMyNjgxNSwxMzM4ODIy
+MzgyLDExMzA5MDE4NjYsOTI0NzYyNDg5LDE4ODAxNDAyMiw0Nj
+czNDQ4NzJdfQ==
 -->
