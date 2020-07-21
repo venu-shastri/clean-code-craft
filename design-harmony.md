@@ -183,13 +183,15 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 - Keep a balance between the inherited interface and its extension (through addition of new services)
 - Do not refuse (deny, “cut off”) any parts of an ancestor’s interface and specialize rather than override the inherited services (i.e., the inherited public methods)
 - Root classes should be rather abstract or the other way around: abstract classes should be situated close to the top of a hierarchy and not somewhere in the middle of a hierarchy.
+- Base classes should not depend on their descendants.
+	- Developers who do not have a “complete picture” of the system just reuse pieces of code whenever they see something useful to them.
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg0NDc0NzcsLTM1NDcyODQwOCwxMj
-I2NTIzMjg4LDE5MzM0ODkyNzksLTExODQzODUxMjIsLTE0NzE0
-MzI2ODAsLTEwODY0MjE3NTcsLTcwMzAzODAwLC0xNDE3NDQ0Mz
-AzLDYyNTA3NTU5NCwxNzc2MjU2NzQxLC0xODM4MjMzNjk3LC0x
-Njc5OTYxNjM0LDE3MDc0NTM2ODQsNDc0NDE2MTg3LC03NzEzMj
-Y4MTUsMTMzODgyMjM4MiwxMTMwOTAxODY2LDkyNDc2MjQ4OSwx
-ODgwMTQwMjJdfQ==
+eyJoaXN0b3J5IjpbMTc0NTg1OTg0NSwtMTI4ODQ0NzQ3NywtMz
+U0NzI4NDA4LDEyMjY1MjMyODgsMTkzMzQ4OTI3OSwtMTE4NDM4
+NTEyMiwtMTQ3MTQzMjY4MCwtMTA4NjQyMTc1NywtNzAzMDM4MD
+AsLTE0MTc0NDQzMDMsNjI1MDc1NTk0LDE3NzYyNTY3NDEsLTE4
+MzgyMzM2OTcsLTE2Nzk5NjE2MzQsMTcwNzQ1MzY4NCw0NzQ0MT
+YxODcsLTc3MTMyNjgxNSwxMzM4ODIyMzgyLDExMzA5MDE4NjYs
+OTI0NzYyNDg5XX0=
 -->
