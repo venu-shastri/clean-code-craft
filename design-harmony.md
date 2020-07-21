@@ -138,11 +138,14 @@ The term Collaborate refers both to the active (i.e., call another operation) an
 -Two following conditions that must Detection be fulfilled simultaneously
 - The function invokes many methods and
 the invoked methods are not very much dispersed into many classes
+
+- Refactoring
+	- Define a new service in the provider class and replace the multiple calls with a single call to the newly defined method
 	
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjI1Njc0MSwtMTgzODIzMzY5NywtMT
-Y3OTk2MTYzNCwxNzA3NDUzNjg0LDQ3NDQxNjE4NywtNzcxMzI2
-ODE1LDEzMzg4MjIzODIsMTEzMDkwMTg2Niw5MjQ3NjI0ODksMT
-g4MDE0MDIyLDQ2NzM0NDg3Ml19
+eyJoaXN0b3J5IjpbNjI1MDc1NTk0LDE3NzYyNTY3NDEsLTE4Mz
+gyMzM2OTcsLTE2Nzk5NjE2MzQsMTcwNzQ1MzY4NCw0NzQ0MTYx
+ODcsLTc3MTMyNjgxNSwxMzM4ODIyMzgyLDExMzA5MDE4NjYsOT
+I0NzYyNDg5LDE4ODAxNDAyMiw0NjczNDQ4NzJdfQ==
 -->
