@@ -190,7 +190,8 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 ### Classification Disharmonies
 ---
 #### Refused Parent Bequest
--	child class refuses to use this special bequest prepared by its parent
+-	child class refuses to use this special bequest prepared by its parent 
+-	Rebellious Hierarchy smell
 -	Detection and Refactoring
 	-	Case A: False Child Class
 		-	Hierarchy might be ill-designed
@@ -210,11 +211,11 @@ class
 		
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyOTQzNzg4LDM0MTIxNzE3MCwtMTE5ND
-U3OTA2OSwxNTE4Mjc0NzE4LC0xMjg4NDQ3NDc3LC0zNTQ3Mjg0
-MDgsMTIyNjUyMzI4OCwxOTMzNDg5Mjc5LC0xMTg0Mzg1MTIyLC
-0xNDcxNDMyNjgwLC0xMDg2NDIxNzU3LC03MDMwMzgwMCwtMTQx
-NzQ0NDMwMyw2MjUwNzU1OTQsMTc3NjI1Njc0MSwtMTgzODIzMz
-Y5NywtMTY3OTk2MTYzNCwxNzA3NDUzNjg0LDQ3NDQxNjE4Nywt
-NzcxMzI2ODE1XX0=
+eyJoaXN0b3J5IjpbMTAyNTYxNTM1LDI2Mjk0Mzc4OCwzNDEyMT
+cxNzAsLTExOTQ1NzkwNjksMTUxODI3NDcxOCwtMTI4ODQ0NzQ3
+NywtMzU0NzI4NDA4LDEyMjY1MjMyODgsMTkzMzQ4OTI3OSwtMT
+E4NDM4NTEyMiwtMTQ3MTQzMjY4MCwtMTA4NjQyMTc1NywtNzAz
+MDM4MDAsLTE0MTc0NDQzMDMsNjI1MDc1NTk0LDE3NzYyNTY3ND
+EsLTE4MzgyMzM2OTcsLTE2Nzk5NjE2MzQsMTcwNzQ1MzY4NCw0
+NzQ0MTYxODddfQ==
 -->
