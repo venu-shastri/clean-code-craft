@@ -127,10 +127,13 @@ The term Collaborate refers both to the active (i.e., call another operation) an
 
 ### Collaboration Disharmonies
 
+####  Intensive Coupling
+----
+
 	
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzQ1MzY4NCw0NzQ0MTYxODcsLTc3MT
-MyNjgxNSwxMzM4ODIyMzgyLDExMzA5MDE4NjYsOTI0NzYyNDg5
-LDE4ODAxNDAyMiw0NjczNDQ4NzJdfQ==
+eyJoaXN0b3J5IjpbLTE2Nzk5NjE2MzQsMTcwNzQ1MzY4NCw0Nz
+Q0MTYxODcsLTc3MTMyNjgxNSwxMzM4ODIyMzgyLDExMzA5MDE4
+NjYsOTI0NzYyNDg5LDE4ODAxNDAyMiw0NjczNDQ4NzJdfQ==
 -->
