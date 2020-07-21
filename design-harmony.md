@@ -197,13 +197,14 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 		-	The child class has no inheritance-specific dependencies on the parent class
 	-	Case B: Irrelevant Bequest
 		-	inheritance-specific members is over-populated with methods and attributes that have no relevance in the context of the inheritance relation
+		-	For each protected member, count the number of usages from derived classes; in case of protected methods, this includes overriding or specialization of that method in derived classes. If the number of dependencies is null, i.e., if a member is used only from inside the definition class, then it should be moved to a private scope
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI5NzMwMzEsLTExOTQ1NzkwNjksMT
-UxODI3NDcxOCwtMTI4ODQ0NzQ3NywtMzU0NzI4NDA4LDEyMjY1
-MjMyODgsMTkzMzQ4OTI3OSwtMTE4NDM4NTEyMiwtMTQ3MTQzMj
-Y4MCwtMTA4NjQyMTc1NywtNzAzMDM4MDAsLTE0MTc0NDQzMDMs
-NjI1MDc1NTk0LDE3NzYyNTY3NDEsLTE4MzgyMzM2OTcsLTE2Nz
-k5NjE2MzQsMTcwNzQ1MzY4NCw0NzQ0MTYxODcsLTc3MTMyNjgx
-NSwxMzM4ODIyMzgyXX0=
+eyJoaXN0b3J5IjpbMTY5MTUxNTU2OCwtMTE5NDU3OTA2OSwxNT
+E4Mjc0NzE4LC0xMjg4NDQ3NDc3LC0zNTQ3Mjg0MDgsMTIyNjUy
+MzI4OCwxOTMzNDg5Mjc5LC0xMTg0Mzg1MTIyLC0xNDcxNDMyNj
+gwLC0xMDg2NDIxNzU3LC03MDMwMzgwMCwtMTQxNzQ0NDMwMyw2
+MjUwNzU1OTQsMTc3NjI1Njc0MSwtMTgzODIzMzY5NywtMTY3OT
+k2MTYzNCwxNzA3NDUzNjg0LDQ3NDQxNjE4NywtNzcxMzI2ODE1
+LDEzMzg4MjIzODJdfQ==
 -->
