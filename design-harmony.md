@@ -176,14 +176,16 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 	- Audit your source control tool, or else just mentally pay attention to how many files you’re touching while making conceptually simple changes. If it’s a lot, then you’ve got an issue.
 	- 
 ## Classification Harmony 
+- The object-oriented programming paradigm captures the is-a-kind-of relationship among classes with **inheritance** . Inheritance is at the same time a curse and a blessing of the object oriented paradigm .Inheritance
+should be used with care and style.
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyNTc2NDg1LC0zNTQ3Mjg0MDgsMTIyNj
-UyMzI4OCwxOTMzNDg5Mjc5LC0xMTg0Mzg1MTIyLC0xNDcxNDMy
-NjgwLC0xMDg2NDIxNzU3LC03MDMwMzgwMCwtMTQxNzQ0NDMwMy
-w2MjUwNzU1OTQsMTc3NjI1Njc0MSwtMTgzODIzMzY5NywtMTY3
-OTk2MTYzNCwxNzA3NDUzNjg0LDQ3NDQxNjE4NywtNzcxMzI2OD
-E1LDEzMzg4MjIzODIsMTEzMDkwMTg2Niw5MjQ3NjI0ODksMTg4
-MDE0MDIyXX0=
+eyJoaXN0b3J5IjpbLTE5MTk2Mzc3MjUsLTM1NDcyODQwOCwxMj
+I2NTIzMjg4LDE5MzM0ODkyNzksLTExODQzODUxMjIsLTE0NzE0
+MzI2ODAsLTEwODY0MjE3NTcsLTcwMzAzODAwLC0xNDE3NDQ0Mz
+AzLDYyNTA3NTU5NCwxNzc2MjU2NzQxLC0xODM4MjMzNjk3LC0x
+Njc5OTYxNjM0LDE3MDc0NTM2ODQsNDc0NDE2MTg3LC03NzEzMj
+Y4MTUsMTMzODgyMjM4MiwxMTMwOTAxODY2LDkyNDc2MjQ4OSwx
+ODgwMTQwMjJdfQ==
 -->
