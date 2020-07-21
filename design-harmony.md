@@ -161,6 +161,7 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 #### Shotgun Surgery
 ---
 >change in an operation implies many (small) changes to a lot of different operations and classes 
+>Concerns Spread Everywhere
 
 - Detection
 	- Operation is called by too many other methods
@@ -168,10 +169,10 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzQ4OTI3OSwtMTE4NDM4NTEyMiwtMT
-Q3MTQzMjY4MCwtMTA4NjQyMTc1NywtNzAzMDM4MDAsLTE0MTc0
-NDQzMDMsNjI1MDc1NTk0LDE3NzYyNTY3NDEsLTE4MzgyMzM2OT
-csLTE2Nzk5NjE2MzQsMTcwNzQ1MzY4NCw0NzQ0MTYxODcsLTc3
-MTMyNjgxNSwxMzM4ODIyMzgyLDExMzA5MDE4NjYsOTI0NzYyND
-g5LDE4ODAxNDAyMiw0NjczNDQ4NzJdfQ==
+eyJoaXN0b3J5IjpbMTIzNDg5MDQxMywxOTMzNDg5Mjc5LC0xMT
+g0Mzg1MTIyLC0xNDcxNDMyNjgwLC0xMDg2NDIxNzU3LC03MDMw
+MzgwMCwtMTQxNzQ0NDMwMyw2MjUwNzU1OTQsMTc3NjI1Njc0MS
+wtMTgzODIzMzY5NywtMTY3OTk2MTYzNCwxNzA3NDUzNjg0LDQ3
+NDQxNjE4NywtNzcxMzI2ODE1LDEzMzg4MjIzODIsMTEzMDkwMT
+g2Niw5MjQ3NjI0ODksMTg4MDE0MDIyLDQ2NzM0NDg3Ml19
 -->
