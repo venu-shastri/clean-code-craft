@@ -200,10 +200,10 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 		-	Inheritance-specific members is over-populated with methods and attributes that have no relevance in the context of the inheritance relation
 		
 		-	For each protected member, count the number of usages from derived classes; in case of protected methods, this includes overriding or specialization of that method in derived classes. If the number of dependencies is null, i.e., if a member is used only from inside the definition class, then it should be moved to a private scope
-	- Cae
+	- Case C: Discriminatory Bequest
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTU1Mjc3LC0xMTk0NTc5MDY5LDE1MT
+eyJoaXN0b3J5IjpbOTI5NjI0NDY1LC0xMTk0NTc5MDY5LDE1MT
 gyNzQ3MTgsLTEyODg0NDc0NzcsLTM1NDcyODQwOCwxMjI2NTIz
 Mjg4LDE5MzM0ODkyNzksLTExODQzODUxMjIsLTE0NzE0MzI2OD
 AsLTEwODY0MjE3NTcsLTcwMzAzODAwLC0xNDE3NDQ0MzAzLDYy
