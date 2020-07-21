@@ -206,15 +206,15 @@ Parent Bequest
 		-	Extract extracting the parts that are not used by all descendants to a helper class and letting the parent class have a reference to an instance of the helper
 class 
 
-
+- Tradition Baker
 		
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzE0OTMzMCwzNDEyMTcxNzAsLTExOT
-Q1NzkwNjksMTUxODI3NDcxOCwtMTI4ODQ0NzQ3NywtMzU0NzI4
-NDA4LDEyMjY1MjMyODgsMTkzMzQ4OTI3OSwtMTE4NDM4NTEyMi
-wtMTQ3MTQzMjY4MCwtMTA4NjQyMTc1NywtNzAzMDM4MDAsLTE0
-MTc0NDQzMDMsNjI1MDc1NTk0LDE3NzYyNTY3NDEsLTE4MzgyMz
-M2OTcsLTE2Nzk5NjE2MzQsMTcwNzQ1MzY4NCw0NzQ0MTYxODcs
-LTc3MTMyNjgxNV19
+eyJoaXN0b3J5IjpbMjYyOTQzNzg4LDM0MTIxNzE3MCwtMTE5ND
+U3OTA2OSwxNTE4Mjc0NzE4LC0xMjg4NDQ3NDc3LC0zNTQ3Mjg0
+MDgsMTIyNjUyMzI4OCwxOTMzNDg5Mjc5LC0xMTg0Mzg1MTIyLC
+0xNDcxNDMyNjgwLC0xMDg2NDIxNzU3LC03MDMwMzgwMCwtMTQx
+NzQ0NDMwMyw2MjUwNzU1OTQsMTc3NjI1Njc0MSwtMTgzODIzMz
+Y5NywtMTY3OTk2MTYzNCwxNzA3NDUzNjg0LDQ3NDQxNjE4Nywt
+NzcxMzI2ODE1XX0=
 -->
