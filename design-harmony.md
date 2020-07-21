@@ -99,10 +99,17 @@ Case II: Duplication Within the Same Hierarchy
 Case III: Duplication Within Unrelated Classes
 
 
+## Collaboration Collaboration Harmony
+
+### Rule
+ should be only in terms of method invocations
+and have a limited extent, intensity and dispersion
+
+
 	
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTMyNjgxNSwxMzM4ODIyMzgyLDExMz
-A5MDE4NjYsOTI0NzYyNDg5LDE4ODAxNDAyMiw0NjczNDQ4NzJd
-fQ==
+eyJoaXN0b3J5IjpbMjUwNjk4MDc1LC03NzEzMjY4MTUsMTMzOD
+gyMjM4MiwxMTMwOTAxODY2LDkyNDc2MjQ4OSwxODgwMTQwMjIs
+NDY3MzQ0ODcyXX0=
 -->
