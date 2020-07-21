@@ -163,16 +163,24 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 >change in an operation implies many (small) changes to a lot of different operations and classes 
 >Concerns Spread Everywhere
 
+- Impact
+	- -   Changes become more time-consuming, since you have to edit your codebase in more places.
+-   Merge conflicts become more likely, since more people are touching the code in more places. This generally makes collaborative projects more dicey.
+-   You’re more likely to introduce bugs because of the cognitive load of remembering to change the code in more places. If a simple feature requires you to make changes in 7 files, there’s a decent chance you won’t remember all 7. This can lead to more labor-intensive QA efforts and even to production defects.
+-   You wind up with more code, due to the fact that you’ll have knowledge duplication and more constructs required to glue the various disparate pieces together.
+-   The learning curve is higher for new team members, since development is something of a treasure hunt
+
 - Detection
 	- Operation is called by too many other methods
 	- Incoming calls are from many classes
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDg5MDQxMywxOTMzNDg5Mjc5LC0xMT
-g0Mzg1MTIyLC0xNDcxNDMyNjgwLC0xMDg2NDIxNzU3LC03MDMw
-MzgwMCwtMTQxNzQ0NDMwMyw2MjUwNzU1OTQsMTc3NjI1Njc0MS
-wtMTgzODIzMzY5NywtMTY3OTk2MTYzNCwxNzA3NDUzNjg0LDQ3
-NDQxNjE4NywtNzcxMzI2ODE1LDEzMzg4MjIzODIsMTEzMDkwMT
-g2Niw5MjQ3NjI0ODksMTg4MDE0MDIyLDQ2NzM0NDg3Ml19
+eyJoaXN0b3J5IjpbLTE3Mjg2NDAyMjMsMTkzMzQ4OTI3OSwtMT
+E4NDM4NTEyMiwtMTQ3MTQzMjY4MCwtMTA4NjQyMTc1NywtNzAz
+MDM4MDAsLTE0MTc0NDQzMDMsNjI1MDc1NTk0LDE3NzYyNTY3ND
+EsLTE4MzgyMzM2OTcsLTE2Nzk5NjE2MzQsMTcwNzQ1MzY4NCw0
+NzQ0MTYxODcsLTc3MTMyNjgxNSwxMzM4ODIyMzgyLDExMzA5MD
+E4NjYsOTI0NzYyNDg5LDE4ODAxNDAyMiw0NjczNDQ4NzJdfQ==
+
 -->
