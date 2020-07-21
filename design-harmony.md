@@ -161,13 +161,16 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 ---
 >change in an operation implies many (small) changes to a lot of different operations and classes 
 
+- Detection
+	- Operation is called by too many other methods
+	- Incoming calls are from many classes
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE0MzI2ODAsLTEwODY0MjE3NTcsLT
-cwMzAzODAwLC0xNDE3NDQ0MzAzLDYyNTA3NTU5NCwxNzc2MjU2
-NzQxLC0xODM4MjMzNjk3LC0xNjc5OTYxNjM0LDE3MDc0NTM2OD
-QsNDc0NDE2MTg3LC03NzEzMjY4MTUsMTMzODgyMjM4MiwxMTMw
-OTAxODY2LDkyNDc2MjQ4OSwxODgwMTQwMjIsNDY3MzQ0ODcyXX
-0=
+eyJoaXN0b3J5IjpbLTExODQzODUxMjIsLTE0NzE0MzI2ODAsLT
+EwODY0MjE3NTcsLTcwMzAzODAwLC0xNDE3NDQ0MzAzLDYyNTA3
+NTU5NCwxNzc2MjU2NzQxLC0xODM4MjMzNjk3LC0xNjc5OTYxNj
+M0LDE3MDc0NTM2ODQsNDc0NDE2MTg3LC03NzEzMjY4MTUsMTMz
+ODgyMjM4MiwxMTMwOTAxODY2LDkyNDc2MjQ4OSwxODgwMTQwMj
+IsNDY3MzQ0ODcyXX0=
 -->
