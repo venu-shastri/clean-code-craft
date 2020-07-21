@@ -157,10 +157,13 @@ the invoked methods are not very much dispersed into many classes
 	- Anything in the client method (i.e., the
 one affected by Dispersed Coupling)that could be moved to one of the lightweight methods that it invokes
 
+#### Shotgun Surgery
+---
+
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzAyOTEyMCwtMTA4NjQyMTc1NywtNz
+eyJoaXN0b3J5IjpbMTM2MTQwMjMwMCwtMTA4NjQyMTc1NywtNz
 AzMDM4MDAsLTE0MTc0NDQzMDMsNjI1MDc1NTk0LDE3NzYyNTY3
 NDEsLTE4MzgyMzM2OTcsLTE2Nzk5NjE2MzQsMTcwNzQ1MzY4NC
 w0NzQ0MTYxODcsLTc3MTMyNjgxNSwxMzM4ODIyMzgyLDExMzA5
