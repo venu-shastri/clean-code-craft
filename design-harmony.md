@@ -148,12 +148,14 @@ the invoked methods are not very much dispersed into many classes
 - single operation communicates with an excessive number of provider classes, whereby the communication with each of the classes is not very intense i.e., the operation calls one or a few methods from each class.
 - Impact
 >Dispersively coupled operations lead to undesired ripple effects, be- Impact cause a change in an dispersively coupled method potentially leads to changes in all the coupled and therefore dependent classes
->
+- Detection Strategy
+	- capture only those operations that have a high dispersion of their coupling
+		- Operation calls a few methods from each of a    large number of unrelated classes
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTgzNTEzMTYsLTcwMzAzODAwLC0xND
-E3NDQ0MzAzLDYyNTA3NTU5NCwxNzc2MjU2NzQxLC0xODM4MjMz
-Njk3LC0xNjc5OTYxNjM0LDE3MDc0NTM2ODQsNDc0NDE2MTg3LC
-03NzEzMjY4MTUsMTMzODgyMjM4MiwxMTMwOTAxODY2LDkyNDc2
-MjQ4OSwxODgwMTQwMjIsNDY3MzQ0ODcyXX0=
+eyJoaXN0b3J5IjpbODI4ODA5MzU5LC03MDMwMzgwMCwtMTQxNz
+Q0NDMwMyw2MjUwNzU1OTQsMTc3NjI1Njc0MSwtMTgzODIzMzY5
+NywtMTY3OTk2MTYzNCwxNzA3NDUzNjg0LDQ3NDQxNjE4NywtNz
+cxMzI2ODE1LDEzMzg4MjIzODIsMTEzMDkwMTg2Niw5MjQ3NjI0
+ODksMTg4MDE0MDIyLDQ2NzM0NDg3Ml19
 -->
