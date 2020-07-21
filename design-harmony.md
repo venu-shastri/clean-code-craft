@@ -154,11 +154,10 @@ the invoked methods are not very much dispersed into many classes
 - Note
 >In many cases the operation that exhibits Dispersed Coupling is also a Brain Method
 
-- Refactoring
-	-  Avoid calling methods from unrelated classes.
-	-  In case of Intensive Coupling, multiple calls from the provider class can be combined into a smarter service that lives in the provider class and int
+
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzAwODM1MDUsLTEwODY0MjE3NTcsLT
+eyJoaXN0b3J5IjpbLTE3NTYxMDUzNTUsLTEwODY0MjE3NTcsLT
 cwMzAzODAwLC0xNDE3NDQ0MzAzLDYyNTA3NTU5NCwxNzc2MjU2
 NzQxLC0xODM4MjMzNjk3LC0xNjc5OTYxNjM0LDE3MDc0NTM2OD
 QsNDc0NDE2MTg3LC03NzEzMjY4MTUsMTMzODgyMjM4MiwxMTMw
