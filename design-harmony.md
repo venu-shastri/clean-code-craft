@@ -133,11 +133,13 @@ The term Collaborate refers both to the active (i.e., call another operation) an
 - The communication between the client method and (at least one of) its provider classes is excessively verbose
 -impact 
  >An operation which is intensively coupled with methods from a handful of classes binds it strongly to those classes
+ >Understanding the relation between the two sides (i.e., the client method and the classes providing services) becomes more difficult
+-D
 	
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTc4ODIyNCwtMTgzODIzMzY5NywtMT
-Y3OTk2MTYzNCwxNzA3NDUzNjg0LDQ3NDQxNjE4NywtNzcxMzI2
-ODE1LDEzMzg4MjIzODIsMTEzMDkwMTg2Niw5MjQ3NjI0ODksMT
-g4MDE0MDIyLDQ2NzM0NDg3Ml19
+eyJoaXN0b3J5IjpbLTE4ODM1NzEwNjAsLTE4MzgyMzM2OTcsLT
+E2Nzk5NjE2MzQsMTcwNzQ1MzY4NCw0NzQ0MTYxODcsLTc3MTMy
+NjgxNSwxMzM4ODIyMzgyLDExMzA5MDE4NjYsOTI0NzYyNDg5LD
+E4ODAxNDAyMiw0NjczNDQ4NzJdfQ==
 -->
