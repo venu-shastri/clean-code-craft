@@ -174,14 +174,16 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 	- Operation is called by too many other methods
 	- Incoming calls are from many classes
 	- Audit your source control tool, or else just mentally pay attention to how many files you’re touching while making conceptually simple changes. If it’s a lot, then you’ve got an issue.
+	- 
+## Classification Harmony 
 
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDcyODQwOCwxMjI2NTIzMjg4LDE5Mz
-M0ODkyNzksLTExODQzODUxMjIsLTE0NzE0MzI2ODAsLTEwODY0
-MjE3NTcsLTcwMzAzODAwLC0xNDE3NDQ0MzAzLDYyNTA3NTU5NC
-wxNzc2MjU2NzQxLC0xODM4MjMzNjk3LC0xNjc5OTYxNjM0LDE3
-MDc0NTM2ODQsNDc0NDE2MTg3LC03NzEzMjY4MTUsMTMzODgyMj
-M4MiwxMTMwOTAxODY2LDkyNDc2MjQ4OSwxODgwMTQwMjIsNDY3
-MzQ0ODcyXX0=
+eyJoaXN0b3J5IjpbNjYyNTc2NDg1LC0zNTQ3Mjg0MDgsMTIyNj
+UyMzI4OCwxOTMzNDg5Mjc5LC0xMTg0Mzg1MTIyLC0xNDcxNDMy
+NjgwLC0xMDg2NDIxNzU3LC03MDMwMzgwMCwtMTQxNzQ0NDMwMy
+w2MjUwNzU1OTQsMTc3NjI1Njc0MSwtMTgzODIzMzY5NywtMTY3
+OTk2MTYzNCwxNzA3NDUzNjg0LDQ3NDQxNjE4NywtNzcxMzI2OD
+E1LDEzMzg4MjIzODIsMTEzMDkwMTg2Niw5MjQ3NjI0ODksMTg4
+MDE0MDIyXX0=
 -->
