@@ -142,12 +142,15 @@ the invoked methods are not very much dispersed into many classes
 - Refactoring
 	- Define a new service in the provider class and replace the multiple calls with a single call to the newly defined method
 
-### Dispersed Coupling
+####  Dispersed Coupling
 ----
-	
+	-An
+operation which is excessively tied to many other operations in the
+system, and additionally these provider methods that are dispersed
+among many classes
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDc3NTA3NSw2MjUwNzU1OTQsMTc3Nj
+eyJoaXN0b3J5IjpbMTQyNzc1NDQ5NSw2MjUwNzU1OTQsMTc3Nj
 I1Njc0MSwtMTgzODIzMzY5NywtMTY3OTk2MTYzNCwxNzA3NDUz
 Njg0LDQ3NDQxNjE4NywtNzcxMzI2ODE1LDEzMzg4MjIzODIsMT
 EzMDkwMTg2Niw5MjQ3NjI0ODksMTg4MDE0MDIyLDQ2NzM0NDg3
