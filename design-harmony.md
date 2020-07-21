@@ -146,11 +146,13 @@ the invoked methods are not very much dispersed into many classes
 ----
 - An operation which is excessively tied to many other operations in the system, and additionally these provider methods that are dispersed among many classes
 - single operation communicates with an excessive number of provider classes, whereby the communication with each of the classes is not very intense i.e., the operation calls one or a few methods from each class.
+- Impact
+>Dispersively coupled operations lead to undesired ripple effects, be- Impact cause a change in an dispersively coupled method potentially leads to changes in all the coupled and therefore dependent classes
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTc0NDQzMDMsNjI1MDc1NTk0LDE3Nz
-YyNTY3NDEsLTE4MzgyMzM2OTcsLTE2Nzk5NjE2MzQsMTcwNzQ1
-MzY4NCw0NzQ0MTYxODcsLTc3MTMyNjgxNSwxMzM4ODIyMzgyLD
-ExMzA5MDE4NjYsOTI0NzYyNDg5LDE4ODAxNDAyMiw0NjczNDQ4
-NzJdfQ==
+eyJoaXN0b3J5IjpbLTcwMzAzODAwLC0xNDE3NDQ0MzAzLDYyNT
+A3NTU5NCwxNzc2MjU2NzQxLC0xODM4MjMzNjk3LC0xNjc5OTYx
+NjM0LDE3MDc0NTM2ODQsNDc0NDE2MTg3LC03NzEzMjY4MTUsMT
+MzODgyMjM4MiwxMTMwOTAxODY2LDkyNDc2MjQ4OSwxODgwMTQw
+MjIsNDY3MzQ0ODcyXX0=
 -->
