@@ -195,13 +195,14 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 	-	Case A: False Child Class
 		-	Hierarchy might be ill-designed
 		-	The child class has no inheritance-specific dependencies on the parent class
+	-	Case B: Irrelevant Bequest
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTAwNzQ1ODUsLTExOTQ1NzkwNjksMT
-UxODI3NDcxOCwtMTI4ODQ0NzQ3NywtMzU0NzI4NDA4LDEyMjY1
-MjMyODgsMTkzMzQ4OTI3OSwtMTE4NDM4NTEyMiwtMTQ3MTQzMj
-Y4MCwtMTA4NjQyMTc1NywtNzAzMDM4MDAsLTE0MTc0NDQzMDMs
-NjI1MDc1NTk0LDE3NzYyNTY3NDEsLTE4MzgyMzM2OTcsLTE2Nz
-k5NjE2MzQsMTcwNzQ1MzY4NCw0NzQ0MTYxODcsLTc3MTMyNjgx
-NSwxMzM4ODIyMzgyXX0=
+eyJoaXN0b3J5IjpbMTExODYwMTgyNSwtMTE5NDU3OTA2OSwxNT
+E4Mjc0NzE4LC0xMjg4NDQ3NDc3LC0zNTQ3Mjg0MDgsMTIyNjUy
+MzI4OCwxOTMzNDg5Mjc5LC0xMTg0Mzg1MTIyLC0xNDcxNDMyNj
+gwLC0xMDg2NDIxNzU3LC03MDMwMzgwMCwtMTQxNzQ0NDMwMyw2
+MjUwNzU1OTQsMTc3NjI1Njc0MSwtMTgzODIzMzY5NywtMTY3OT
+k2MTYzNCwxNzA3NDUzNjg0LDQ3NDQxNjE4NywtNzcxMzI2ODE1
+LDEzMzg4MjIzODJdfQ==
 -->
