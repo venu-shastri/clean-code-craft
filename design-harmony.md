@@ -108,10 +108,13 @@ dispersion
 
 >You want to leverage the services of other classes, but you want to have services at the right level, so that you want to know only about a limited number of objects and their services. [...] If you had to interact with all the indirectly related objects, we’d have a tangled web of inter-dependencies and maintenance would be a nightmare
 --Lorenz and Kidd
+#### intensity – 
+>Operations should collaborate (mainly unidirectional) with a limited number of services provided by other classes
+
 	
 			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0NDE2MTg3LC03NzEzMjY4MTUsMTMzOD
-gyMjM4MiwxMTMwOTAxODY2LDkyNDc2MjQ4OSwxODgwMTQwMjIs
-NDY3MzQ0ODcyXX0=
+eyJoaXN0b3J5IjpbMTk5NjU2MTc2NCw0NzQ0MTYxODcsLTc3MT
+MyNjgxNSwxMzM4ODIyMzgyLDExMzA5MDE4NjYsOTI0NzYyNDg5
+LDE4ODAxNDAyMiw0NjczNDQ4NzJdfQ==
 -->
