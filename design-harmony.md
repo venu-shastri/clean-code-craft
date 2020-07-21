@@ -190,13 +190,14 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 ### Classification Disharmonies
 ---
 #### Refused Parent Bequest
+-	child class refuses to use this special bequest prepared by its parent
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyMzI2NTY5LDE1MTgyNzQ3MTgsLTEyOD
-g0NDc0NzcsLTM1NDcyODQwOCwxMjI2NTIzMjg4LDE5MzM0ODky
-NzksLTExODQzODUxMjIsLTE0NzE0MzI2ODAsLTEwODY0MjE3NT
-csLTcwMzAzODAwLC0xNDE3NDQ0MzAzLDYyNTA3NTU5NCwxNzc2
-MjU2NzQxLC0xODM4MjMzNjk3LC0xNjc5OTYxNjM0LDE3MDc0NT
-M2ODQsNDc0NDE2MTg3LC03NzEzMjY4MTUsMTMzODgyMjM4Miwx
-MTMwOTAxODY2XX0=
+eyJoaXN0b3J5IjpbLTExOTQ1NzkwNjksMTUxODI3NDcxOCwtMT
+I4ODQ0NzQ3NywtMzU0NzI4NDA4LDEyMjY1MjMyODgsMTkzMzQ4
+OTI3OSwtMTE4NDM4NTEyMiwtMTQ3MTQzMjY4MCwtMTA4NjQyMT
+c1NywtNzAzMDM4MDAsLTE0MTc0NDQzMDMsNjI1MDc1NTk0LDE3
+NzYyNTY3NDEsLTE4MzgyMzM2OTcsLTE2Nzk5NjE2MzQsMTcwNz
+Q1MzY4NCw0NzQ0MTYxODcsLTc3MTMyNjgxNSwxMzM4ODIyMzgy
+LDExMzA5MDE4NjZdfQ==
 -->
