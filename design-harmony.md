@@ -201,13 +201,15 @@ one affected by Dispersed Coupling)that could be moved to one of the lightweight
 		
 		-	For each protected member, count the number of usages from derived classes; in case of protected methods, this includes overriding or specialization of that method in derived classes. If the number of dependencies is null, i.e., if a member is used only from inside the definition class, then it should be moved to a private scope
 	- Case C: Discriminatory Bequest
+		- when the parent class has many child classes, and the bequest offered by it is relevant only for some of these siblings but not for the class affected by Refused
+Parent Bequest
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5NjI0NDY1LC0xMTk0NTc5MDY5LDE1MT
-gyNzQ3MTgsLTEyODg0NDc0NzcsLTM1NDcyODQwOCwxMjI2NTIz
-Mjg4LDE5MzM0ODkyNzksLTExODQzODUxMjIsLTE0NzE0MzI2OD
-AsLTEwODY0MjE3NTcsLTcwMzAzODAwLC0xNDE3NDQ0MzAzLDYy
-NTA3NTU5NCwxNzc2MjU2NzQxLC0xODM4MjMzNjk3LC0xNjc5OT
-YxNjM0LDE3MDc0NTM2ODQsNDc0NDE2MTg3LC03NzEzMjY4MTUs
-MTMzODgyMjM4Ml19
+eyJoaXN0b3J5IjpbMTEwODEzNjA1MywtMTE5NDU3OTA2OSwxNT
+E4Mjc0NzE4LC0xMjg4NDQ3NDc3LC0zNTQ3Mjg0MDgsMTIyNjUy
+MzI4OCwxOTMzNDg5Mjc5LC0xMTg0Mzg1MTIyLC0xNDcxNDMyNj
+gwLC0xMDg2NDIxNzU3LC03MDMwMzgwMCwtMTQxNzQ0NDMwMyw2
+MjUwNzU1OTQsMTc3NjI1Njc0MSwtMTgzODIzMzY5NywtMTY3OT
+k2MTYzNCwxNzA3NDUzNjg0LDQ3NDQxNjE4NywtNzcxMzI2ODE1
+LDEzMzg4MjIzODJdfQ==
 -->
