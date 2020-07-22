@@ -22,13 +22,14 @@ Object Oriented Abusers are a particular genre of Code Smells which refers to in
 ---
 - Violation of **Open Closed Principle**
 - Replace Conditional With **Polymorphism**, typically done using the **Strategy Pattern**
+- _Polymorphism gives you many advantages. The biggest gain occurs when the same set of conditions appears in many places in the program. If you want to add a new type, you have to find and update all of the conditionals. But with subclasses, you just create a new subclass and provide the appropriate methods. Clients of the class don't need to know about the subclasses, which reduces the dependencies in your system and makes it easier to update._
 
 #### Temporary Fields
 ----
 >There are times the developer decides to introduce Fields in the Class which are used only by one Method, instead of passing it as method parameter to avoid **Long Parameter List**. These fields sit idle in the class at all time, except when the particular method is used.
 >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxODEyMDYzLC01MTAyNTgxNSw1OTM4ND
-Y4MDgsODM2MzE0Nzg2LDU4NjY2NDM5NiwtMTgwMzMyMjMxLC0y
-OTc2ODQ0ODQsMTAwODA4MzQ5Nl19
+eyJoaXN0b3J5IjpbMTMwOTI4MTM3NSwtNTEwMjU4MTUsNTkzOD
+Q2ODA4LDgzNjMxNDc4Niw1ODY2NjQzOTYsLTE4MDMzMjIzMSwt
+Mjk3Njg0NDg0LDEwMDgwODM0OTZdfQ==
 -->
