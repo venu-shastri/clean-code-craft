@@ -37,12 +37,13 @@ Object Oriented Abusers are a particular genre of Code Smells which refers to in
 >**For example**, in the program, a string needs to be split into different substrings based on certain tokens. Some developers may directly use string objects plus formal notation for processing, some people write their own split() public function, and some people write a function with the same function but named subString(). For the same function, if there is a unified approach, it will be easier for future maintenance, system expansion, and debugging
 >The reason why Alternative Classes with Different Interfaces is a bad smell (force)   because of  **understandability,  modifiability, and testability (increase test workload).**
 
-### <![en
-
-**Couplers**
+### **Couplers**
+---
+ #### Inappropriate Intimacy
+> InappropriateIntimacy is a CodeSmell that describes a method that has too much intimate knowledge of another class or method's inner workings, inner data, etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjIyODYzLC0xODcwNDk3MzQ0LC0xMD
-Y2OTU2Mzc4LDExMjk1NTc5NTQsLTUxMDI1ODE1LDU5Mzg0Njgw
-OCw4MzYzMTQ3ODYsNTg2NjY0Mzk2LC0xODAzMzIyMzEsLTI5Nz
-Y4NDQ4NCwxMDA4MDgzNDk2XX0=
+eyJoaXN0b3J5IjpbMTI1NDAxNzgzMCwtMTg3MDQ5NzM0NCwtMT
+A2Njk1NjM3OCwxMTI5NTU3OTU0LC01MTAyNTgxNSw1OTM4NDY4
+MDgsODM2MzE0Nzg2LDU4NjY2NDM5NiwtMTgwMzMyMjMxLC0yOT
+c2ODQ0ODQsMTAwODA4MzQ5Nl19
 -->
