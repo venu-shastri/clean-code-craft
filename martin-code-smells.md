@@ -26,8 +26,9 @@ Object Oriented Abusers are a particular genre of Code Smells which refers to in
 #### Temporary Fields
 ----
 >There are times the developer decides to introduce Fields in the Class which are used only by one Method, instead of passing it as method parameter to avoid **Long Parameter List**. These fields sit idle in the class at all time, except when the particular method is used.
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDI1ODE1LDU5Mzg0NjgwOCw4MzYzMT
-Q3ODYsNTg2NjY0Mzk2LC0xODAzMzIyMzEsLTI5NzY4NDQ4NCwx
-MDA4MDgzNDk2XX0=
+eyJoaXN0b3J5IjpbMzQxODEyMDYzLC01MTAyNTgxNSw1OTM4ND
+Y4MDgsODM2MzE0Nzg2LDU4NjY2NDM5NiwtMTgwMzMyMjMxLC0y
+OTc2ODQ0ODQsMTAwODA4MzQ5Nl19
 -->
