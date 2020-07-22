@@ -12,8 +12,8 @@
 >Data clumps are when more than one piece of data is oftentimes found together
 >A data clump is a collection of two or more bits of information that are consistently used together. You’ll find that your data loses its meaning when you remove items from the clump
 >A good way to identify a **data clump is that when one of the pieces does not make sense in isolation but only makes sense together**.
->Martin Fowler suggests replacing these clumps with a single object. In the example above the start and end could be replaced by a "Range" class
+>Martin Fowler suggests replacing these clumps with a single object. Iexample  the startXXXX and endXXXX could be replaced by a "Range" class
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzc3MDY5NCw1ODY2NjQzOTYsLTE4MD
-MzMjIzMSwtMjk3Njg0NDg0LDEwMDgwODM0OTZdfQ==
+eyJoaXN0b3J5IjpbODM2MzE0Nzg2LDU4NjY2NDM5NiwtMTgwMz
+MyMjMxLC0yOTc2ODQ0ODQsMTAwODA4MzQ5Nl19
 -->
