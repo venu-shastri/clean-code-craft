@@ -9,6 +9,7 @@
 ### Data Clumps
 ---
 >Whenever two or three values are gathered together – turn them into a $%#%^ object.”
+>Data clumps are when more than one piece of data is oftentimes found together
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Nzk1MTkxNywxMDA4MDgzNDk2XX0=
+eyJoaXN0b3J5IjpbLTI5NzY4NDQ4NCwxMDA4MDgzNDk2XX0=
 -->
