@@ -70,9 +70,13 @@ have no cycles
 -  A member function is allowed to call member functions on member variables that are in its class scope directly.
 -  If a member function has parameters, the member function is allowed to call the member functions of these parameters directly.
 -  If a member function creates local objects, the member function is allowed to call member functions on those local objects.
+
+### ISP
+-----------------------------------------------------------------------------------
+Example from Martin (2003): In a security system there are Door objects that can be locked and unlocked, and they know whether they are locked or not. In the spirit of the DIP, the Door class is made abstract thereby allowing clients to use objects with this behaviour without having to depend on a particular implementation . A TimedDoor is an implementation of Door that sounds an alarm when when the door has been left open too long. To manage this, the TimedDoor object collaborates with a Timer object. The Timer object keeps a reference to a TimerClient object whose timeOut method is to be called when time expires.-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQ4OTQ0ODQsLTE3MDUyMTM4NzYsLT
-YxMDg2MDE4NCwtMTgyNjI1MTc2MSwtMTc3MDUwNDY3OCwyMDc3
-NzQwNjY1LC03Mjk0MzIxMDIsMTAzNzQ5MDA4LC0xNjI1MjQ3MD
-EwLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE4NTQ5OTg0MjIsLTEyMTQ4OTQ0ODQsLT
+E3MDUyMTM4NzYsLTYxMDg2MDE4NCwtMTgyNjI1MTc2MSwtMTc3
+MDUwNDY3OCwyMDc3NzQwNjY1LC03Mjk0MzIxMDIsMTAzNzQ5MD
+A4LC0xNjI1MjQ3MDEwLC0yMDg4NzQ2NjEyXX0=
 -->
