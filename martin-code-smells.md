@@ -14,9 +14,11 @@
 >A good way to identify a **data clump is that when one of the pieces does not make sense in isolation but only makes sense together**.
 >Martin Fowler suggests replacing these clumps with a single object. Iexample  the startXXXX and endXXXX could be replaced by a "Range" class
 
-#
+### **Object Oriented Abusers** 
+---
+Object Oriented Abusers are a particular genre of Code Smells which refers to incorrect or incomplete implementation of Object Oriented Concepts.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDE3Mjc1NSw4MzYzMTQ3ODYsNTg2Nj
-Y0Mzk2LC0xODAzMzIyMzEsLTI5NzY4NDQ4NCwxMDA4MDgzNDk2
-XX0=
+eyJoaXN0b3J5IjpbLTE5MDYwMjE5MDcsODM2MzE0Nzg2LDU4Nj
+Y2NDM5NiwtMTgwMzMyMjMxLC0yOTc2ODQ0ODQsMTAwODA4MzQ5
+Nl19
 -->
