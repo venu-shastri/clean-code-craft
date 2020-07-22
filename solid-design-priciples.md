@@ -15,6 +15,10 @@
 >Once you realize that computing is all about constructing, manipulating, and reasoning about abstractions, it becomes clear that an important prerequisite for writing (good) computer programs is the ability to handle abstractions in a precise manner. As it happens, that is something we humans have been doing successfully for more than three thousand years. We call it mathematics 
 >-(Devlin, 2003)
 
+>Abstraction is the selective examination of certain aspects of a problem,
+Abstraction must always be for a purpose, because the purpose decides what is and is not important. 
+A good model captures the crucial aspects of a problem and omits the others. (Rumbaugh et al., 1991)
+
 #### Guiding Principles for Object Oriented Decomposition
 - Information hiding ,
 -  Strong cohesion,
@@ -67,8 +71,8 @@ have no cycles
 -  If a member function has parameters, the member function is allowed to call the member functions of these parameters directly.
 -  If a member function creates local objects, the member function is allowed to call member functions on those local objects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Njc5MTIxOSwtMTcwNTIxMzg3NiwtNj
-EwODYwMTg0LC0xODI2MjUxNzYxLC0xNzcwNTA0Njc4LDIwNzc3
-NDA2NjUsLTcyOTQzMjEwMiwxMDM3NDkwMDgsLTE2MjUyNDcwMT
-AsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEyMTQ4OTQ0ODQsLTE3MDUyMTM4NzYsLT
+YxMDg2MDE4NCwtMTgyNjI1MTc2MSwtMTc3MDUwNDY3OCwyMDc3
+NzQwNjY1LC03Mjk0MzIxMDIsMTAzNzQ5MDA4LC0xNjI1MjQ3MD
+EwLC0yMDg4NzQ2NjEyXX0=
 -->
