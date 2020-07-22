@@ -11,6 +11,9 @@
 - How do I govern who can communicate with whom (dependencies)?
 
 #### Abstraction – the Key to Master Complexity
+---
+>Once you realize that computing is all about constructing, manipulating, and reasoning about abstractions, it becomes clear that an important prerequisite for writing (good) computer programs is the ability to handle abstractions in a precise manner. As it happens, that is something we humans have been doing successfully for more than three thousand years. We call it mathematics 
+>-(Devlin, 2003)
 
 #### Guiding Principles for Object Oriented Decomposition
 - Information hiding ,
@@ -64,8 +67,8 @@ have no cycles
 -  If a member function has parameters, the member function is allowed to call the member functions of these parameters directly.
 -  If a member function creates local objects, the member function is allowed to call member functions on those local objects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDUyMTM4NzYsLTYxMDg2MDE4NCwtMT
-gyNjI1MTc2MSwtMTc3MDUwNDY3OCwyMDc3NzQwNjY1LC03Mjk0
-MzIxMDIsMTAzNzQ5MDA4LC0xNjI1MjQ3MDEwLC0yMDg4NzQ2Nj
-EyXX0=
+eyJoaXN0b3J5IjpbMTQ2Njc5MTIxOSwtMTcwNTIxMzg3NiwtNj
+EwODYwMTg0LC0xODI2MjUxNzYxLC0xNzcwNTA0Njc4LDIwNzc3
+NDA2NjUsLTcyOTQzMjEwMiwxMDM3NDkwMDgsLTE2MjUyNDcwMT
+AsLTIwODg3NDY2MTJdfQ==
 -->
