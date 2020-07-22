@@ -51,9 +51,13 @@ ex:- Me.Address.DomesticAddUserControl.County.HideToCustomization()
 
 Take form as level zero, you can tell the intimacy level is 3, anything happen to the API of all these user controls involved will affect the code in the form. this is a typical case of Inappropriate Intimacy.
 
+Refactoring
+- Try to keep the public facing members to minimum. follow the rule called "Secure by default".
+- 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzgwNjk0Myw2OTAzNDc1MTMsLTE4Nz
+eyJoaXN0b3J5IjpbMTQ4MDY4MTgwNCw2OTAzNDc1MTMsLTE4Nz
 A0OTczNDQsLTEwNjY5NTYzNzgsMTEyOTU1Nzk1NCwtNTEwMjU4
 MTUsNTkzODQ2ODA4LDgzNjMxNDc4Niw1ODY2NjQzOTYsLTE4MD
 MzMjIzMSwtMjk3Njg0NDg0LDEwMDgwODM0OTZdfQ==
