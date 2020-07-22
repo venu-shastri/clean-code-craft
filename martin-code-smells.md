@@ -41,9 +41,10 @@ Object Oriented Abusers are a particular genre of Code Smells which refers to in
 ---
  #### Inappropriate Intimacy
 > InappropriateIntimacy is a CodeSmell that describes a method that has too much intimate knowledge of another class or method's inner workings, inner data, etc.
+> If a class is more interested in the internals of another class, this can indicate that related data and behavior is not put in one place. Therefore, intimate classes should be refactored by moving the methods and fields in such a way that related data and behavior is put together and there is no need for a class to look at another class' internals.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDAxNzgzMCwtMTg3MDQ5NzM0NCwtMT
-A2Njk1NjM3OCwxMTI5NTU3OTU0LC01MTAyNTgxNSw1OTM4NDY4
-MDgsODM2MzE0Nzg2LDU4NjY2NDM5NiwtMTgwMzMyMjMxLC0yOT
-c2ODQ0ODQsMTAwODA4MzQ5Nl19
+eyJoaXN0b3J5IjpbNjkwMzQ3NTEzLC0xODcwNDk3MzQ0LC0xMD
+Y2OTU2Mzc4LDExMjk1NTc5NTQsLTUxMDI1ODE1LDU5Mzg0Njgw
+OCw4MzYzMTQ3ODYsNTg2NjY0Mzk2LC0xODAzMzIyMzEsLTI5Nz
+Y4NDQ4NCwxMDA4MDgzNDk2XX0=
 -->
