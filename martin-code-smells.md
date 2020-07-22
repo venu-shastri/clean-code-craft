@@ -53,11 +53,15 @@ Take form as level zero, you can tell the intimacy level is 3, anything happen t
 
 Refactoring
 - Try to keep the public facing members to minimum. follow the rule called "Secure by default".
-- 
+- move methods and fields so that they stay together ( in the same class)  
+- change bidirectional association to unidirectional association between classes  
+-  if there are 2 classes sharing common interest, extract the commonality into a separate class  
+-  replace inheritance with Delegation  
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDY4MTgwNCw2OTAzNDc1MTMsLTE4Nz
+eyJoaXN0b3J5IjpbLTE1MTUyNzQ2MSw2OTAzNDc1MTMsLTE4Nz
 A0OTczNDQsLTEwNjY5NTYzNzgsMTEyOTU1Nzk1NCwtNTEwMjU4
 MTUsNTkzODQ2ODA4LDgzNjMxNDc4Niw1ODY2NjQzOTYsLTE4MD
 MzMjIzMSwtMjk3Njg0NDg0LDEwMDgwODM0OTZdfQ==
