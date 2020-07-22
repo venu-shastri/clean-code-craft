@@ -34,8 +34,9 @@ Object Oriented Abusers are a particular genre of Code Smells which refers to in
 >**categories of different tunes with equal performance** .
 
 >When many people develop the system together, different people may write similar code to deal with the same problem, but due to poor communication, each other did not notice this phenomenon. Therefore, these functions are similar or the same code, with different interfaces (different names or parameters) exist in the system at the same time
+>**For example**, in the program, a string needs to be split into different substrings based on certain tokens. Some developers may directly use Javastring objects plus formal notation for processing, some people write their own split() public function, and some people write a function with the same function but named subString(). For the same function, if there is a unified approach, it will be easier for future maintenance, system expansion, and debugging
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQ0OTY3OCwtMTA2Njk1NjM3OCwxMT
+eyJoaXN0b3J5IjpbLTg1MzM5OTg3NCwtMTA2Njk1NjM3OCwxMT
 I5NTU3OTU0LC01MTAyNTgxNSw1OTM4NDY4MDgsODM2MzE0Nzg2
 LDU4NjY2NDM5NiwtMTgwMzMyMjMxLC0yOTc2ODQ0ODQsMTAwOD
 A4MzQ5Nl19
