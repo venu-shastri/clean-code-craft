@@ -17,8 +17,9 @@
 ### **Object Oriented Abusers** 
 ---
 Object Oriented Abusers are a particular genre of Code Smells which refers to incorrect or incomplete implementation of Object Oriented Concepts.
+- Violation of **Open Closed Principle**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDYwMjE5MDcsODM2MzE0Nzg2LDU4Nj
+eyJoaXN0b3J5IjpbLTEwNzQ3OTExNzYsODM2MzE0Nzg2LDU4Nj
 Y2NDM5NiwtMTgwMzMyMjMxLC0yOTc2ODQ0ODQsMTAwODA4MzQ5
 Nl19
 -->
