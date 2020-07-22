@@ -28,9 +28,11 @@ Object Oriented Abusers are a particular genre of Code Smells which refers to in
 #### Temporary Fields
 ----
 >There are times the developer decides to introduce Fields in the Class which are used only by one Method, instead of passing it as method parameter to avoid **Long Parameter List**. These fields sit idle in the class at all time, except when the particular method is used.
->
+
+#### Alternative Classes with Different Interfaces
+>This smell occurs when two methods in different classes do the same thing but have a different method signature
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTU1Nzk1NCwtNTEwMjU4MTUsNTkzOD
-Q2ODA4LDgzNjMxNDc4Niw1ODY2NjQzOTYsLTE4MDMzMjIzMSwt
-Mjk3Njg0NDg0LDEwMDgwODM0OTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNjY5NTYzNzgsMTEyOTU1Nzk1NCwtNT
+EwMjU4MTUsNTkzODQ2ODA4LDgzNjMxNDc4Niw1ODY2NjQzOTYs
+LTE4MDMzMjIzMSwtMjk3Njg0NDg0LDEwMDgwODM0OTZdfQ==
 -->
