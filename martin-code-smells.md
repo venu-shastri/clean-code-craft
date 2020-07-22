@@ -8,10 +8,11 @@
 > **ValueObject** is a measure or description of something. Their identity is based on their state rather than on their object identity. This way, you can have multiple copies of the same conceptual value object. _Every $5 note has its own identity (thanks to its serial number), but the cash economy relies on every $5 note having the same value as every other $5 note_
 ### Data Clumps
 ---
->Whenever two or three values are gathered together – turn them into a $%#%^ object.”
+>Whenever two or three values are gathered together – turn them into a $%#%^ object.” - Martin
 >Data clumps are when more than one piece of data is oftentimes found together
+>A data clump is a collection of two or more bits of information that are consistently used together. You’ll find that your data loses its meaning when you remove items from the clump
 >A good way to identify a **data clump is that when one of the pieces does not make sense in isolation but only makes sense together**.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDMzMjIzMSwtMjk3Njg0NDg0LDEwMD
-gwODM0OTZdfQ==
+eyJoaXN0b3J5IjpbNTg2NjY0Mzk2LC0xODAzMzIyMzEsLTI5Nz
+Y4NDQ4NCwxMDA4MDgzNDk2XX0=
 -->
