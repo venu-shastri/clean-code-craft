@@ -17,9 +17,13 @@
 ### **Object Oriented Abusers** 
 ---
 Object Oriented Abusers are a particular genre of Code Smells which refers to incorrect or incomplete implementation of Object Oriented Concepts.
+
+#### Switch Case
+---
 - Violation of **Open Closed Principle**
+- Replace Conditional With **Polymorphism**, typically done using the **Strategy Pattern**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ3OTExNzYsODM2MzE0Nzg2LDU4Nj
-Y2NDM5NiwtMTgwMzMyMjMxLC0yOTc2ODQ0ODQsMTAwODA4MzQ5
-Nl19
+eyJoaXN0b3J5IjpbNTkzODQ2ODA4LDgzNjMxNDc4Niw1ODY2Nj
+QzOTYsLTE4MDMzMjIzMSwtMjk3Njg0NDg0LDEwMDgwODM0OTZd
+fQ==
 -->
