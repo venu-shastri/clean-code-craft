@@ -45,9 +45,14 @@ Object Oriented Abusers are a particular genre of Code Smells which refers to in
 > _sometimes classes become far too intimate and spend too much time delving in each other's private parts. we may not be prudes when it comes to people, but we think our classes should follow strict, puritan rules. over intimate classes should be broken up as lovers were in ancient days.... Inheritance often can lead to over intimacy. sub classes are always going to know more about the their parents ( base class) then their parents would like them to know._
 > -peterluzc
 intimacy is bad, which is the direct anti-pattern of Encapsulation. when you have this smell in the code, you will find it is difficult to change code, change in one class may lead to changes in many other classes. change in one user control may lead to change in many hosts( form or user controls) and hosts of the hosts and even more,,,, if you run code metrics, you will see high in class coupling, this is another direct anti-pattern of "high cohesion and low coupling".
+ex:- Me.Address.DomesticAddUserControl.County.HideToCustomization()
+  
+"inside AddressUserControl control, there is an instance of another control  LayoutControlItem control , there is a method call HideToCustomization ()
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU4NDM0NDgsNjkwMzQ3NTEzLC0xOD
-cwNDk3MzQ0LC0xMDY2OTU2Mzc4LDExMjk1NTc5NTQsLTUxMDI1
-ODE1LDU5Mzg0NjgwOCw4MzYzMTQ3ODYsNTg2NjY0Mzk2LC0xOD
-AzMzIyMzEsLTI5NzY4NDQ4NCwxMDA4MDgzNDk2XX0=
+eyJoaXN0b3J5IjpbNzA3MDI0NzI4LDY5MDM0NzUxMywtMTg3MD
+Q5NzM0NCwtMTA2Njk1NjM3OCwxMTI5NTU3OTU0LC01MTAyNTgx
+NSw1OTM4NDY4MDgsODM2MzE0Nzg2LDU4NjY2NDM5NiwtMTgwMz
+MyMjMxLC0yOTc2ODQ0ODQsMTAwODA4MzQ5Nl19
 -->
