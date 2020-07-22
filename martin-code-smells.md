@@ -36,9 +36,13 @@ Object Oriented Abusers are a particular genre of Code Smells which refers to in
 >When many people develop the system together, different people may write similar code to deal with the same problem, but due to poor communication, each other did not notice this phenomenon. Therefore, these functions are similar or the same code, with different interfaces (different names or parameters) exist in the system at the same time
 >**For example**, in the program, a string needs to be split into different substrings based on certain tokens. Some developers may directly use string objects plus formal notation for processing, some people write their own split() public function, and some people write a function with the same function but named subString(). For the same function, if there is a unified approach, it will be easier for future maintenance, system expansion, and debugging
 >The reason why Alternative Classes with Different Interfaces is a bad smell (force)   because of  **understandability,  modifiability, and testability (increase test workload).**
+
+### <![en
+
+**Couplers**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA0OTczNDQsLTEwNjY5NTYzNzgsMT
-EyOTU1Nzk1NCwtNTEwMjU4MTUsNTkzODQ2ODA4LDgzNjMxNDc4
-Niw1ODY2NjQzOTYsLTE4MDMzMjIzMSwtMjk3Njg0NDg0LDEwMD
-gwODM0OTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNjIyODYzLC0xODcwNDk3MzQ0LC0xMD
+Y2OTU2Mzc4LDExMjk1NTc5NTQsLTUxMDI1ODE1LDU5Mzg0Njgw
+OCw4MzYzMTQ3ODYsNTg2NjY0Mzk2LC0xODAzMzIyMzEsLTI5Nz
+Y4NDQ4NCwxMDA4MDgzNDk2XX0=
 -->
