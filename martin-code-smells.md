@@ -31,8 +31,12 @@ Object Oriented Abusers are a particular genre of Code Smells which refers to in
 
 #### Alternative Classes with Different Interfaces
 >This smell occurs when two methods in different classes do the same thing but have a different method signature
+>**categories of different tunes with equal performance** .
+
+>When many people develop the system together, different people may write similar code to deal with the same problem, but due to poor communication, each other did not notice this phenomenon. Therefore, these functions are similar or the same code, with different interfaces (different names or parameters) exist in the system at the same time
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY5NTYzNzgsMTEyOTU1Nzk1NCwtNT
-EwMjU4MTUsNTkzODQ2ODA4LDgzNjMxNDc4Niw1ODY2NjQzOTYs
-LTE4MDMzMjIzMSwtMjk3Njg0NDg0LDEwMDgwODM0OTZdfQ==
+eyJoaXN0b3J5IjpbLTE0MzQ0OTY3OCwtMTA2Njk1NjM3OCwxMT
+I5NTU3OTU0LC01MTAyNTgxNSw1OTM4NDY4MDgsODM2MzE0Nzg2
+LDU4NjY2NDM5NiwtMTgwMzMyMjMxLC0yOTc2ODQ0ODQsMTAwOD
+A4MzQ5Nl19
 -->
