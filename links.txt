@@ -1,0 +1,9 @@
+https://www.red-gate.com/simple-talk/dotnet/net-framework/exploring-smelly-code/
+http://mikamantyla.eu/BadCodeSmellsTaxonomy.html
+https://codeburst.io/write-clean-code-and-get-rid-of-code-smells-aea271f30318
+
+https://www.sihui.io/code-smell-cheat-sheet/
+https://condor.depaul.edu/~dmumaugh/OOT/Design-Principles/
+https://stackoverflow.com/questions/1103985/method-chaining-why-is-it-a-good-practice-or-not
+http://wiki3.cosc.canterbury.ac.nz/index.php/Defer_identification_of_state_variables_pattern
+}
