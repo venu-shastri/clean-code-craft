@@ -11,6 +11,13 @@
 - How do I govern who can communicate with whom (dependencies)?
 
 #### Abstraction – the Key to Master Complexity
+---
+>Once you realize that computing is all about constructing, manipulating, and reasoning about abstractions, it becomes clear that an important prerequisite for writing (good) computer programs is the ability to handle abstractions in a precise manner. As it happens, that is something we humans have been doing successfully for more than three thousand years. We call it mathematics 
+>-(Devlin, 2003)
+
+>Abstraction is the selective examination of certain aspects of a problem,
+Abstraction must always be for a purpose, because the purpose decides what is and is not important. 
+A good model captures the crucial aspects of a problem and omits the others. (Rumbaugh et al., 1991)
 
 #### Guiding Principles for Object Oriented Decomposition
 - Information hiding ,
@@ -63,9 +70,21 @@ have no cycles
 -  A member function is allowed to call member functions on member variables that are in its class scope directly.
 -  If a member function has parameters, the member function is allowed to call the member functions of these parameters directly.
 -  If a member function creates local objects, the member function is allowed to call member functions on those local objects.
+Object form of Law of Demeter (DemeterW3; Martin, 2003)
+### Simplified (Martin)
+A method m of a class C, can only call methods of:
+• C
+• An object passed as an argument to m.
+• An object created by m.
+• An object held in an instance variable of C
+
+### ISP
+-----------------------------------------------------------------------------------
+Example from Martin (2003): In a security system there are Door objects that can be locked and unlocked, and they know whether they are locked or not. In the spirit of the DIP, the Door class is made abstract thereby allowing clients to use objects with this behaviour without having to depend on a particular implementation . A TimedDoor is an implementation of Door that sounds an alarm when when the door has been left open too long. To manage this, the TimedDoor object collaborates with a Timer object. The Timer object keeps a reference to a TimerClient object whose timeOut method is to be called when time expires.-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDUyMTM4NzYsLTYxMDg2MDE4NCwtMT
-gyNjI1MTc2MSwtMTc3MDUwNDY3OCwyMDc3NzQwNjY1LC03Mjk0
-MzIxMDIsMTAzNzQ5MDA4LC0xNjI1MjQ3MDEwLC0yMDg4NzQ2Nj
-EyXX0=
+eyJoaXN0b3J5IjpbNDUzMzA4Nzg2LC0xODU0OTk4NDIyLC0xMj
+E0ODk0NDg0LC0xNzA1MjEzODc2LC02MTA4NjAxODQsLTE4MjYy
+NTE3NjEsLTE3NzA1MDQ2NzgsMjA3Nzc0MDY2NSwtNzI5NDMyMT
+AyLDEwMzc0OTAwOCwtMTYyNTI0NzAxMCwtMjA4ODc0NjYxMl19
+
 -->

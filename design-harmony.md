@@ -99,10 +99,123 @@ Case II: Duplication Within the Same Hierarchy
 Case III: Duplication Within Unrelated Classes
 
 
+## Collaboration Collaboration Harmony
+
+### Rule
+>Collaborations should be only in terms of method
+invocations and have a limited extent, intensity and
+dispersion
+
+>You want to leverage the services of other classes, but you want to have services at the right level, so that you want to know only about a limited number of objects and their services. [...] If you had to interact with all the indirectly related objects, we’d have a tangled web of inter-dependencies and maintenance would be a nightmare
+--Lorenz and Kidd
+#### intensity – 
+>Operations should collaborate (mainly unidirectional) with a limited number of services provided by other classes
+
+### extent – 
+> Operations (and consequently their classes) should collaborate with operations from a limited number
+of other classes.
+
+### dispersion –
+ The collaborators (i.e., invoked and/or invoking operations) of an operation should have a limited
+dispersion within the system. Thus, one should try to make an entity collaborate closely only with a selected set of entities, with a preference for entities  located in the
+ (0) same abstraction; 
+ 1) same hierarchy; 
+ (2) same package (or subsystem).
+
+### Note
+The term Collaborate refers both to the active (i.e., call another operation) and to the passive (i.e., be called (invoked) by another operation) aspects.
+
+### Collaboration Disharmonies
+
+####  Intensive Coupling
+----
+- when a method is tied to many other operations in the system
+- The communication between the client method and (at least one of) its provider classes is excessively verbose
+-impact 
+ >An operation which is intensively coupled with methods from a handful of classes binds it strongly to those classes
+ >Understanding the relation between the two sides (i.e., the client method and the classes providing services) becomes more difficult
+- Detection Strategy
+-Two following conditions that must Detection be fulfilled simultaneously
+- The function invokes many methods and
+the invoked methods are not very much dispersed into many classes
+
+- Refactoring
+	- Define a new service in the provider class and replace the multiple calls with a single call to the newly defined method
+
+####  Dispersed Coupling
+----
+- An operation which is excessively tied to many other operations in the system, and additionally these provider methods that are dispersed among many classes
+- single operation communicates with an excessive number of provider classes, whereby the communication with each of the classes is not very intense i.e., the operation calls one or a few methods from each class.
+- Impact
+>Dispersively coupled operations lead to undesired ripple effects, be- Impact cause a change in an dispersively coupled method potentially leads to changes in all the coupled and therefore dependent classes
+- Detection Strategy
+	- capture only those operations that have a high dispersion of their coupling
+		- Operation calls a few methods from each of a    large number of unrelated classes
+- Note
+>In many cases the operation that exhibits Dispersed Coupling is also a Brain Method  because An excessively
+large and complex operation is almost always non-cohesive, doing more than one thing; and therefore there will be many invocations to methods from many classes
+- Refactoring
+	- Anything in the client method (i.e., the
+one affected by Dispersed Coupling)that could be moved to one of the lightweight methods that it invokes
+
+#### Shotgun Surgery
+---
+>change in an operation implies many (small) changes to a lot of different operations and classes 
+>Concerns Spread Everywhere
+
+- Impact
+	- Changes become more time-consuming, since you have to edit your codebase in more places.
+	-  Merge conflicts become more likely, since more people are touching the code in more places. This generally makes collaborative projects more dicey.
+	- You’re more likely to introduce bugs because of the cognitive load of remembering to change the code in more places. If a simple feature requires you to make changes in 7 files, there’s a decent chance you won’t remember all 7. This can lead to more labor-intensive QA efforts and even to production defects.
+	- You wind up with more code, due to the fact that you’ll have knowledge duplication and more constructs required to glue the various disparate pieces together.
+	- The learning curve is higher for new team members, since development is something of a treasure hunt
+
+- Detection
+	- Operation is called by too many other methods
+	- Incoming calls are from many classes
+	- Audit your source control tool, or else just mentally pay attention to how many files you’re touching while making conceptually simple changes. If it’s a lot, then you’ve got an issue.
+	- 
+## Classification Harmony 
+- The object-oriented programming paradigm captures the is-a-kind-of relationship among classes with **inheritance** . Inheritance is at the same time a curse and a blessing of the object oriented paradigm .Inheritance should be used with care and style.
+
+#### Rules
+---
+- Keep a balance between the inherited interface and its extension (through addition of new services)
+- Do not refuse (deny, “cut off”) any parts of an ancestor’s interface and specialize rather than override the inherited services (i.e., the inherited public methods)
+- Root classes should be rather abstract or the other way around: abstract classes should be situated close to the top of a hierarchy and not somewhere in the middle of a hierarchy.
+- Base classes should not depend on their descendants.
+	- Developers who do not have a “complete picture” of the system just reuse pieces of code whenever they see something useful to them.
+	- Inherited operations should be used (i.e., redefined, called, specialized) most of the time in the context of refining (specializing) the inherited services, rather than calling them from newly added services.
+
+### Classification Disharmonies
+---
+#### Refused Parent Bequest
+-	child class refuses to use this special bequest prepared by its parent 
+-	Rebellious Hierarchy smell
+-	Detection and Refactoring
+	-	Case A: False Child Class
+		-	Hierarchy might be ill-designed
+		-	The child class has no inheritance-specific dependencies on the parent class
+		-	Extract whole class from the hierarchy
+	-	Case B: Irrelevant Bequest
+		-	Inheritance-specific members is over-populated with methods and attributes that have no relevance in the context of the inheritance relation
+		
+		-	For each protected member, count the number of usages from derived classes; in case of protected methods, this includes overriding or specialization of that method in derived classes. If the number of dependencies is null, i.e., if a member is used only from inside the definition class, then it should be moved to a private scope
+	- Case C: Discriminatory Bequest
+		- when the parent class has many child classes, and the bequest offered by it is relevant only for some of these siblings,  but not for the class affected by Refused
+Parent Bequest
+		-	Extract extracting the parts that are not used by all descendants to a helper class and letting the parent class have a reference to an instance of the helper
+class 
+
+- Tradition Baker
+		
 	
-			
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTMyNjgxNSwxMzM4ODIyMzgyLDExMz
-A5MDE4NjYsOTI0NzYyNDg5LDE4ODAxNDAyMiw0NjczNDQ4NzJd
-fQ==
+eyJoaXN0b3J5IjpbMTAyNTYxNTM1LDI2Mjk0Mzc4OCwzNDEyMT
+cxNzAsLTExOTQ1NzkwNjksMTUxODI3NDcxOCwtMTI4ODQ0NzQ3
+NywtMzU0NzI4NDA4LDEyMjY1MjMyODgsMTkzMzQ4OTI3OSwtMT
+E4NDM4NTEyMiwtMTQ3MTQzMjY4MCwtMTA4NjQyMTc1NywtNzAz
+MDM4MDAsLTE0MTc0NDQzMDMsNjI1MDc1NTk0LDE3NzYyNTY3ND
+EsLTE4MzgyMzM2OTcsLTE2Nzk5NjE2MzQsMTcwNzQ1MzY4NCw0
+NzQ0MTYxODddfQ==
 -->
